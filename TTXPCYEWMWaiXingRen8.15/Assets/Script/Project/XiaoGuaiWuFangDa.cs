@@ -9,7 +9,7 @@ public class XiaoGuaiWuFangDa : MonoBehaviour {
     //[HideInInspector]
     public bool isCanClick;
     public float FangDaSpeed;
-
+    public GameObject XueTiao;
 	// Use this for initialization
 	void Start () {
         FangDaSpeed = 0;
@@ -23,14 +23,14 @@ public class XiaoGuaiWuFangDa : MonoBehaviour {
             if (FangDaSpeed <= 1)
             {
                 FangDaSpeed = FangDaSpeed + 0.01f;
-                this.transform.localScale = new Vector3(FangDaSpeed, FangDaSpeed, FangDaSpeed);
-                //this.transform.Rotate(0,0, XuanZhuangSpeed*Time.deltaTime);               
+                this.transform.localScale = new Vector3(FangDaSpeed, FangDaSpeed, FangDaSpeed);              
             }
             else
             {
                 ReStart();
                 isCanClick = true;
-                this.transform.GetChild(0).GetComponent<Animator>().enabled=true;
+                this.transform.GetComponent<Animation>().Play("GuaiWuHengYiAnimation");
+                XueTiao.SetActive(true);
             }
         }
 	}

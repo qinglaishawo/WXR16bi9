@@ -7,6 +7,7 @@ using UnityEngine.EventSystems;
 public class GuaiWuCode : MonoBehaviour
 {
     public List<GameObject> GuaiWus = new List<GameObject>();
+    public GameObject XueTiao;
     public List<Sprite> Sprites = new List<Sprite>();
     public Camera mainCamera;
     public static bool isStart;
@@ -16,17 +17,22 @@ public class GuaiWuCode : MonoBehaviour
     private int LastInt;
     public GameObject manager;
     public GameObject GuaiWuImage;
+    private int GuaiWu1ClickIndex;
+   
     // Use this for initialization
     void Start()
-    {        
+    {
         CurGuaiCount = 15;
-        for(int i=0;i< Sprites.Count; i++)
+        for (int i = 0; i < Sprites.Count; i++)
         {
             TempSprites.Add(Sprites[i]);
         }
-
+        for(int i=0;i< GuaiWus.Count; i++)
+        {
+            GuaiWus[i].transform.localScale=new Vector3(0,0,0);
+        }
         //gai
-        //StartCoroutine(StartAppear());
+        StartCoroutine(StartAppear());
     }
 
     public IEnumerator StartAppear()
@@ -36,27 +42,20 @@ public class GuaiWuCode : MonoBehaviour
         yield return new WaitForSeconds(2);
         GuaiWuImage.SetActive(false);
         yield return new WaitForSeconds(3);
-        for(int i=0;i< GuaiWus.Count;i++)
+        for (int i = 0; i < GuaiWus.Count; i++)
         {
-            ObjAppear(GuaiWus[i]);
+            ObjAppear(GuaiWus[i],i+1);
         }
-        
-        /*int TempInt1 = Random.Range(0, 3);
-        ObjAppear(DiYiPai[TempInt1]);
-        yield return new WaitForSeconds(1);
-        int TempInt2 = Random.Range(0, 3);
-        ObjAppear(DiErPai[TempInt2]);
-        yield return new WaitForSeconds(1);
-        int TempInt3 = Random.Range(0, 3);
-        ObjAppear(DiSanPai[TempInt3]);*/
+        Manager.TimerState = 1;
+        Manager.isStartGuaiWu = true;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Manager.isStartGuaiWu&& Manager.TimerState == 1)
+        if (Manager.isStartGuaiWu && Manager.TimerState == 1)
         {
-            if (Time.time - Manager.Timer >=120)
+            if (Time.time - Manager.Timer >= 120)
             {
                 print("怪物自动消失");
                 Manager.isStartGuaiWu = false;
@@ -73,43 +72,27 @@ public class GuaiWuCode : MonoBehaviour
         {
             if (Manager.isStartGuaiWu && Manager.TimerState == 1)
             {
-
-                /*if (thisObj.tag == "YiPaiGuai")
+                GuaiWu1ClickIndex++;
+                thisObj.transform.GetComponent<Animation>()["GuaiWuHengYiAnimation"].normalizedSpeed = 0;
+                thisObj.transform.GetComponent<Animation>().Play("ImageScaleAnimation");
+                StartCoroutine(TempWait(thisObj.transform.GetComponent<Animation>()["GuaiWuHengYiAnimation"].normalizedTime, thisObj));
+                thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount= thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount-0.33f;
+                if (GuaiWu1ClickIndex == 3)
                 {
-                    thisObj.SetActive(false);
-                    thisObj.transform.localScale = new Vector3(0, 0, 0);
-                    int TempInt1 = Random.Range(0, 3);
-                    ObjAppear(DiYiPai[TempInt1]);
-                }
-                if (thisObj.tag == "ErPaiGuai")
-                {
-                    thisObj.SetActive(false);
-                    thisObj.transform.localScale = new Vector3(0, 0, 0);
-                    int TempInt2 = Random.Range(0, 3);
-                    ObjAppear(DiErPai[TempInt2]);
-                }
-                if (thisObj.tag == "SanPaiGuai")
-                {
-                    thisObj.SetActive(false);
-                    thisObj.transform.localScale = new Vector3(0, 0, 0);
-                    int TempInt3 = Random.Range(0, 3);
-                    ObjAppear(DiSanPai[TempInt3]);
-                }*/
-                if (CurGuaiCount == 0)
-                {
-                    LastInt++;
-                    print(LastInt);
-                    if (LastInt == 4)
-                    {
-                        print("正真完成,手动怪物消失");
-                        AnimalAppear();
-                        Manager.isStartGuaiWu = false;
-                        Manager.TimerState = 2;
-                        Manager.Timer = Time.time;
-                    }
+                    thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount = 0;
+                    print("被打死");
                 }
             }
         }
+    }
+
+    IEnumerator TempWait(float f,GameObject obj)
+    {
+        yield return new WaitForSeconds(0.4f);
+        obj.transform.GetComponent<Animation>().Stop();
+        obj.transform.GetComponent<Animation>()["GuaiWuHengYiAnimation"].normalizedTime = f;
+        obj.transform.GetComponent<Animation>()["GuaiWuHengYiAnimation"].normalizedSpeed = 1;
+        obj.transform.GetComponent<Animation>().Play("GuaiWuHengYiAnimation");
     }
 
     private void SuiJiF(Image image)
@@ -120,16 +103,18 @@ public class GuaiWuCode : MonoBehaviour
             SuiJiSprite = TempSprites[tempInt];
             image.sprite = SuiJiSprite;
             TempSprites.RemoveAt(tempInt);
-            
         }
     }
 
-    private void ObjAppear(GameObject obj)
+    private void ObjAppear(GameObject obj,int index)
     {
-        if (CurGuaiCount != 0)
+        if (CurGuaiCount != 8)
         {
+            if (index == 1)
+            {
+                GuaiWu1ClickIndex = 0;
+            }
             SuiJiF(obj.transform.GetChild(0).GetComponent<Image>());
-            obj.transform.GetChild(0).GetComponent<Animator>().enabled = false;
             obj.transform.localScale = new Vector3(0, 0, 0);
             obj.SetActive(true);
             obj.GetComponent<XiaoGuaiWuFangDa>().isStartFangDa = true;
@@ -137,7 +122,11 @@ public class GuaiWuCode : MonoBehaviour
             CurGuaiCount--;
             if (CurGuaiCount ==8)
             {
-                print("完成");
+                print("正真完成,手动怪物消失");
+                AnimalAppear();
+                Manager.isStartGuaiWu = false;
+                Manager.TimerState = 2;
+                Manager.Timer = Time.time;
             }
         }
     }
