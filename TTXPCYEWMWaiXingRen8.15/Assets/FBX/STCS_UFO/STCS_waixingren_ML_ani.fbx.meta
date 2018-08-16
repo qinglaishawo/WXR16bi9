@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 11e431600710af44db006105e0b88beb
+timeCreated: 1447913753
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: renwu:STCS_waixingren_moli_MD
+    100002: renwu:STCS_waixingren_moli_MD_10
+    100004: renwu:STCS_waixingren_moli_MD_11
+    100006: renwu:STCS_waixingren_moli_MD_12
+    100008: renwu:STCS_waixingren_moli_MD_13
+    100010: renwu:STCS_waixingren_moli_MD_14
+    100012: renwu:STCS_waixingren_moli_MD_15
+    100014: renwu:STCS_waixingren_moli_MD_16
+    100016: renwu:STCS_waixingren_moli_MD_17
+    100018: renwu:STCS_waixingren_moli_MD_18
+    100020: renwu:STCS_waixingren_moli_MD_19
+    100022: renwu:STCS_waixingren_moli_MD_20
+    100024: //RootNode
+    100026: DJ:pasted__Plane001
+    100028: group24
+    100030: renwu1:Object046
+    100032: renwu1:Object047
+    100034: renwu1:Object048
+    100036: renwu1:Object050
+    100038: renwu1:Object052
+    100040: renwu1:Object054
+    100042: renwu1:Object055
+    100044: renwu1:Object056
+    100046: renwu1:Object057
+    100048: renwu1:Object059
+    100050: renwu1:Object060
+    100052: renwu1:Object064
+    100054: renwu1:Object066
+    100056: renwu1:Object070
+    100058: renwu1:Object114
+    100060: renwu1:Object124
+    100062: renwu1:Object125
+    100064: renwu1:Object161
+    100066: renwu1:Object162
+    100068: renwu1:Object195
+    100070: renwu1:Object196
+    100072: renwu1:Object197
+    100074: renwu1:Object198
+    100076: renwu1:Object199
+    100078: renwu1:Object200
+    100080: renwu1:Object201
+    100082: renwu1:Object202
+    100084: renwu1:STCS_renwu_MD
+    100086: renwu1:STCS_renwu_moli_taikong_MD
+    400000: renwu:STCS_waixingren_moli_MD
+    400002: renwu:STCS_waixingren_moli_MD_10
+    400004: renwu:STCS_waixingren_moli_MD_11
+    400006: renwu:STCS_waixingren_moli_MD_12
+    400008: renwu:STCS_waixingren_moli_MD_13
+    400010: renwu:STCS_waixingren_moli_MD_14
+    400012: renwu:STCS_waixingren_moli_MD_15
+    400014: renwu:STCS_waixingren_moli_MD_16
+    400016: renwu:STCS_waixingren_moli_MD_17
+    400018: renwu:STCS_waixingren_moli_MD_18
+    400020: renwu:STCS_waixingren_moli_MD_19
+    400022: renwu:STCS_waixingren_moli_MD_20
+    400024: //RootNode
+    400026: DJ:pasted__Plane001
+    400028: group24
+    400030: renwu1:Object046
+    400032: renwu1:Object047
+    400034: renwu1:Object048
+    400036: renwu1:Object050
+    400038: renwu1:Object052
+    400040: renwu1:Object054
+    400042: renwu1:Object055
+    400044: renwu1:Object056
+    400046: renwu1:Object057
+    400048: renwu1:Object059
+    400050: renwu1:Object060
+    400052: renwu1:Object064
+    400054: renwu1:Object066
+    400056: renwu1:Object070
+    400058: renwu1:Object114
+    400060: renwu1:Object124
+    400062: renwu1:Object125
+    400064: renwu1:Object161
+    400066: renwu1:Object162
+    400068: renwu1:Object195
+    400070: renwu1:Object196
+    400072: renwu1:Object197
+    400074: renwu1:Object198
+    400076: renwu1:Object199
+    400078: renwu1:Object200
+    400080: renwu1:Object201
+    400082: renwu1:Object202
+    400084: renwu1:STCS_renwu_MD
+    400086: renwu1:STCS_renwu_moli_taikong_MD
+    2300000: renwu:STCS_waixingren_moli_MD_10
+    2300002: renwu:STCS_waixingren_moli_MD_11
+    2300004: renwu:STCS_waixingren_moli_MD_12
+    2300006: renwu:STCS_waixingren_moli_MD_13
+    2300008: renwu:STCS_waixingren_moli_MD_14
+    2300010: renwu:STCS_waixingren_moli_MD_15
+    2300012: renwu:STCS_waixingren_moli_MD_16
+    2300014: renwu:STCS_waixingren_moli_MD_17
+    2300016: renwu:STCS_waixingren_moli_MD_18
+    2300018: renwu:STCS_waixingren_moli_MD_19
+    2300020: renwu:STCS_waixingren_moli_MD_20
+    2300022: DJ:pasted__Plane001
+    2300024: renwu1:Object046
+    2300026: renwu1:Object047
+    2300028: renwu1:Object048
+    2300030: renwu1:Object050
+    2300032: renwu1:Object052
+    2300034: renwu1:Object054
+    2300036: renwu1:Object055
+    2300038: renwu1:Object056
+    2300040: renwu1:Object057
+    2300042: renwu1:Object059
+    2300044: renwu1:Object060
+    2300046: renwu1:Object064
+    2300048: renwu1:Object066
+    2300050: renwu1:Object070
+    2300052: renwu1:Object114
+    2300054: renwu1:Object124
+    2300056: renwu1:Object125
+    2300058: renwu1:Object161
+    2300060: renwu1:Object162
+    2300062: renwu1:Object195
+    2300064: renwu1:Object196
+    2300066: renwu1:Object197
+    2300068: renwu1:Object198
+    2300070: renwu1:Object199
+    2300072: renwu1:Object200
+    2300074: renwu1:Object201
+    2300076: renwu1:Object202
+    3300000: renwu:STCS_waixingren_moli_MD_10
+    3300002: renwu:STCS_waixingren_moli_MD_11
+    3300004: renwu:STCS_waixingren_moli_MD_12
+    3300006: renwu:STCS_waixingren_moli_MD_13
+    3300008: renwu:STCS_waixingren_moli_MD_14
+    3300010: renwu:STCS_waixingren_moli_MD_15
+    3300012: renwu:STCS_waixingren_moli_MD_16
+    3300014: renwu:STCS_waixingren_moli_MD_17
+    3300016: renwu:STCS_waixingren_moli_MD_18
+    3300018: renwu:STCS_waixingren_moli_MD_19
+    3300020: renwu:STCS_waixingren_moli_MD_20
+    3300022: DJ:pasted__Plane001
+    3300024: renwu1:Object046
+    3300026: renwu1:Object047
+    3300028: renwu1:Object048
+    3300030: renwu1:Object050
+    3300032: renwu1:Object052
+    3300034: renwu1:Object054
+    3300036: renwu1:Object055
+    3300038: renwu1:Object056
+    3300040: renwu1:Object057
+    3300042: renwu1:Object059
+    3300044: renwu1:Object060
+    3300046: renwu1:Object064
+    3300048: renwu1:Object066
+    3300050: renwu1:Object070
+    3300052: renwu1:Object114
+    3300054: renwu1:Object124
+    3300056: renwu1:Object125
+    3300058: renwu1:Object161
+    3300060: renwu1:Object162
+    3300062: renwu1:Object195
+    3300064: renwu1:Object196
+    3300066: renwu1:Object197
+    3300068: renwu1:Object198
+    3300070: renwu1:Object199
+    3300072: renwu1:Object200
+    3300074: renwu1:Object201
+    3300076: renwu1:Object202
+    4300000: renwu:STCS_waixingren_moli_MD_10
+    4300002: renwu:STCS_waixingren_moli_MD_12
+    4300004: renwu:STCS_waixingren_moli_MD_13
+    4300006: renwu:STCS_waixingren_moli_MD_11
+    4300008: renwu:STCS_waixingren_moli_MD_19
+    4300010: renwu:STCS_waixingren_moli_MD_20
+    4300012: renwu:STCS_waixingren_moli_MD_14
+    4300014: renwu:STCS_waixingren_moli_MD_15
+    4300016: renwu:STCS_waixingren_moli_MD_16
+    4300018: renwu:STCS_waixingren_moli_MD_17
+    4300020: renwu:STCS_waixingren_moli_MD_18
+    4300022: DJ:pasted__Plane001
+    4300024: renwu1:Object055
+    4300026: renwu1:Object198
+    4300028: renwu1:Object197
+    4300030: renwu1:Object059
+    4300032: renwu1:Object199
+    4300034: renwu1:Object200
+    4300036: renwu1:Object060
+    4300038: renwu1:Object195
+    4300040: renwu1:Object046
+    4300042: renwu1:Object064
+    4300044: renwu1:Object047
+    4300046: renwu1:Object196
+    4300048: renwu1:Object048
+    4300050: renwu1:Object066
+    4300052: renwu1:Object070
+    4300054: renwu1:Object050
+    4300056: renwu1:Object052
+    4300058: renwu1:Object054
+    4300060: renwu1:Object056
+    4300062: renwu1:Object057
+    4300064: renwu1:Object114
+    4300066: renwu1:Object124
+    4300068: renwu1:Object125
+    4300070: renwu1:Object161
+    4300072: renwu1:Object201
+    4300074: renwu1:Object162
+    4300076: renwu1:Object202
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 34
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10/renwu:STCS_waixingren_moli_MD_11
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10/renwu:STCS_waixingren_moli_MD_12
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10/renwu:STCS_waixingren_moli_MD_13
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10/renwu:STCS_waixingren_moli_MD_19
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10/renwu:STCS_waixingren_moli_MD_20
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_14
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_15
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_16
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_17
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_18
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 34
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10/renwu:STCS_waixingren_moli_MD_11
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10/renwu:STCS_waixingren_moli_MD_12
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10/renwu:STCS_waixingren_moli_MD_13
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10/renwu:STCS_waixingren_moli_MD_19
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_10/renwu:STCS_waixingren_moli_MD_20
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_14
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_15
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_16
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_17
+        weight: 1
+      - path: renwu:STCS_waixingren_moli_MD/renwu:STCS_waixingren_moli_MD_18
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

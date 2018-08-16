@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 2cce315959368e746915ddc649f4d710
+timeCreated: 1447911989
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bg_BB_cn:duoshou1
+    100002: bg_BB_cn:duoshou:c01
+    100004: bg_BB_cn:duoshou:c02
+    100006: bg_BB_cn:duoshou:c03
+    100008: bg_BB_cn:duoshou:group
+    100010: bg_BB_cn:duoshou:group1
+    100012: bg_BB_cn:duoshou:joint1
+    100014: bg_BB_cn:duoshou:joint10
+    100016: bg_BB_cn:duoshou:joint11
+    100018: bg_BB_cn:duoshou:joint12
+    100020: bg_BB_cn:duoshou:joint13
+    100022: bg_BB_cn:duoshou:joint14
+    100024: bg_BB_cn:duoshou:joint15
+    100026: bg_BB_cn:duoshou:joint16
+    100028: bg_BB_cn:duoshou:joint17
+    100030: bg_BB_cn:duoshou:joint18
+    100032: bg_BB_cn:duoshou:joint19
+    100034: bg_BB_cn:duoshou:joint2
+    100036: bg_BB_cn:duoshou:joint20
+    100038: bg_BB_cn:duoshou:joint21
+    100040: bg_BB_cn:duoshou:joint22
+    100042: bg_BB_cn:duoshou:joint23
+    100044: bg_BB_cn:duoshou:joint24
+    100046: bg_BB_cn:duoshou:joint25
+    100048: bg_BB_cn:duoshou:joint26
+    100050: bg_BB_cn:duoshou:joint27
+    100052: bg_BB_cn:duoshou:joint28
+    100054: bg_BB_cn:duoshou:joint29
+    100056: bg_BB_cn:duoshou:joint3
+    100058: bg_BB_cn:duoshou:joint30
+    100060: bg_BB_cn:duoshou:joint31
+    100062: bg_BB_cn:duoshou:joint32
+    100064: bg_BB_cn:duoshou:joint34
+    100066: bg_BB_cn:duoshou:joint35
+    100068: bg_BB_cn:duoshou:joint36
+    100070: bg_BB_cn:duoshou:joint37
+    100072: bg_BB_cn:duoshou:joint38
+    100074: bg_BB_cn:duoshou:joint39
+    100076: bg_BB_cn:duoshou:joint4
+    100078: bg_BB_cn:duoshou:joint40
+    100080: bg_BB_cn:duoshou:joint41
+    100082: bg_BB_cn:duoshou:joint5
+    100084: bg_BB_cn:duoshou:joint6
+    100086: bg_BB_cn:duoshou:joint7
+    100088: bg_BB_cn:duoshou:joint8
+    100090: bg_BB_cn:duoshou:joint9
+    100092: bg_BB_cn:duoshou:nurbsCircle1
+    100094: bg_BB_cn:duoshou:pasted__Object020
+    100096: bg_BB_cn:duoshou:pasted__Object021
+    100098: bg_BB_cn:duoshou:pasted__Object022
+    100100: bg_BB_cn:duoshou:pasted__Object027
+    100102: bg_BB_cn:duoshou:pasted__Plane004
+    100104: bg_BB_cn:duoshou:pasted__STCS_waixingren_12_MD
+    100106: bg_BB_cn:duoshou:transform1
+    100108: //RootNode
+    100110: bg_BB_cn1:BB
+    100112: bg_BB_cn1:duoshou1
+    100114: bg_BB_cn1:duoshou:group
+    100116: bg_BB_cn1:duoshou:group1
+    100118: bg_BB_cn1:duoshou:pasted__STCS_waixingren_12_MD
+    100120: bg_BB_cn2:BB
+    100122: bg_BB_cn2:duoshou1
+    100124: bg_BB_cn2:duoshou:group1
+    100126: bg_BB_cn2:duoshou:nurbsCircle1
+    100128: bg_BB_cn2:duoshou:transform1
+    100130: bg_BB_cn:BB
+    100132: group
+    100134: group1
+    400000: bg_BB_cn:duoshou1
+    400002: bg_BB_cn:duoshou:c01
+    400004: bg_BB_cn:duoshou:c02
+    400006: bg_BB_cn:duoshou:c03
+    400008: bg_BB_cn:duoshou:group
+    400010: bg_BB_cn:duoshou:group1
+    400012: bg_BB_cn:duoshou:joint1
+    400014: bg_BB_cn:duoshou:joint10
+    400016: bg_BB_cn:duoshou:joint11
+    400018: bg_BB_cn:duoshou:joint12
+    400020: bg_BB_cn:duoshou:joint13
+    400022: bg_BB_cn:duoshou:joint14
+    400024: bg_BB_cn:duoshou:joint15
+    400026: bg_BB_cn:duoshou:joint16
+    400028: bg_BB_cn:duoshou:joint17
+    400030: bg_BB_cn:duoshou:joint18
+    400032: bg_BB_cn:duoshou:joint19
+    400034: bg_BB_cn:duoshou:joint2
+    400036: bg_BB_cn:duoshou:joint20
+    400038: bg_BB_cn:duoshou:joint21
+    400040: bg_BB_cn:duoshou:joint22
+    400042: bg_BB_cn:duoshou:joint23
+    400044: bg_BB_cn:duoshou:joint24
+    400046: bg_BB_cn:duoshou:joint25
+    400048: bg_BB_cn:duoshou:joint26
+    400050: bg_BB_cn:duoshou:joint27
+    400052: bg_BB_cn:duoshou:joint28
+    400054: bg_BB_cn:duoshou:joint29
+    400056: bg_BB_cn:duoshou:joint3
+    400058: bg_BB_cn:duoshou:joint30
+    400060: bg_BB_cn:duoshou:joint31
+    400062: bg_BB_cn:duoshou:joint32
+    400064: bg_BB_cn:duoshou:joint34
+    400066: bg_BB_cn:duoshou:joint35
+    400068: bg_BB_cn:duoshou:joint36
+    400070: bg_BB_cn:duoshou:joint37
+    400072: bg_BB_cn:duoshou:joint38
+    400074: bg_BB_cn:duoshou:joint39
+    400076: bg_BB_cn:duoshou:joint4
+    400078: bg_BB_cn:duoshou:joint40
+    400080: bg_BB_cn:duoshou:joint41
+    400082: bg_BB_cn:duoshou:joint5
+    400084: bg_BB_cn:duoshou:joint6
+    400086: bg_BB_cn:duoshou:joint7
+    400088: bg_BB_cn:duoshou:joint8
+    400090: bg_BB_cn:duoshou:joint9
+    400092: bg_BB_cn:duoshou:nurbsCircle1
+    400094: bg_BB_cn:duoshou:pasted__Object020
+    400096: bg_BB_cn:duoshou:pasted__Object021
+    400098: bg_BB_cn:duoshou:pasted__Object022
+    400100: bg_BB_cn:duoshou:pasted__Object027
+    400102: bg_BB_cn:duoshou:pasted__Plane004
+    400104: bg_BB_cn:duoshou:pasted__STCS_waixingren_12_MD
+    400106: bg_BB_cn:duoshou:transform1
+    400108: //RootNode
+    400110: bg_BB_cn1:BB
+    400112: bg_BB_cn1:duoshou1
+    400114: bg_BB_cn1:duoshou:group
+    400116: bg_BB_cn1:duoshou:group1
+    400118: bg_BB_cn1:duoshou:pasted__STCS_waixingren_12_MD
+    400120: bg_BB_cn2:BB
+    400122: bg_BB_cn2:duoshou1
+    400124: bg_BB_cn2:duoshou:group1
+    400126: bg_BB_cn2:duoshou:nurbsCircle1
+    400128: bg_BB_cn2:duoshou:transform1
+    400130: bg_BB_cn:BB
+    400132: group
+    400134: group1
+    2300000: bg_BB_cn:duoshou:pasted__Object020
+    2300002: bg_BB_cn:duoshou:pasted__Object021
+    2300004: bg_BB_cn:duoshou:pasted__Object022
+    2300006: bg_BB_cn:duoshou:pasted__Object027
+    3300000: bg_BB_cn:duoshou:pasted__Object020
+    3300002: bg_BB_cn:duoshou:pasted__Object021
+    3300004: bg_BB_cn:duoshou:pasted__Object022
+    3300006: bg_BB_cn:duoshou:pasted__Object027
+    4300000: bg_BB_cn:duoshou:pasted__Object021
+    4300002: bg_BB_cn:duoshou:pasted__Object027
+    4300004: bg_BB_cn:duoshou:pasted__Object022
+    4300006: bg_BB_cn:duoshou:pasted__Object020
+    4300008: bg_BB_cn:duoshou:pasted__Plane004
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: bg_BB_cn:duoshou:pasted__Plane004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bg_BB_cn:duoshou1
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group/bg_BB_cn:duoshou:pasted__STCS_waixingren_12_MD
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group/bg_BB_cn:duoshou:pasted__STCS_waixingren_12_MD/bg_BB_cn:duoshou:pasted__Plane004
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:joint3
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:joint3/bg_BB_cn:duoshou:joint4
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:joint5
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:joint5/bg_BB_cn:duoshou:joint6
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:pasted__Object021
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:pasted__Object022
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:pasted__Object027
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7/bg_BB_cn:duoshou:joint8
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7/bg_BB_cn:duoshou:joint8/bg_BB_cn:duoshou:joint9
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7/bg_BB_cn:duoshou:joint8/bg_BB_cn:duoshou:joint9/bg_BB_cn:duoshou:joint10
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7/bg_BB_cn:duoshou:joint8/bg_BB_cn:duoshou:joint9/bg_BB_cn:duoshou:joint11
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7/bg_BB_cn:duoshou:joint8/bg_BB_cn:duoshou:joint9/bg_BB_cn:duoshou:joint12
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14/bg_BB_cn:duoshou:joint15
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14/bg_BB_cn:duoshou:joint15/bg_BB_cn:duoshou:joint16
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14/bg_BB_cn:duoshou:joint15/bg_BB_cn:duoshou:joint16/bg_BB_cn:duoshou:joint17
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14/bg_BB_cn:duoshou:joint15/bg_BB_cn:duoshou:joint16/bg_BB_cn:duoshou:joint18
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14/bg_BB_cn:duoshou:joint15/bg_BB_cn:duoshou:joint16/bg_BB_cn:duoshou:joint19
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21/bg_BB_cn:duoshou:joint22
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21/bg_BB_cn:duoshou:joint22/bg_BB_cn:duoshou:joint23
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21/bg_BB_cn:duoshou:joint22/bg_BB_cn:duoshou:joint23/bg_BB_cn:duoshou:joint24
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21/bg_BB_cn:duoshou:joint22/bg_BB_cn:duoshou:joint23/bg_BB_cn:duoshou:joint25
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21/bg_BB_cn:duoshou:joint22/bg_BB_cn:duoshou:joint23/bg_BB_cn:duoshou:joint26
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27/bg_BB_cn:duoshou:joint28
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27/bg_BB_cn:duoshou:joint28/bg_BB_cn:duoshou:joint29
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27/bg_BB_cn:duoshou:joint28/bg_BB_cn:duoshou:joint29/bg_BB_cn:duoshou:joint30
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27/bg_BB_cn:duoshou:joint28/bg_BB_cn:duoshou:joint29/bg_BB_cn:duoshou:joint31
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27/bg_BB_cn:duoshou:joint28/bg_BB_cn:duoshou:joint29/bg_BB_cn:duoshou:joint32
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:pasted__Object020
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint34
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint34/bg_BB_cn:duoshou:joint35
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint34/bg_BB_cn:duoshou:joint35/bg_BB_cn:duoshou:joint36
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint34/bg_BB_cn:duoshou:joint35/bg_BB_cn:duoshou:joint36/bg_BB_cn:duoshou:joint37
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint38
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint38/bg_BB_cn:duoshou:joint39
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint38/bg_BB_cn:duoshou:joint39/bg_BB_cn:duoshou:joint40
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint38/bg_BB_cn:duoshou:joint39/bg_BB_cn:duoshou:joint40/bg_BB_cn:duoshou:joint41
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 166
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bg_BB_cn:duoshou1
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group/bg_BB_cn:duoshou:pasted__STCS_waixingren_12_MD
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group/bg_BB_cn:duoshou:pasted__STCS_waixingren_12_MD/bg_BB_cn:duoshou:pasted__Plane004
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:joint3
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:joint3/bg_BB_cn:duoshou:joint4
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:joint5
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:joint5/bg_BB_cn:duoshou:joint6
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:pasted__Object021
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:pasted__Object022
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint2/bg_BB_cn:duoshou:pasted__Object027
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7/bg_BB_cn:duoshou:joint8
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7/bg_BB_cn:duoshou:joint8/bg_BB_cn:duoshou:joint9
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7/bg_BB_cn:duoshou:joint8/bg_BB_cn:duoshou:joint9/bg_BB_cn:duoshou:joint10
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7/bg_BB_cn:duoshou:joint8/bg_BB_cn:duoshou:joint9/bg_BB_cn:duoshou:joint11
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint7/bg_BB_cn:duoshou:joint8/bg_BB_cn:duoshou:joint9/bg_BB_cn:duoshou:joint12
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14/bg_BB_cn:duoshou:joint15
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14/bg_BB_cn:duoshou:joint15/bg_BB_cn:duoshou:joint16
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14/bg_BB_cn:duoshou:joint15/bg_BB_cn:duoshou:joint16/bg_BB_cn:duoshou:joint17
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14/bg_BB_cn:duoshou:joint15/bg_BB_cn:duoshou:joint16/bg_BB_cn:duoshou:joint18
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint13/bg_BB_cn:duoshou:joint14/bg_BB_cn:duoshou:joint15/bg_BB_cn:duoshou:joint16/bg_BB_cn:duoshou:joint19
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21/bg_BB_cn:duoshou:joint22
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21/bg_BB_cn:duoshou:joint22/bg_BB_cn:duoshou:joint23
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21/bg_BB_cn:duoshou:joint22/bg_BB_cn:duoshou:joint23/bg_BB_cn:duoshou:joint24
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21/bg_BB_cn:duoshou:joint22/bg_BB_cn:duoshou:joint23/bg_BB_cn:duoshou:joint25
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint20/bg_BB_cn:duoshou:joint21/bg_BB_cn:duoshou:joint22/bg_BB_cn:duoshou:joint23/bg_BB_cn:duoshou:joint26
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27/bg_BB_cn:duoshou:joint28
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27/bg_BB_cn:duoshou:joint28/bg_BB_cn:duoshou:joint29
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27/bg_BB_cn:duoshou:joint28/bg_BB_cn:duoshou:joint29/bg_BB_cn:duoshou:joint30
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27/bg_BB_cn:duoshou:joint28/bg_BB_cn:duoshou:joint29/bg_BB_cn:duoshou:joint31
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:joint27/bg_BB_cn:duoshou:joint28/bg_BB_cn:duoshou:joint29/bg_BB_cn:duoshou:joint32
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c02/bg_BB_cn:duoshou:joint1/bg_BB_cn:duoshou:pasted__Object020
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint34
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint34/bg_BB_cn:duoshou:joint35
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint34/bg_BB_cn:duoshou:joint35/bg_BB_cn:duoshou:joint36
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint34/bg_BB_cn:duoshou:joint35/bg_BB_cn:duoshou:joint36/bg_BB_cn:duoshou:joint37
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint38
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint38/bg_BB_cn:duoshou:joint39
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint38/bg_BB_cn:duoshou:joint39/bg_BB_cn:duoshou:joint40
+        weight: 1
+      - path: bg_BB_cn:duoshou1/bg_BB_cn:duoshou:group1/bg_BB_cn:duoshou:nurbsCircle1/bg_BB_cn:duoshou:transform1/bg_BB_cn:duoshou:c01/bg_BB_cn:duoshou:c03/bg_BB_cn:duoshou:joint38/bg_BB_cn:duoshou:joint39/bg_BB_cn:duoshou:joint40/bg_BB_cn:duoshou:joint41
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

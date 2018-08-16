@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: b27e18cc109e7044e9bf66f4c33225b0
+timeCreated: 1447911991
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bg_BB_cn:group8
+    100002: bg_BB_cn:zhangyu1
+    100004: bg_BB_cn:zhangyu:group
+    100006: bg_BB_cn:zhangyu:group1
+    100008: bg_BB_cn:zhangyu:joint1
+    100010: bg_BB_cn:zhangyu:joint10
+    100012: bg_BB_cn:zhangyu:joint11
+    100014: bg_BB_cn:zhangyu:joint12
+    100016: bg_BB_cn:zhangyu:joint13
+    100018: bg_BB_cn:zhangyu:joint14
+    100020: bg_BB_cn:zhangyu:joint15
+    100022: bg_BB_cn:zhangyu:joint16
+    100024: bg_BB_cn:zhangyu:joint17
+    100026: bg_BB_cn:zhangyu:joint18
+    100028: bg_BB_cn:zhangyu:joint19
+    100030: bg_BB_cn:zhangyu:joint2
+    100032: bg_BB_cn:zhangyu:joint20
+    100034: bg_BB_cn:zhangyu:joint21
+    100036: bg_BB_cn:zhangyu:joint22
+    100038: bg_BB_cn:zhangyu:joint23
+    100040: bg_BB_cn:zhangyu:joint24
+    100042: bg_BB_cn:zhangyu:joint25
+    100044: bg_BB_cn:zhangyu:joint26
+    100046: bg_BB_cn:zhangyu:joint27
+    100048: bg_BB_cn:zhangyu:joint28
+    100050: bg_BB_cn:zhangyu:joint29
+    100052: bg_BB_cn:zhangyu:joint3
+    100054: bg_BB_cn:zhangyu:joint30
+    100056: bg_BB_cn:zhangyu:joint4
+    100058: bg_BB_cn:zhangyu:joint5
+    100060: bg_BB_cn:zhangyu:joint6
+    100062: bg_BB_cn:zhangyu:joint7
+    100064: bg_BB_cn:zhangyu:joint8
+    100066: bg_BB_cn:zhangyu:joint9
+    100068: bg_BB_cn:zhangyu:pasted__Object001
+    100070: bg_BB_cn:zhangyu:pasted__Object003
+    100072: bg_BB_cn:zhangyu:pasted__Object004
+    100074: bg_BB_cn:zhangyu:pasted__Object005
+    100076: bg_BB_cn:zhangyu:pasted__Object006
+    100078: bg_BB_cn:zhangyu:pasted__Object007
+    100080: bg_BB_cn:zhangyu:pasted__Object008
+    100082: bg_BB_cn:zhangyu:pasted__Object009
+    100084: bg_BB_cn:zhangyu:pasted__Object012
+    100086: bg_BB_cn:zhangyu:pasted__Object017
+    100088: bg_BB_cn:zhangyu:pasted__Object028
+    100090: bg_BB_cn:zhangyu:pasted__Object029
+    100092: bg_BB_cn:zhangyu:pasted__Object030
+    100094: bg_BB_cn:zhangyu:pasted__Plane001
+    100096: bg_BB_cn:zhangyu:pasted__STCS_waixingren_07_MD
+    100098: bg_BB_cn:zhangyu:pCylinder1
+    100100: bg_BB_cn:zhangyu:pCylinder2
+    100102: bg_BB_cn:zhangyu:pCylinder3
+    100104: //RootNode
+    100106: bg_BB_cn1:BB
+    100108: bg_BB_cn1:zhangyu1
+    100110: bg_BB_cn1:zhangyu:group
+    100112: bg_BB_cn1:zhangyu:pasted__STCS_waixingren_07_MD
+    100114: bg_BB_cn2:BB
+    100116: bg_BB_cn2:zhangyu1
+    100118: bg_BB_cn2:zhangyu:group
+    100120: bg_BB_cn2:zhangyu:pasted__STCS_waixingren_07_MD
+    100122: bg_BB_cn:BB
+    100124: group
+    100126: group2
+    100128: group3
+    400000: bg_BB_cn:group8
+    400002: bg_BB_cn:zhangyu1
+    400004: bg_BB_cn:zhangyu:group
+    400006: bg_BB_cn:zhangyu:group1
+    400008: bg_BB_cn:zhangyu:joint1
+    400010: bg_BB_cn:zhangyu:joint10
+    400012: bg_BB_cn:zhangyu:joint11
+    400014: bg_BB_cn:zhangyu:joint12
+    400016: bg_BB_cn:zhangyu:joint13
+    400018: bg_BB_cn:zhangyu:joint14
+    400020: bg_BB_cn:zhangyu:joint15
+    400022: bg_BB_cn:zhangyu:joint16
+    400024: bg_BB_cn:zhangyu:joint17
+    400026: bg_BB_cn:zhangyu:joint18
+    400028: bg_BB_cn:zhangyu:joint19
+    400030: bg_BB_cn:zhangyu:joint2
+    400032: bg_BB_cn:zhangyu:joint20
+    400034: bg_BB_cn:zhangyu:joint21
+    400036: bg_BB_cn:zhangyu:joint22
+    400038: bg_BB_cn:zhangyu:joint23
+    400040: bg_BB_cn:zhangyu:joint24
+    400042: bg_BB_cn:zhangyu:joint25
+    400044: bg_BB_cn:zhangyu:joint26
+    400046: bg_BB_cn:zhangyu:joint27
+    400048: bg_BB_cn:zhangyu:joint28
+    400050: bg_BB_cn:zhangyu:joint29
+    400052: bg_BB_cn:zhangyu:joint3
+    400054: bg_BB_cn:zhangyu:joint30
+    400056: bg_BB_cn:zhangyu:joint4
+    400058: bg_BB_cn:zhangyu:joint5
+    400060: bg_BB_cn:zhangyu:joint6
+    400062: bg_BB_cn:zhangyu:joint7
+    400064: bg_BB_cn:zhangyu:joint8
+    400066: bg_BB_cn:zhangyu:joint9
+    400068: bg_BB_cn:zhangyu:pasted__Object001
+    400070: bg_BB_cn:zhangyu:pasted__Object003
+    400072: bg_BB_cn:zhangyu:pasted__Object004
+    400074: bg_BB_cn:zhangyu:pasted__Object005
+    400076: bg_BB_cn:zhangyu:pasted__Object006
+    400078: bg_BB_cn:zhangyu:pasted__Object007
+    400080: bg_BB_cn:zhangyu:pasted__Object008
+    400082: bg_BB_cn:zhangyu:pasted__Object009
+    400084: bg_BB_cn:zhangyu:pasted__Object012
+    400086: bg_BB_cn:zhangyu:pasted__Object017
+    400088: bg_BB_cn:zhangyu:pasted__Object028
+    400090: bg_BB_cn:zhangyu:pasted__Object029
+    400092: bg_BB_cn:zhangyu:pasted__Object030
+    400094: bg_BB_cn:zhangyu:pasted__Plane001
+    400096: bg_BB_cn:zhangyu:pasted__STCS_waixingren_07_MD
+    400098: bg_BB_cn:zhangyu:pCylinder1
+    400100: bg_BB_cn:zhangyu:pCylinder2
+    400102: bg_BB_cn:zhangyu:pCylinder3
+    400104: //RootNode
+    400106: bg_BB_cn1:BB
+    400108: bg_BB_cn1:zhangyu1
+    400110: bg_BB_cn1:zhangyu:group
+    400112: bg_BB_cn1:zhangyu:pasted__STCS_waixingren_07_MD
+    400114: bg_BB_cn2:BB
+    400116: bg_BB_cn2:zhangyu1
+    400118: bg_BB_cn2:zhangyu:group
+    400120: bg_BB_cn2:zhangyu:pasted__STCS_waixingren_07_MD
+    400122: bg_BB_cn:BB
+    400124: group
+    400126: group2
+    400128: group3
+    2300000: bg_BB_cn:zhangyu:pasted__Object001
+    2300002: bg_BB_cn:zhangyu:pasted__Object003
+    2300004: bg_BB_cn:zhangyu:pasted__Object004
+    2300006: bg_BB_cn:zhangyu:pasted__Object005
+    2300008: bg_BB_cn:zhangyu:pasted__Object006
+    2300010: bg_BB_cn:zhangyu:pasted__Object007
+    2300012: bg_BB_cn:zhangyu:pasted__Object008
+    2300014: bg_BB_cn:zhangyu:pasted__Object009
+    2300016: bg_BB_cn:zhangyu:pasted__Object012
+    2300018: bg_BB_cn:zhangyu:pasted__Object028
+    2300020: bg_BB_cn:zhangyu:pasted__Object029
+    2300022: bg_BB_cn:zhangyu:pasted__Object030
+    2300024: bg_BB_cn:zhangyu:pCylinder1
+    2300026: bg_BB_cn:zhangyu:pCylinder2
+    2300028: bg_BB_cn:zhangyu:pCylinder3
+    3300000: bg_BB_cn:zhangyu:pasted__Object001
+    3300002: bg_BB_cn:zhangyu:pasted__Object003
+    3300004: bg_BB_cn:zhangyu:pasted__Object004
+    3300006: bg_BB_cn:zhangyu:pasted__Object005
+    3300008: bg_BB_cn:zhangyu:pasted__Object006
+    3300010: bg_BB_cn:zhangyu:pasted__Object007
+    3300012: bg_BB_cn:zhangyu:pasted__Object008
+    3300014: bg_BB_cn:zhangyu:pasted__Object009
+    3300016: bg_BB_cn:zhangyu:pasted__Object012
+    3300018: bg_BB_cn:zhangyu:pasted__Object028
+    3300020: bg_BB_cn:zhangyu:pasted__Object029
+    3300022: bg_BB_cn:zhangyu:pasted__Object030
+    3300024: bg_BB_cn:zhangyu:pCylinder1
+    3300026: bg_BB_cn:zhangyu:pCylinder2
+    3300028: bg_BB_cn:zhangyu:pCylinder3
+    4300000: bg_BB_cn:zhangyu:pasted__Plane001
+    4300002: bg_BB_cn:zhangyu:pasted__Object017
+    4300004: bg_BB_cn:zhangyu:pasted__Object030
+    4300006: bg_BB_cn:zhangyu:pasted__Object007
+    4300008: bg_BB_cn:zhangyu:pCylinder1
+    4300010: bg_BB_cn:zhangyu:pasted__Object008
+    4300012: bg_BB_cn:zhangyu:pasted__Object029
+    4300014: bg_BB_cn:zhangyu:pasted__Object005
+    4300016: bg_BB_cn:zhangyu:pCylinder2
+    4300018: bg_BB_cn:zhangyu:pasted__Object006
+    4300020: bg_BB_cn:zhangyu:pasted__Object004
+    4300022: bg_BB_cn:zhangyu:pCylinder3
+    4300024: bg_BB_cn:zhangyu:pasted__Object028
+    4300026: bg_BB_cn:zhangyu:pasted__Object003
+    4300028: bg_BB_cn:zhangyu:pasted__Object001
+    4300030: bg_BB_cn:zhangyu:pasted__Object009
+    4300032: bg_BB_cn:zhangyu:pasted__Object012
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: bg_BB_cn:zhangyu:pasted__Object017
+    13700002: bg_BB_cn:zhangyu:pasted__Plane001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bg_BB_cn:zhangyu1
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:joint3
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:joint3/bg_BB_cn:zhangyu:joint28
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:joint3/bg_BB_cn:zhangyu:joint28/bg_BB_cn:zhangyu:joint29
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object003
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object004
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object004/bg_BB_cn:zhangyu:pCylinder3
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object005
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object005/bg_BB_cn:zhangyu:pCylinder2
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object006
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object007
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object007/bg_BB_cn:zhangyu:pCylinder1
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object008
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object028
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object029
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object030
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:pasted__Object001
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:pasted__Object009
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:pasted__Object012
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint4
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint4/bg_BB_cn:zhangyu:joint5
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint4/bg_BB_cn:zhangyu:joint5/bg_BB_cn:zhangyu:joint6
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint7
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint7/bg_BB_cn:zhangyu:joint8
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint7/bg_BB_cn:zhangyu:joint8/bg_BB_cn:zhangyu:joint9
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint7/bg_BB_cn:zhangyu:joint8/bg_BB_cn:zhangyu:joint9/bg_BB_cn:zhangyu:joint10
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint11
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint11/bg_BB_cn:zhangyu:joint12
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint11/bg_BB_cn:zhangyu:joint12/bg_BB_cn:zhangyu:joint13
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint11/bg_BB_cn:zhangyu:joint12/bg_BB_cn:zhangyu:joint13/bg_BB_cn:zhangyu:joint14
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint15
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint15/bg_BB_cn:zhangyu:joint16
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint15/bg_BB_cn:zhangyu:joint16/bg_BB_cn:zhangyu:joint17
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint15/bg_BB_cn:zhangyu:joint16/bg_BB_cn:zhangyu:joint17/bg_BB_cn:zhangyu:joint18
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint15/bg_BB_cn:zhangyu:joint16/bg_BB_cn:zhangyu:joint17/bg_BB_cn:zhangyu:joint18/bg_BB_cn:zhangyu:joint19
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20/bg_BB_cn:zhangyu:joint21
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20/bg_BB_cn:zhangyu:joint21/bg_BB_cn:zhangyu:joint22
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20/bg_BB_cn:zhangyu:joint21/bg_BB_cn:zhangyu:joint22/bg_BB_cn:zhangyu:joint23
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20/bg_BB_cn:zhangyu:joint21/bg_BB_cn:zhangyu:joint22/bg_BB_cn:zhangyu:joint23/bg_BB_cn:zhangyu:joint24
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20/bg_BB_cn:zhangyu:joint21/bg_BB_cn:zhangyu:joint22/bg_BB_cn:zhangyu:joint23/bg_BB_cn:zhangyu:joint24/bg_BB_cn:zhangyu:joint25
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint26
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint26/bg_BB_cn:zhangyu:joint27
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:zhangyu:group
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:zhangyu:group/bg_BB_cn:zhangyu:pasted__STCS_waixingren_07_MD
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:zhangyu:group/bg_BB_cn:zhangyu:pasted__STCS_waixingren_07_MD/bg_BB_cn:zhangyu:pasted__Object017
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:zhangyu:group/bg_BB_cn:zhangyu:pasted__STCS_waixingren_07_MD/bg_BB_cn:zhangyu:pasted__Plane001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 51
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bg_BB_cn:zhangyu1
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:joint3
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:joint3/bg_BB_cn:zhangyu:joint28
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:joint3/bg_BB_cn:zhangyu:joint28/bg_BB_cn:zhangyu:joint29
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object003
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object004
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object004/bg_BB_cn:zhangyu:pCylinder3
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object005
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object005/bg_BB_cn:zhangyu:pCylinder2
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object006
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object007
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object007/bg_BB_cn:zhangyu:pCylinder1
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object008
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object028
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object029
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:joint2/bg_BB_cn:zhangyu:pasted__Object030
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:pasted__Object001
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:pasted__Object009
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint1/bg_BB_cn:zhangyu:pasted__Object012
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint4
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint4/bg_BB_cn:zhangyu:joint5
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint4/bg_BB_cn:zhangyu:joint5/bg_BB_cn:zhangyu:joint6
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint7
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint7/bg_BB_cn:zhangyu:joint8
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint7/bg_BB_cn:zhangyu:joint8/bg_BB_cn:zhangyu:joint9
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint7/bg_BB_cn:zhangyu:joint8/bg_BB_cn:zhangyu:joint9/bg_BB_cn:zhangyu:joint10
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint11
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint11/bg_BB_cn:zhangyu:joint12
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint11/bg_BB_cn:zhangyu:joint12/bg_BB_cn:zhangyu:joint13
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint11/bg_BB_cn:zhangyu:joint12/bg_BB_cn:zhangyu:joint13/bg_BB_cn:zhangyu:joint14
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint15
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint15/bg_BB_cn:zhangyu:joint16
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint15/bg_BB_cn:zhangyu:joint16/bg_BB_cn:zhangyu:joint17
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint15/bg_BB_cn:zhangyu:joint16/bg_BB_cn:zhangyu:joint17/bg_BB_cn:zhangyu:joint18
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint15/bg_BB_cn:zhangyu:joint16/bg_BB_cn:zhangyu:joint17/bg_BB_cn:zhangyu:joint18/bg_BB_cn:zhangyu:joint19
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20/bg_BB_cn:zhangyu:joint21
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20/bg_BB_cn:zhangyu:joint21/bg_BB_cn:zhangyu:joint22
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20/bg_BB_cn:zhangyu:joint21/bg_BB_cn:zhangyu:joint22/bg_BB_cn:zhangyu:joint23
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20/bg_BB_cn:zhangyu:joint21/bg_BB_cn:zhangyu:joint22/bg_BB_cn:zhangyu:joint23/bg_BB_cn:zhangyu:joint24
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint20/bg_BB_cn:zhangyu:joint21/bg_BB_cn:zhangyu:joint22/bg_BB_cn:zhangyu:joint23/bg_BB_cn:zhangyu:joint24/bg_BB_cn:zhangyu:joint25
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint26
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:group8/bg_BB_cn:zhangyu:group1/bg_BB_cn:zhangyu:joint30/bg_BB_cn:zhangyu:joint26/bg_BB_cn:zhangyu:joint27
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:zhangyu:group
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:zhangyu:group/bg_BB_cn:zhangyu:pasted__STCS_waixingren_07_MD
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:zhangyu:group/bg_BB_cn:zhangyu:pasted__STCS_waixingren_07_MD/bg_BB_cn:zhangyu:pasted__Object017
+        weight: 1
+      - path: bg_BB_cn:zhangyu1/bg_BB_cn:zhangyu:group/bg_BB_cn:zhangyu:pasted__STCS_waixingren_07_MD/bg_BB_cn:zhangyu:pasted__Plane001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

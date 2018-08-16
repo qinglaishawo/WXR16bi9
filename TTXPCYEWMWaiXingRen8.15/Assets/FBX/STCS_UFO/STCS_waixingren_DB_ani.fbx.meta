@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 7448e3cebde3aaa4494ec30480c5efcd
+timeCreated: 1447913753
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: renwu:STCS_waixingren_doubao_MD
+    100002: renwu:STCS_waixingren_doubao_MD_1
+    100004: renwu:STCS_waixingren_doubao_MD_2
+    100006: renwu:STCS_waixingren_doubao_MD_3
+    100008: renwu:STCS_waixingren_doubao_MD_4
+    100010: renwu:STCS_waixingren_doubao_MD_5
+    100012: renwu:STCS_waixingren_doubao_MD_6
+    100014: renwu:STCS_waixingren_doubao_MD_7
+    100016: renwu:STCS_waixingren_doubao_MD_8
+    100018: //RootNode
+    100020: renwu1:Object039
+    100022: renwu1:Object040
+    100024: renwu1:Object041
+    100026: renwu1:Object042
+    100028: renwu1:Object043
+    100030: renwu1:Object044
+    100032: renwu1:Object045
+    100034: renwu1:Object049
+    100036: renwu1:Object051
+    100038: renwu1:Object058
+    100040: renwu1:Object061
+    100042: renwu1:Object062
+    100044: renwu1:Object063
+    100046: renwu1:Object167
+    100048: renwu1:Object168
+    100050: renwu1:Object169
+    100052: renwu1:Object170
+    100054: renwu1:Object171
+    100056: renwu1:Object172
+    100058: renwu1:Object173
+    100060: renwu1:Object174
+    100062: renwu1:Object175
+    100064: renwu1:Object176
+    100066: renwu1:Object177
+    100068: renwu1:Object178
+    100070: renwu1:Object179
+    100072: renwu1:Object180
+    100074: renwu1:Object206
+    100076: renwu1:Object207
+    100078: renwu1:Object208
+    100080: renwu1:STCS_renwu_doubao_taikong_MD
+    400000: renwu:STCS_waixingren_doubao_MD
+    400002: renwu:STCS_waixingren_doubao_MD_1
+    400004: renwu:STCS_waixingren_doubao_MD_2
+    400006: renwu:STCS_waixingren_doubao_MD_3
+    400008: renwu:STCS_waixingren_doubao_MD_4
+    400010: renwu:STCS_waixingren_doubao_MD_5
+    400012: renwu:STCS_waixingren_doubao_MD_6
+    400014: renwu:STCS_waixingren_doubao_MD_7
+    400016: renwu:STCS_waixingren_doubao_MD_8
+    400018: //RootNode
+    400020: renwu1:Object039
+    400022: renwu1:Object040
+    400024: renwu1:Object041
+    400026: renwu1:Object042
+    400028: renwu1:Object043
+    400030: renwu1:Object044
+    400032: renwu1:Object045
+    400034: renwu1:Object049
+    400036: renwu1:Object051
+    400038: renwu1:Object058
+    400040: renwu1:Object061
+    400042: renwu1:Object062
+    400044: renwu1:Object063
+    400046: renwu1:Object167
+    400048: renwu1:Object168
+    400050: renwu1:Object169
+    400052: renwu1:Object170
+    400054: renwu1:Object171
+    400056: renwu1:Object172
+    400058: renwu1:Object173
+    400060: renwu1:Object174
+    400062: renwu1:Object175
+    400064: renwu1:Object176
+    400066: renwu1:Object177
+    400068: renwu1:Object178
+    400070: renwu1:Object179
+    400072: renwu1:Object180
+    400074: renwu1:Object206
+    400076: renwu1:Object207
+    400078: renwu1:Object208
+    400080: renwu1:STCS_renwu_doubao_taikong_MD
+    2300000: renwu:STCS_waixingren_doubao_MD_1
+    2300002: renwu:STCS_waixingren_doubao_MD_2
+    2300004: renwu:STCS_waixingren_doubao_MD_3
+    2300006: renwu:STCS_waixingren_doubao_MD_4
+    2300008: renwu:STCS_waixingren_doubao_MD_5
+    2300010: renwu:STCS_waixingren_doubao_MD_6
+    2300012: renwu:STCS_waixingren_doubao_MD_7
+    2300014: renwu:STCS_waixingren_doubao_MD_8
+    2300016: renwu1:Object039
+    2300018: renwu1:Object040
+    2300020: renwu1:Object041
+    2300022: renwu1:Object042
+    2300024: renwu1:Object043
+    2300026: renwu1:Object044
+    2300028: renwu1:Object045
+    2300030: renwu1:Object049
+    2300032: renwu1:Object051
+    2300034: renwu1:Object058
+    2300036: renwu1:Object061
+    2300038: renwu1:Object062
+    2300040: renwu1:Object063
+    2300042: renwu1:Object167
+    2300044: renwu1:Object168
+    2300046: renwu1:Object169
+    2300048: renwu1:Object170
+    2300050: renwu1:Object171
+    2300052: renwu1:Object172
+    2300054: renwu1:Object173
+    2300056: renwu1:Object174
+    2300058: renwu1:Object175
+    2300060: renwu1:Object176
+    2300062: renwu1:Object177
+    2300064: renwu1:Object178
+    2300066: renwu1:Object179
+    2300068: renwu1:Object180
+    2300070: renwu1:Object206
+    2300072: renwu1:Object207
+    2300074: renwu1:Object208
+    3300000: renwu:STCS_waixingren_doubao_MD_1
+    3300002: renwu:STCS_waixingren_doubao_MD_2
+    3300004: renwu:STCS_waixingren_doubao_MD_3
+    3300006: renwu:STCS_waixingren_doubao_MD_4
+    3300008: renwu:STCS_waixingren_doubao_MD_5
+    3300010: renwu:STCS_waixingren_doubao_MD_6
+    3300012: renwu:STCS_waixingren_doubao_MD_7
+    3300014: renwu:STCS_waixingren_doubao_MD_8
+    3300016: renwu1:Object039
+    3300018: renwu1:Object040
+    3300020: renwu1:Object041
+    3300022: renwu1:Object042
+    3300024: renwu1:Object043
+    3300026: renwu1:Object044
+    3300028: renwu1:Object045
+    3300030: renwu1:Object049
+    3300032: renwu1:Object051
+    3300034: renwu1:Object058
+    3300036: renwu1:Object061
+    3300038: renwu1:Object062
+    3300040: renwu1:Object063
+    3300042: renwu1:Object167
+    3300044: renwu1:Object168
+    3300046: renwu1:Object169
+    3300048: renwu1:Object170
+    3300050: renwu1:Object171
+    3300052: renwu1:Object172
+    3300054: renwu1:Object173
+    3300056: renwu1:Object174
+    3300058: renwu1:Object175
+    3300060: renwu1:Object176
+    3300062: renwu1:Object177
+    3300064: renwu1:Object178
+    3300066: renwu1:Object179
+    3300068: renwu1:Object180
+    3300070: renwu1:Object206
+    3300072: renwu1:Object207
+    3300074: renwu1:Object208
+    4300000: renwu:STCS_waixingren_doubao_MD_7
+    4300002: renwu:STCS_waixingren_doubao_MD_3
+    4300004: renwu:STCS_waixingren_doubao_MD_8
+    4300006: renwu:STCS_waixingren_doubao_MD_4
+    4300008: renwu:STCS_waixingren_doubao_MD_2
+    4300010: renwu:STCS_waixingren_doubao_MD_1
+    4300012: renwu:STCS_waixingren_doubao_MD_5
+    4300014: renwu:STCS_waixingren_doubao_MD_6
+    4300016: renwu1:Object041
+    4300018: renwu1:Object176
+    4300020: renwu1:Object058
+    4300022: renwu1:Object175
+    4300024: renwu1:Object178
+    4300026: renwu1:Object179
+    4300028: renwu1:Object177
+    4300030: renwu1:Object040
+    4300032: renwu1:Object063
+    4300034: renwu1:Object045
+    4300036: renwu1:Object180
+    4300038: renwu1:Object062
+    4300040: renwu1:Object208
+    4300042: renwu1:Object206
+    4300044: renwu1:Object207
+    4300046: renwu1:Object042
+    4300048: renwu1:Object049
+    4300050: renwu1:Object168
+    4300052: renwu1:Object167
+    4300054: renwu1:Object043
+    4300056: renwu1:Object044
+    4300058: renwu1:Object039
+    4300060: renwu1:Object061
+    4300062: renwu1:Object171
+    4300064: renwu1:Object051
+    4300066: renwu1:Object169
+    4300068: renwu1:Object170
+    4300070: renwu1:Object173
+    4300072: renwu1:Object174
+    4300074: renwu1:Object172
+    7400000: dj_0
+    7400002: hd_0
+    7400004: dj_1
+    7400006: hd_1
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 15.000001
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: renwu:STCS_waixingren_doubao_MD
+        weight: 1
+      - path: renwu:STCS_waixingren_doubao_MD/renwu:STCS_waixingren_doubao_MD_7
+        weight: 1
+      - path: renwu:STCS_waixingren_doubao_MD/renwu:STCS_waixingren_doubao_MD_7/renwu:STCS_waixingren_doubao_MD_3
+        weight: 1
+      - path: renwu:STCS_waixingren_doubao_MD/renwu:STCS_waixingren_doubao_MD_7/renwu:STCS_waixingren_doubao_MD_3/renwu:STCS_waixingren_doubao_MD_1
+        weight: 1
+      - path: renwu:STCS_waixingren_doubao_MD/renwu:STCS_waixingren_doubao_MD_7/renwu:STCS_waixingren_doubao_MD_3/renwu:STCS_waixingren_doubao_MD_2
+        weight: 1
+      - path: renwu:STCS_waixingren_doubao_MD/renwu:STCS_waixingren_doubao_MD_7/renwu:STCS_waixingren_doubao_MD_3/renwu:STCS_waixingren_doubao_MD_4
+        weight: 1
+      - path: renwu:STCS_waixingren_doubao_MD/renwu:STCS_waixingren_doubao_MD_7/renwu:STCS_waixingren_doubao_MD_3/renwu:STCS_waixingren_doubao_MD_8
+        weight: 1
+      - path: renwu:STCS_waixingren_doubao_MD/renwu:STCS_waixingren_doubao_MD_7/renwu:STCS_waixingren_doubao_MD_5
+        weight: 1
+      - path: renwu:STCS_waixingren_doubao_MD/renwu:STCS_waixingren_doubao_MD_7/renwu:STCS_waixingren_doubao_MD_6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 32
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object040
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object040/renwu1:Object063
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object045
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object045/renwu1:Object180
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object045/renwu1:Object180/renwu1:Object062
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object176
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object176/renwu1:Object058
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object176/renwu1:Object058/renwu1:Object175
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object178
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object178/renwu1:Object179
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object178/renwu1:Object179/renwu1:Object177
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object039
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object043
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object044
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object049
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object061
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object167
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object168
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object171
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object171/renwu1:Object051
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object171/renwu1:Object169
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object171/renwu1:Object170
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object173
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object173/renwu1:Object172
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object042/renwu1:Object173/renwu1:Object174
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object206
+        weight: 1
+      - path: renwu1:STCS_renwu_doubao_taikong_MD/renwu1:Object041/renwu1:Object208/renwu1:Object207
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

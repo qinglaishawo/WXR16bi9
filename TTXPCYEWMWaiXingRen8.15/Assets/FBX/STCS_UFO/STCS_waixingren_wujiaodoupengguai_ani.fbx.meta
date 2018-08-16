@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: 83c7cd9c74e760d4e8926ed3864dceed
+timeCreated: 1447917050
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: aa:group2
+    100002: aa:joint45
+    100004: aa:joint46
+    100006: aa:joint47
+    100008: aa:joint48
+    100010: aa:joint50
+    100012: aa:joint51
+    100014: aa:joint52
+    100016: aa:joint53
+    100018: aa:joint54
+    100020: aa:joint55
+    100022: aa:joint56
+    100024: aa:joint57
+    100026: aa:joint58
+    100028: aa:joint59
+    100030: aa:joint60
+    100032: aa:joint61
+    100034: aa:joint62
+    100036: aa:joint63
+    100038: aa:joint64
+    100040: aa:joint65
+    100042: aa:joint66
+    100044: aa:joint67
+    100046: aa:joint68
+    100048: aa:joint69
+    100050: aa:joint70
+    100052: aa:joint71
+    100054: aa:joint72
+    100056: aa:joint73
+    100058: aa:joint74
+    100060: aa:joint75
+    100062: aa:joint76
+    100064: aa:joint77
+    100066: aa:joint78
+    100068: aa:joint79
+    100070: aa:joint80
+    100072: aa:joint81
+    100074: aa:joint82
+    100076: aa:joint83
+    100078: aa:joint84
+    100080: aa:nurbsCircle2
+    100082: aa:STCS_waixingren_04_biyan_l_MD
+    100084: aa:STCS_waixingren_04_biyan_r_MD
+    100086: aa:STCS_waixingren_04_MD
+    100088: aa:STCS_waixingren_04_shenti_MD
+    100090: aa:STCS_waixingren_04_yanjing_l_MD
+    100092: aa:STCS_waixingren_04_yanjing_r_MD
+    100094: aa:STCS_waixingren_04_yanmei_l_MD
+    100096: aa:STCS_waixingren_04_yanmei_r_MD
+    100098: aa:STCS_waixingren_04_yanren_l_MD
+    100100: aa:STCS_waixingren_04_yanren_r_MD
+    100102: aa:STCS_waixingren_04_zui_MD
+    100104: aa:transform2
+    100106: aa:transform3
+    100108: //RootNode
+    100110: aa1:group2
+    100112: aa1:nurbsCircle2
+    100114: aa1:STCS_waixingren_04_MD
+    100116: aa1:transform3
+    100118: aa2:STCS_waixingren_04_MD
+    100120: DJ:group2
+    100122: DJ:pasted__Object009
+    100124: group
+    100126: group3
+    100128: group4
+    400000: aa:group2
+    400002: aa:joint45
+    400004: aa:joint46
+    400006: aa:joint47
+    400008: aa:joint48
+    400010: aa:joint50
+    400012: aa:joint51
+    400014: aa:joint52
+    400016: aa:joint53
+    400018: aa:joint54
+    400020: aa:joint55
+    400022: aa:joint56
+    400024: aa:joint57
+    400026: aa:joint58
+    400028: aa:joint59
+    400030: aa:joint60
+    400032: aa:joint61
+    400034: aa:joint62
+    400036: aa:joint63
+    400038: aa:joint64
+    400040: aa:joint65
+    400042: aa:joint66
+    400044: aa:joint67
+    400046: aa:joint68
+    400048: aa:joint69
+    400050: aa:joint70
+    400052: aa:joint71
+    400054: aa:joint72
+    400056: aa:joint73
+    400058: aa:joint74
+    400060: aa:joint75
+    400062: aa:joint76
+    400064: aa:joint77
+    400066: aa:joint78
+    400068: aa:joint79
+    400070: aa:joint80
+    400072: aa:joint81
+    400074: aa:joint82
+    400076: aa:joint83
+    400078: aa:joint84
+    400080: aa:nurbsCircle2
+    400082: aa:STCS_waixingren_04_biyan_l_MD
+    400084: aa:STCS_waixingren_04_biyan_r_MD
+    400086: aa:STCS_waixingren_04_MD
+    400088: aa:STCS_waixingren_04_shenti_MD
+    400090: aa:STCS_waixingren_04_yanjing_l_MD
+    400092: aa:STCS_waixingren_04_yanjing_r_MD
+    400094: aa:STCS_waixingren_04_yanmei_l_MD
+    400096: aa:STCS_waixingren_04_yanmei_r_MD
+    400098: aa:STCS_waixingren_04_yanren_l_MD
+    400100: aa:STCS_waixingren_04_yanren_r_MD
+    400102: aa:STCS_waixingren_04_zui_MD
+    400104: aa:transform2
+    400106: aa:transform3
+    400108: //RootNode
+    400110: aa1:group2
+    400112: aa1:nurbsCircle2
+    400114: aa1:STCS_waixingren_04_MD
+    400116: aa1:transform3
+    400118: aa2:STCS_waixingren_04_MD
+    400120: DJ:group2
+    400122: DJ:pasted__Object009
+    400124: group
+    400126: group3
+    400128: group4
+    2300000: aa:STCS_waixingren_04_biyan_l_MD
+    2300002: aa:STCS_waixingren_04_biyan_r_MD
+    2300004: aa:STCS_waixingren_04_yanjing_l_MD
+    2300006: aa:STCS_waixingren_04_yanjing_r_MD
+    2300008: aa:STCS_waixingren_04_yanmei_l_MD
+    2300010: aa:STCS_waixingren_04_yanmei_r_MD
+    2300012: aa:STCS_waixingren_04_yanren_l_MD
+    2300014: aa:STCS_waixingren_04_yanren_r_MD
+    2300016: aa:STCS_waixingren_04_zui_MD
+    2300018: DJ:pasted__Object009
+    3300000: aa:STCS_waixingren_04_biyan_l_MD
+    3300002: aa:STCS_waixingren_04_biyan_r_MD
+    3300004: aa:STCS_waixingren_04_yanjing_l_MD
+    3300006: aa:STCS_waixingren_04_yanjing_r_MD
+    3300008: aa:STCS_waixingren_04_yanmei_l_MD
+    3300010: aa:STCS_waixingren_04_yanmei_r_MD
+    3300012: aa:STCS_waixingren_04_yanren_l_MD
+    3300014: aa:STCS_waixingren_04_yanren_r_MD
+    3300016: aa:STCS_waixingren_04_zui_MD
+    3300018: DJ:pasted__Object009
+    4300000: aa:STCS_waixingren_04_shenti_MD
+    4300002: aa:STCS_waixingren_04_yanjing_l_MD
+    4300004: aa:STCS_waixingren_04_yanren_l_MD
+    4300006: aa:STCS_waixingren_04_yanjing_r_MD
+    4300008: aa:STCS_waixingren_04_yanren_r_MD
+    4300010: aa:STCS_waixingren_04_yanmei_r_MD
+    4300012: aa:STCS_waixingren_04_yanmei_l_MD
+    4300014: aa:STCS_waixingren_04_biyan_r_MD
+    4300016: aa:STCS_waixingren_04_biyan_l_MD
+    4300018: aa:STCS_waixingren_04_zui_MD
+    4300020: DJ:pasted__Object009
+    7400000: dj_0
+    7400002: hd_0
+    7400004: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: aa:STCS_waixingren_04_shenti_MD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 22
+      lastFrame: 151
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aa:group2
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint46
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint46/aa:joint47
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint46/aa:joint47/aa:joint48
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50/aa:joint51
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50/aa:joint51/aa:joint52
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50/aa:joint60
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50/aa:joint60/aa:joint61
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50/aa:joint60/aa:joint61/aa:joint62
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint54
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint54/aa:joint55
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint56
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint56/aa:joint57
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint56/aa:joint57/aa:joint58
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint56/aa:joint57/aa:joint58/aa:joint59
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint65
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint65/aa:joint66
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint77
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint77/aa:joint78
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint77/aa:joint78/aa:joint79
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint77/aa:joint78/aa:joint79/aa:joint80
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint81
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint81/aa:joint82
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint81/aa:joint82/aa:joint83
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint81/aa:joint82/aa:joint83/aa:joint84
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_biyan_l_MD
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_biyan_r_MD
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_yanjing_l_MD
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_yanjing_l_MD/aa:STCS_waixingren_04_yanren_l_MD
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_yanjing_r_MD
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_yanjing_r_MD/aa:STCS_waixingren_04_yanren_r_MD
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_yanmei_l_MD
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_yanmei_r_MD
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint67
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint67/aa:joint68
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint67/aa:joint68/aa:joint69
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint67/aa:joint68/aa:joint69/aa:joint70
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint67/aa:joint68/aa:joint69/aa:joint70/aa:joint71
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint72
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint72/aa:joint73
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint72/aa:joint73/aa:joint74
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint72/aa:joint73/aa:joint74/aa:joint75
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint72/aa:joint73/aa:joint74/aa:joint75/aa:joint76
+        weight: 1
+      - path: aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:STCS_waixingren_04_zui_MD
+        weight: 1
+      - path: aa:STCS_waixingren_04_MD
+        weight: 1
+      - path: aa:STCS_waixingren_04_MD/aa:STCS_waixingren_04_shenti_MD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 226
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aa:STCS_waixingren_04_MD
+        weight: 1
+      - path: aa:STCS_waixingren_04_MD/aa:STCS_waixingren_04_shenti_MD
+        weight: 1
+      - path: group3
+        weight: 1
+      - path: group3/aa:group2
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint46
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint46/aa:joint47
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint46/aa:joint47/aa:joint48
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50/aa:joint51
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50/aa:joint51/aa:joint52
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50/aa:joint60
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50/aa:joint60/aa:joint61
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint50/aa:joint60/aa:joint61/aa:joint62
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint54
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint54/aa:joint55
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint56
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint56/aa:joint57
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint56/aa:joint57/aa:joint58
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform2/aa:joint45/aa:joint53/aa:joint56/aa:joint57/aa:joint58/aa:joint59
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint65
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint65/aa:joint66
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint77
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint77/aa:joint78
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint77/aa:joint78/aa:joint79
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint77/aa:joint78/aa:joint79/aa:joint80
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint81
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint81/aa:joint82
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint81/aa:joint82/aa:joint83
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:joint81/aa:joint82/aa:joint83/aa:joint84
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_biyan_l_MD
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_biyan_r_MD
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_yanjing_l_MD
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_yanjing_l_MD/aa:STCS_waixingren_04_yanren_l_MD
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_yanjing_r_MD
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint64/aa:STCS_waixingren_04_yanjing_r_MD/aa:STCS_waixingren_04_yanren_r_MD
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint67
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint67/aa:joint68
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint67/aa:joint68/aa:joint69
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint67/aa:joint68/aa:joint69/aa:joint70
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint67/aa:joint68/aa:joint69/aa:joint70/aa:joint71
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint72
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint72/aa:joint73
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint72/aa:joint73/aa:joint74
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint72/aa:joint73/aa:joint74/aa:joint75
+        weight: 1
+      - path: group3/aa:group2/aa:nurbsCircle2/aa:transform3/aa:joint63/aa:joint72/aa:joint73/aa:joint74/aa:joint75/aa:joint76
+        weight: 1
+      - path: group3/DJ:group2
+        weight: 1
+      - path: group3/DJ:group2/DJ:pasted__Object009
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

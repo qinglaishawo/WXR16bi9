@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: 188c296247db2dc44ac5f19fbe1cf984
+timeCreated: 1447913785
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _group64
+    100002: _joint197
+    100004: _joint198
+    100006: _joint199
+    100008: _joint200
+    100010: _joint201
+    100012: _joint202
+    100014: _joint203
+    100016: _joint204
+    100018: _joint205
+    100020: _joint206
+    100022: _joint207
+    100024: _joint208
+    100026: _joint209
+    100028: _joint210
+    100030: _joint211
+    100032: _joint212
+    100034: _joint213
+    100036: _joint214
+    100038: _joint215
+    100040: _joint216
+    100042: _joint217
+    100044: _joint218
+    100046: _joint219
+    100048: _joint220
+    100050: _joint221
+    100052: _joint222
+    100054: _joint223
+    100056: _joint224
+    100058: _joint225
+    100060: _joint226
+    100062: _joint227
+    100064: _joint228
+    100066: _joint229
+    100068: _joint230
+    100070: _joint231
+    100072: _joint232
+    100074: _joint233
+    100076: _joint234
+    100078: _joint235
+    100080: _joint236
+    100082: _joint237
+    100084: _joint238
+    100086: _joint239
+    100088: _joint240
+    100090: _joint241
+    100092: _joint242
+    100094: _joint243
+    100096: _joint244
+    100098: _joint245
+    100100: _joint246
+    100102: _joint247
+    100104: _joint248
+    100106: _joint249
+    100108: _joint250
+    100110: _nurbsCircle23
+    100112: _nurbsCircle26
+    100114: group58
+    100116: group64
+    100118: group65
+    100120: group66
+    100122: group67
+    100124: joint197
+    100126: joint198
+    100128: joint199
+    100130: joint200
+    100132: joint201
+    100134: joint202
+    100136: joint203
+    100138: joint204
+    100140: joint205
+    100142: joint206
+    100144: joint207
+    100146: joint208
+    100148: joint209
+    100150: joint210
+    100152: joint211
+    100154: joint212
+    100156: joint213
+    100158: joint214
+    100160: joint215
+    100162: joint216
+    100164: joint217
+    100166: joint218
+    100168: joint219
+    100170: joint220
+    100172: joint221
+    100174: joint222
+    100176: joint223
+    100178: joint224
+    100180: joint225
+    100182: joint226
+    100184: joint227
+    100186: joint228
+    100188: joint229
+    100190: joint230
+    100192: joint231
+    100194: joint232
+    100196: joint233
+    100198: joint234
+    100200: joint235
+    100202: joint236
+    100204: joint237
+    100206: joint238
+    100208: joint239
+    100210: joint240
+    100212: joint241
+    100214: joint242
+    100216: joint243
+    100218: joint244
+    100220: joint245
+    100222: joint246
+    100224: joint247
+    100226: joint248
+    100228: joint249
+    100230: joint250
+    100232: nurbsCircle23
+    100234: nurbsCircle26
+    100236: STCS_huolieniao_con
+    100238: STCS_huolieniao_MD
+    100240: STCS_huolieniao_MD1_1
+    100242: STCS_huolieniao_MD1_2
+    100244: STCS_huolieniao_MD1_3
+    100246: STCS_huolieniao_MD1_4
+    100248: STCS_huolieniao_MD1_5
+    100250: STCS_huolieniao_MD2_1
+    100252: STCS_huolieniao_MD2_2
+    100254: STCS_huolieniao_MD2_3
+    100256: STCS_huolieniao_MD2_4
+    100258: STCS_huolieniao_MD2_5
+    100260: //RootNode
+    100262: STCS_huolieniao_ani
+    400000: _group64
+    400002: _joint197
+    400004: _joint198
+    400006: _joint199
+    400008: _joint200
+    400010: _joint201
+    400012: _joint202
+    400014: _joint203
+    400016: _joint204
+    400018: _joint205
+    400020: _joint206
+    400022: _joint207
+    400024: _joint208
+    400026: _joint209
+    400028: _joint210
+    400030: _joint211
+    400032: _joint212
+    400034: _joint213
+    400036: _joint214
+    400038: _joint215
+    400040: _joint216
+    400042: _joint217
+    400044: _joint218
+    400046: _joint219
+    400048: _joint220
+    400050: _joint221
+    400052: _joint222
+    400054: _joint223
+    400056: _joint224
+    400058: _joint225
+    400060: _joint226
+    400062: _joint227
+    400064: _joint228
+    400066: _joint229
+    400068: _joint230
+    400070: _joint231
+    400072: _joint232
+    400074: _joint233
+    400076: _joint234
+    400078: _joint235
+    400080: _joint236
+    400082: _joint237
+    400084: _joint238
+    400086: _joint239
+    400088: _joint240
+    400090: _joint241
+    400092: _joint242
+    400094: _joint243
+    400096: _joint244
+    400098: _joint245
+    400100: _joint246
+    400102: _joint247
+    400104: _joint248
+    400106: _joint249
+    400108: _joint250
+    400110: _nurbsCircle23
+    400112: _nurbsCircle26
+    400114: group58
+    400116: group64
+    400118: group65
+    400120: group66
+    400122: group67
+    400124: joint197
+    400126: joint198
+    400128: joint199
+    400130: joint200
+    400132: joint201
+    400134: joint202
+    400136: joint203
+    400138: joint204
+    400140: joint205
+    400142: joint206
+    400144: joint207
+    400146: joint208
+    400148: joint209
+    400150: joint210
+    400152: joint211
+    400154: joint212
+    400156: joint213
+    400158: joint214
+    400160: joint215
+    400162: joint216
+    400164: joint217
+    400166: joint218
+    400168: joint219
+    400170: joint220
+    400172: joint221
+    400174: joint222
+    400176: joint223
+    400178: joint224
+    400180: joint225
+    400182: joint226
+    400184: joint227
+    400186: joint228
+    400188: joint229
+    400190: joint230
+    400192: joint231
+    400194: joint232
+    400196: joint233
+    400198: joint234
+    400200: joint235
+    400202: joint236
+    400204: joint237
+    400206: joint238
+    400208: joint239
+    400210: joint240
+    400212: joint241
+    400214: joint242
+    400216: joint243
+    400218: joint244
+    400220: joint245
+    400222: joint246
+    400224: joint247
+    400226: joint248
+    400228: joint249
+    400230: joint250
+    400232: nurbsCircle23
+    400234: nurbsCircle26
+    400236: STCS_huolieniao_con
+    400238: STCS_huolieniao_MD
+    400240: STCS_huolieniao_MD1_1
+    400242: STCS_huolieniao_MD1_2
+    400244: STCS_huolieniao_MD1_3
+    400246: STCS_huolieniao_MD1_4
+    400248: STCS_huolieniao_MD1_5
+    400250: STCS_huolieniao_MD2_1
+    400252: STCS_huolieniao_MD2_2
+    400254: STCS_huolieniao_MD2_3
+    400256: STCS_huolieniao_MD2_4
+    400258: STCS_huolieniao_MD2_5
+    400260: //RootNode
+    400262: STCS_huolieniao_ani
+    2300000: STCS_huolieniao_MD1_2
+    2300002: STCS_huolieniao_MD1_3
+    2300004: STCS_huolieniao_MD1_4
+    2300006: STCS_huolieniao_MD2_1
+    2300008: STCS_huolieniao_MD2_2
+    2300010: STCS_huolieniao_MD2_3
+    3300000: STCS_huolieniao_MD1_2
+    3300002: STCS_huolieniao_MD1_3
+    3300004: STCS_huolieniao_MD1_4
+    3300006: STCS_huolieniao_MD2_1
+    3300008: STCS_huolieniao_MD2_2
+    3300010: STCS_huolieniao_MD2_3
+    4300000: STCS_huolieniao_MD2_2
+    4300002: STCS_huolieniao_MD2_1
+    4300004: STCS_huolieniao_MD2_3
+    4300006: STCS_huolieniao_MD1_4
+    4300008: STCS_huolieniao_MD1_3
+    4300010: STCS_huolieniao_MD1_2
+    4300012: STCS_huolieniao_MD1_1
+    4300014: STCS_huolieniao_MD1_5
+    4300016: STCS_huolieniao_MD2_4
+    4300018: STCS_huolieniao_MD2_5
+    7400000: dj_0
+    7400002: hd_0
+    11100000: //RootNode
+    13700000: STCS_huolieniao_MD1_1
+    13700002: STCS_huolieniao_MD1_5
+    13700004: STCS_huolieniao_MD2_4
+    13700006: STCS_huolieniao_MD2_5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_huolieniao_ani
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/group65
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/group65/STCS_huolieniao_MD1_2
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/group65/STCS_huolieniao_MD1_4
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/group65/STCS_huolieniao_MD1_4/STCS_huolieniao_MD1_3
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint204
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint204/joint205
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint204/joint205/joint206
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint204/joint205/joint206/joint207
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint208
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint208/joint209
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint208/joint210
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint208/joint211
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint212
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint231
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint231/joint232
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint231/joint232/joint233
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint231/joint234
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint231/joint235
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint236
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224/joint225
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224/joint225/joint226
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224/joint225/joint227
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224/joint225/joint228
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224/joint229
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238/joint239
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238/joint239/joint240
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238/joint239/joint240/joint241
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238/joint239/joint240/joint242
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238/joint239/joint240/joint243
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245/joint246
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245/joint246/joint247
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245/joint246/joint247/joint248
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245/joint246/joint247/joint249
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245/joint246/joint247/joint250
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint215
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint216
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint217
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint217/joint218
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint219
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint219/joint220
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint221
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint221/joint222
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint221/joint222/joint223
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint204
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint204/_joint205
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint204/_joint205/_joint206
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint204/_joint205/_joint206/_joint207
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint208
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint208/_joint209
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint208/_joint210
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint208/_joint211
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint212
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/group66
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/group66/STCS_huolieniao_MD2_2
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/group66/STCS_huolieniao_MD2_2/STCS_huolieniao_MD2_1
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/group66/STCS_huolieniao_MD2_3
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint231
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint231/_joint232
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint231/_joint232/_joint233
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint231/_joint234
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint231/_joint235
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint236
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224/_joint225
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224/_joint225/_joint226
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224/_joint225/_joint227
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224/_joint225/_joint228
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224/_joint229
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238/_joint239
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238/_joint239/_joint240
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238/_joint239/_joint240/_joint241
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238/_joint239/_joint240/_joint242
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238/_joint239/_joint240/_joint243
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245/_joint246
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245/_joint246/_joint247
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245/_joint246/_joint247/_joint248
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245/_joint246/_joint247/_joint249
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245/_joint246/_joint247/_joint250
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint215
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint216
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint217
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint217/_joint218
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint219
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint219/_joint220
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint221
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint221/_joint222
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint221/_joint222/_joint223
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_MD
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_MD/STCS_huolieniao_MD1_1
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_MD/STCS_huolieniao_MD1_5
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_MD/STCS_huolieniao_MD2_4
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_MD/STCS_huolieniao_MD2_5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 348
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_huolieniao_ani
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/group65
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/group65/STCS_huolieniao_MD1_2
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/group65/STCS_huolieniao_MD1_4
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/group65/STCS_huolieniao_MD1_4/STCS_huolieniao_MD1_3
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint204
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint204/joint205
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint204/joint205/joint206
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint204/joint205/joint206/joint207
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint208
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint208/joint209
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint208/joint210
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint208/joint211
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint199/joint200/joint201/joint202/joint203/joint212
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint231
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint231/joint232
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint231/joint232/joint233
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint231/joint234
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint231/joint235
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint198/joint230/joint236
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224/joint225
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224/joint225/joint226
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224/joint225/joint227
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224/joint225/joint228
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint224/joint229
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238/joint239
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238/joint239/joint240
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238/joint239/joint240/joint241
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238/joint239/joint240/joint242
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint237/joint238/joint239/joint240/joint243
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245/joint246
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245/joint246/joint247
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245/joint246/joint247/joint248
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245/joint246/joint247/joint249
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint197/joint244/joint245/joint246/joint247/joint250
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint215
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint216
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint217
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint217/joint218
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint219
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint219/joint220
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint221
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint221/joint222
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group58/nurbsCircle23/group64/nurbsCircle26/joint213/joint214/joint221/joint222/joint223
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint204
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint204/_joint205
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint204/_joint205/_joint206
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint204/_joint205/_joint206/_joint207
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint208
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint208/_joint209
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint208/_joint210
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint208/_joint211
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/_joint212
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/group66
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/group66/STCS_huolieniao_MD2_2
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/group66/STCS_huolieniao_MD2_2/STCS_huolieniao_MD2_1
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint199/_joint200/_joint201/_joint202/_joint203/group66/STCS_huolieniao_MD2_3
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint231
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint231/_joint232
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint231/_joint232/_joint233
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint231/_joint234
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint231/_joint235
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint198/_joint230/_joint236
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224/_joint225
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224/_joint225/_joint226
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224/_joint225/_joint227
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224/_joint225/_joint228
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint224/_joint229
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238/_joint239
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238/_joint239/_joint240
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238/_joint239/_joint240/_joint241
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238/_joint239/_joint240/_joint242
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint237/_joint238/_joint239/_joint240/_joint243
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245/_joint246
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245/_joint246/_joint247
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245/_joint246/_joint247/_joint248
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245/_joint246/_joint247/_joint249
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint197/_joint244/_joint245/_joint246/_joint247/_joint250
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint215
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint216
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint217
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint217/_joint218
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint219
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint219/_joint220
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint221
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint221/_joint222
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_con/group67/_nurbsCircle23/_group64/_nurbsCircle26/_joint213/_joint214/_joint221/_joint222/_joint223
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_MD
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_MD/STCS_huolieniao_MD1_1
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_MD/STCS_huolieniao_MD1_5
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_MD/STCS_huolieniao_MD2_4
+        weight: 1
+      - path: STCS_huolieniao_ani/STCS_huolieniao_MD/STCS_huolieniao_MD2_5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

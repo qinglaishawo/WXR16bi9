@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: dfb0afb0c02dc704f877f8fe45855cd1
+timeCreated: 1447913201
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: joint37
+    100002: joint38
+    100004: joint39
+    100006: joint40
+    100008: joint41
+    100010: joint42
+    100012: joint43
+    100014: joint44
+    100016: joint45
+    100018: joint46
+    100020: joint47
+    100022: joint48
+    100024: joint49
+    100026: joint50
+    100028: joint51
+    100030: joint52
+    100032: joint53
+    100034: nurbsCircle32
+    100036: polySurface25
+    100038: polySurface26
+    100040: polySurface27
+    100042: polySurface28
+    100044: polySurface29
+    100046: polySurface30
+    100048: polySurface31
+    100050: polySurface32
+    100052: STCS_maotouying_con
+    100054: STCS_maotouying_con 1
+    100056: STCS_maotouying_MD
+    100058: STCS_maotouying_MD_1
+    100060: STCS_maotouying_MD_2
+    100062: STCS_maotouying_MD_3
+    100064: STCS_maotouying_MD_4
+    100066: STCS_maotouying_MD_5
+    100068: STCS_maotouying_MD_6
+    100070: STCS_maotouying_MD_7
+    100072: STCS_maotouying_MD_8
+    100074: //RootNode
+    100076: transform1
+    100078: transform2
+    100080: transform3
+    100082: transform4
+    100084: wwwwwwwwwwww:joint37
+    100086: wwwwwwwwwwww:joint38
+    100088: wwwwwwwwwwww:joint39
+    100090: wwwwwwwwwwww:joint40
+    100092: wwwwwwwwwwww:joint41
+    100094: wwwwwwwwwwww:joint42
+    100096: wwwwwwwwwwww:joint43
+    100098: wwwwwwwwwwww:joint44
+    100100: wwwwwwwwwwww:joint45
+    100102: wwwwwwwwwwww:joint46
+    100104: wwwwwwwwwwww:joint47
+    100106: wwwwwwwwwwww:joint48
+    100108: wwwwwwwwwwww:joint49
+    100110: wwwwwwwwwwww:joint50
+    100112: wwwwwwwwwwww:joint51
+    100114: wwwwwwwwwwww:joint52
+    100116: wwwwwwwwwwww:joint53
+    100118: wwwwwwwwwwww:nurbsCircle32
+    100120: wwwwwwwwwwww:polySurface25
+    100122: wwwwwwwwwwww:polySurface26
+    100124: wwwwwwwwwwww:polySurface27
+    100126: wwwwwwwwwwww:polySurface28
+    100128: wwwwwwwwwwww:polySurface29
+    100130: wwwwwwwwwwww:polySurface30
+    100132: wwwwwwwwwwww:polySurface31
+    100134: wwwwwwwwwwww:polySurface32
+    100136: wwwwwwwwwwww:STCS_maotouying_con
+    100138: wwwwwwwwwwww:STCS_maotouying_MD_1
+    100140: wwwwwwwwwwww:STCS_maotouying_MD_2
+    100142: wwwwwwwwwwww:STCS_maotouying_MD_3
+    100144: wwwwwwwwwwww:STCS_maotouying_MD_4
+    100146: wwwwwwwwwwww:STCS_maotouying_MD_5
+    100148: wwwwwwwwwwww:STCS_maotouying_MD_6
+    100150: wwwwwwwwwwww:STCS_maotouying_MD_7
+    100152: wwwwwwwwwwww:STCS_maotouying_MD_8
+    400000: joint37
+    400002: joint38
+    400004: joint39
+    400006: joint40
+    400008: joint41
+    400010: joint42
+    400012: joint43
+    400014: joint44
+    400016: joint45
+    400018: joint46
+    400020: joint47
+    400022: joint48
+    400024: joint49
+    400026: joint50
+    400028: joint51
+    400030: joint52
+    400032: joint53
+    400034: nurbsCircle32
+    400036: polySurface25
+    400038: polySurface26
+    400040: polySurface27
+    400042: polySurface28
+    400044: polySurface29
+    400046: polySurface30
+    400048: polySurface31
+    400050: polySurface32
+    400052: STCS_maotouying_con
+    400054: STCS_maotouying_con 1
+    400056: STCS_maotouying_MD
+    400058: STCS_maotouying_MD_1
+    400060: STCS_maotouying_MD_2
+    400062: STCS_maotouying_MD_3
+    400064: STCS_maotouying_MD_4
+    400066: STCS_maotouying_MD_5
+    400068: STCS_maotouying_MD_6
+    400070: STCS_maotouying_MD_7
+    400072: STCS_maotouying_MD_8
+    400074: //RootNode
+    400076: transform1
+    400078: transform2
+    400080: transform3
+    400082: transform4
+    400084: wwwwwwwwwwww:joint37
+    400086: wwwwwwwwwwww:joint38
+    400088: wwwwwwwwwwww:joint39
+    400090: wwwwwwwwwwww:joint40
+    400092: wwwwwwwwwwww:joint41
+    400094: wwwwwwwwwwww:joint42
+    400096: wwwwwwwwwwww:joint43
+    400098: wwwwwwwwwwww:joint44
+    400100: wwwwwwwwwwww:joint45
+    400102: wwwwwwwwwwww:joint46
+    400104: wwwwwwwwwwww:joint47
+    400106: wwwwwwwwwwww:joint48
+    400108: wwwwwwwwwwww:joint49
+    400110: wwwwwwwwwwww:joint50
+    400112: wwwwwwwwwwww:joint51
+    400114: wwwwwwwwwwww:joint52
+    400116: wwwwwwwwwwww:joint53
+    400118: wwwwwwwwwwww:nurbsCircle32
+    400120: wwwwwwwwwwww:polySurface25
+    400122: wwwwwwwwwwww:polySurface26
+    400124: wwwwwwwwwwww:polySurface27
+    400126: wwwwwwwwwwww:polySurface28
+    400128: wwwwwwwwwwww:polySurface29
+    400130: wwwwwwwwwwww:polySurface30
+    400132: wwwwwwwwwwww:polySurface31
+    400134: wwwwwwwwwwww:polySurface32
+    400136: wwwwwwwwwwww:STCS_maotouying_con
+    400138: wwwwwwwwwwww:STCS_maotouying_MD_1
+    400140: wwwwwwwwwwww:STCS_maotouying_MD_2
+    400142: wwwwwwwwwwww:STCS_maotouying_MD_3
+    400144: wwwwwwwwwwww:STCS_maotouying_MD_4
+    400146: wwwwwwwwwwww:STCS_maotouying_MD_5
+    400148: wwwwwwwwwwww:STCS_maotouying_MD_6
+    400150: wwwwwwwwwwww:STCS_maotouying_MD_7
+    400152: wwwwwwwwwwww:STCS_maotouying_MD_8
+    2300000: STCS_maotouying_MD_2
+    2300002: STCS_maotouying_MD_3
+    2300004: STCS_maotouying_MD_4
+    2300006: STCS_maotouying_MD_5
+    2300008: STCS_maotouying_MD_6
+    2300010: STCS_maotouying_MD_7
+    2300012: STCS_maotouying_MD_8
+    2300014: wwwwwwwwwwww:STCS_maotouying_MD_2
+    2300016: wwwwwwwwwwww:STCS_maotouying_MD_3
+    2300018: wwwwwwwwwwww:STCS_maotouying_MD_4
+    2300020: wwwwwwwwwwww:STCS_maotouying_MD_5
+    2300022: wwwwwwwwwwww:STCS_maotouying_MD_6
+    2300024: wwwwwwwwwwww:STCS_maotouying_MD_7
+    2300026: wwwwwwwwwwww:STCS_maotouying_MD_8
+    3300000: STCS_maotouying_MD_2
+    3300002: STCS_maotouying_MD_3
+    3300004: STCS_maotouying_MD_4
+    3300006: STCS_maotouying_MD_5
+    3300008: STCS_maotouying_MD_6
+    3300010: STCS_maotouying_MD_7
+    3300012: STCS_maotouying_MD_8
+    3300014: wwwwwwwwwwww:STCS_maotouying_MD_2
+    3300016: wwwwwwwwwwww:STCS_maotouying_MD_3
+    3300018: wwwwwwwwwwww:STCS_maotouying_MD_4
+    3300020: wwwwwwwwwwww:STCS_maotouying_MD_5
+    3300022: wwwwwwwwwwww:STCS_maotouying_MD_6
+    3300024: wwwwwwwwwwww:STCS_maotouying_MD_7
+    3300026: wwwwwwwwwwww:STCS_maotouying_MD_8
+    4300000: polySurface31
+    4300002: polySurface32
+    4300004: polySurface30
+    4300006: polySurface28
+    4300008: polySurface26
+    4300010: STCS_maotouying_MD_3
+    4300012: STCS_maotouying_MD_4
+    4300014: STCS_maotouying_MD_8
+    4300016: STCS_maotouying_MD_6
+    4300018: STCS_maotouying_MD_5
+    4300020: STCS_maotouying_MD_7
+    4300022: STCS_maotouying_MD_2
+    4300024: wwwwwwwwwwww:polySurface31
+    4300026: wwwwwwwwwwww:polySurface32
+    4300028: wwwwwwwwwwww:polySurface30
+    4300030: wwwwwwwwwwww:polySurface28
+    4300032: wwwwwwwwwwww:polySurface26
+    4300034: wwwwwwwwwwww:STCS_maotouying_MD_3
+    4300036: wwwwwwwwwwww:STCS_maotouying_MD_4
+    4300038: wwwwwwwwwwww:STCS_maotouying_MD_8
+    4300040: wwwwwwwwwwww:STCS_maotouying_MD_6
+    4300042: wwwwwwwwwwww:STCS_maotouying_MD_5
+    4300044: wwwwwwwwwwww:STCS_maotouying_MD_7
+    4300046: wwwwwwwwwwww:STCS_maotouying_MD_2
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface26
+    13700002: polySurface28
+    13700004: polySurface30
+    13700006: polySurface31
+    13700008: polySurface32
+    13700010: wwwwwwwwwwww:polySurface26
+    13700012: wwwwwwwwwwww:polySurface28
+    13700014: wwwwwwwwwwww:polySurface30
+    13700016: wwwwwwwwwwww:polySurface31
+    13700018: wwwwwwwwwwww:polySurface32
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 35
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_maotouying_con
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint38
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint38/joint39
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint38/joint41
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint38/joint41/joint42
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint43
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint43/joint44
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint43/joint44/joint45
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint46
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint46/joint47
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint46/joint47/joint48
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint51
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint51/joint52
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint51/joint52/joint49
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint51/joint53
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint51/joint53/joint50
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_2
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_3
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_4
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_5
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_6
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_7
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_8
+        weight: 1
+      - path: STCS_maotouying_MD
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/polySurface29
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/polySurface29/polySurface31
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/polySurface29/polySurface32
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/polySurface29/transform4
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/polySurface30
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/transform3
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface28
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/transform2
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface26
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/transform1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 35
+      lastFrame: 300
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_maotouying_con
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint38
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint38/joint39
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint38/joint41
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint38/joint41/joint42
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint43
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint43/joint44
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint43/joint44/joint45
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint46
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint46/joint47
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint46/joint47/joint48
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint51
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint51/joint52
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint51/joint52/joint49
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint51/joint53
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/joint51/joint53/joint50
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_2
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_3
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_4
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_5
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_6
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_7
+        weight: 1
+      - path: STCS_maotouying_con/nurbsCircle32/STCS_maotouying_con 1/joint37/STCS_maotouying_MD_8
+        weight: 1
+      - path: STCS_maotouying_MD
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/polySurface29
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/polySurface29/polySurface31
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/polySurface29/polySurface32
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/polySurface29/transform4
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/polySurface30
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface27/transform3
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/polySurface28
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface25/transform2
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/polySurface26
+        weight: 1
+      - path: STCS_maotouying_MD/STCS_maotouying_MD_1/transform1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

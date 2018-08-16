@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 5b7655e82c0b93f408d89bbb73650fd2
+timeCreated: 1449556563
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group
+    100002: group11
+    100004: group14
+    100006: group16
+    100008: joint138
+    100010: joint139
+    100012: joint140
+    100014: joint141
+    100016: joint142
+    100018: joint143
+    100020: joint144
+    100022: joint145
+    100024: joint146
+    100026: joint147
+    100028: joint148
+    100030: joint149
+    100032: joint150
+    100034: joint151
+    100036: joint152
+    100038: joint153
+    100040: joint154
+    100042: joint155
+    100044: joint156
+    100046: joint157
+    100048: joint158
+    100050: joint159
+    100052: joint160
+    100054: joint161
+    100056: nurbsCircle31
+    100058: pasted__STCS_juese_MD
+    100060: pasted__STCS_qiuqiu_MD
+    100062: pasted__STCS_qiuqiu_MD14_1
+    100064: pasted__STCS_qiuqiu_MD14_10
+    100066: pasted__STCS_qiuqiu_MD14_11
+    100068: pasted__STCS_qiuqiu_MD14_12
+    100070: pasted__STCS_qiuqiu_MD14_13
+    100072: pasted__STCS_qiuqiu_MD14_14
+    100074: pasted__STCS_qiuqiu_MD14_2
+    100076: pasted__STCS_qiuqiu_MD14_3
+    100078: pasted__STCS_qiuqiu_MD14_4
+    100080: pasted__STCS_qiuqiu_MD14_5
+    100082: pasted__STCS_qiuqiu_MD14_6
+    100084: pasted__STCS_qiuqiu_MD14_7
+    100086: pasted__STCS_qiuqiu_MD14_8
+    100088: pasted__STCS_qiuqiu_MD14_9
+    100090: //RootNode
+    100092: STCS_songshu_con
+    100094: STCS_songshu_MD
+    100096: STCS_songshu_MD_1
+    100098: STCS_songshu_MD_2
+    100100: STCS_songshu_MD_3
+    100102: STCS_songshu_MD_4
+    100104: STCS_songshu_MD_5
+    100106: STCS_songshu_MD_6
+    100108: STCS_songshu_MD_7
+    100110: STCS_songshu_MD_8
+    400000: group
+    400002: group11
+    400004: group14
+    400006: group16
+    400008: joint138
+    400010: joint139
+    400012: joint140
+    400014: joint141
+    400016: joint142
+    400018: joint143
+    400020: joint144
+    400022: joint145
+    400024: joint146
+    400026: joint147
+    400028: joint148
+    400030: joint149
+    400032: joint150
+    400034: joint151
+    400036: joint152
+    400038: joint153
+    400040: joint154
+    400042: joint155
+    400044: joint156
+    400046: joint157
+    400048: joint158
+    400050: joint159
+    400052: joint160
+    400054: joint161
+    400056: nurbsCircle31
+    400058: pasted__STCS_juese_MD
+    400060: pasted__STCS_qiuqiu_MD
+    400062: pasted__STCS_qiuqiu_MD14_1
+    400064: pasted__STCS_qiuqiu_MD14_10
+    400066: pasted__STCS_qiuqiu_MD14_11
+    400068: pasted__STCS_qiuqiu_MD14_12
+    400070: pasted__STCS_qiuqiu_MD14_13
+    400072: pasted__STCS_qiuqiu_MD14_14
+    400074: pasted__STCS_qiuqiu_MD14_2
+    400076: pasted__STCS_qiuqiu_MD14_3
+    400078: pasted__STCS_qiuqiu_MD14_4
+    400080: pasted__STCS_qiuqiu_MD14_5
+    400082: pasted__STCS_qiuqiu_MD14_6
+    400084: pasted__STCS_qiuqiu_MD14_7
+    400086: pasted__STCS_qiuqiu_MD14_8
+    400088: pasted__STCS_qiuqiu_MD14_9
+    400090: //RootNode
+    400092: STCS_songshu_con
+    400094: STCS_songshu_MD
+    400096: STCS_songshu_MD_1
+    400098: STCS_songshu_MD_2
+    400100: STCS_songshu_MD_3
+    400102: STCS_songshu_MD_4
+    400104: STCS_songshu_MD_5
+    400106: STCS_songshu_MD_6
+    400108: STCS_songshu_MD_7
+    400110: STCS_songshu_MD_8
+    2300000: pasted__STCS_qiuqiu_MD14_1
+    2300002: pasted__STCS_qiuqiu_MD14_10
+    2300004: pasted__STCS_qiuqiu_MD14_11
+    2300006: pasted__STCS_qiuqiu_MD14_12
+    2300008: pasted__STCS_qiuqiu_MD14_13
+    2300010: pasted__STCS_qiuqiu_MD14_14
+    2300012: pasted__STCS_qiuqiu_MD14_2
+    2300014: pasted__STCS_qiuqiu_MD14_3
+    2300016: pasted__STCS_qiuqiu_MD14_4
+    2300018: pasted__STCS_qiuqiu_MD14_5
+    2300020: pasted__STCS_qiuqiu_MD14_6
+    2300022: pasted__STCS_qiuqiu_MD14_7
+    2300024: pasted__STCS_qiuqiu_MD14_8
+    2300026: pasted__STCS_qiuqiu_MD14_9
+    2300028: STCS_songshu_MD_2
+    2300030: STCS_songshu_MD_3
+    2300032: STCS_songshu_MD_4
+    2300034: STCS_songshu_MD_5
+    2300036: STCS_songshu_MD_6
+    2300038: STCS_songshu_MD_7
+    2300040: STCS_songshu_MD_8
+    3300000: pasted__STCS_qiuqiu_MD14_1
+    3300002: pasted__STCS_qiuqiu_MD14_10
+    3300004: pasted__STCS_qiuqiu_MD14_11
+    3300006: pasted__STCS_qiuqiu_MD14_12
+    3300008: pasted__STCS_qiuqiu_MD14_13
+    3300010: pasted__STCS_qiuqiu_MD14_14
+    3300012: pasted__STCS_qiuqiu_MD14_2
+    3300014: pasted__STCS_qiuqiu_MD14_3
+    3300016: pasted__STCS_qiuqiu_MD14_4
+    3300018: pasted__STCS_qiuqiu_MD14_5
+    3300020: pasted__STCS_qiuqiu_MD14_6
+    3300022: pasted__STCS_qiuqiu_MD14_7
+    3300024: pasted__STCS_qiuqiu_MD14_8
+    3300026: pasted__STCS_qiuqiu_MD14_9
+    3300028: STCS_songshu_MD_2
+    3300030: STCS_songshu_MD_3
+    3300032: STCS_songshu_MD_4
+    3300034: STCS_songshu_MD_5
+    3300036: STCS_songshu_MD_6
+    3300038: STCS_songshu_MD_7
+    3300040: STCS_songshu_MD_8
+    4300000: STCS_songshu_MD_1
+    4300002: STCS_songshu_MD_3
+    4300004: STCS_songshu_MD_7
+    4300006: STCS_songshu_MD_4
+    4300008: STCS_songshu_MD_8
+    4300010: STCS_songshu_MD_5
+    4300012: STCS_songshu_MD_6
+    4300014: STCS_songshu_MD_2
+    4300016: pasted__STCS_qiuqiu_MD14_1
+    4300018: pasted__STCS_qiuqiu_MD14_7
+    4300020: pasted__STCS_qiuqiu_MD14_4
+    4300022: pasted__STCS_qiuqiu_MD14_6
+    4300024: pasted__STCS_qiuqiu_MD14_2
+    4300026: pasted__STCS_qiuqiu_MD14_3
+    4300028: pasted__STCS_qiuqiu_MD14_5
+    4300030: pasted__STCS_qiuqiu_MD14_8
+    4300032: pasted__STCS_qiuqiu_MD14_9
+    4300034: pasted__STCS_qiuqiu_MD14_10
+    4300036: pasted__STCS_qiuqiu_MD14_11
+    4300038: pasted__STCS_qiuqiu_MD14_12
+    4300040: pasted__STCS_qiuqiu_MD14_13
+    4300042: pasted__STCS_qiuqiu_MD14_14
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: STCS_songshu_MD_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 103
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__STCS_juese_MD
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_2
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_3
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_4
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_5
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_6
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_7
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_8
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_9
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_10
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_11
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_12
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_13
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_14
+        weight: 1
+      - path: STCS_songshu_con
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/joint158
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/joint158/joint159
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/joint160
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/joint160/joint161
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_3
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_4
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_5
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_6
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_7
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_8
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint145
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint145/joint146
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint147
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint147/joint148
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint144
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint144/joint156
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint144/joint156/joint157
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150/joint151
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150/joint151/joint152
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150/joint151/joint152/joint153
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150/joint151/joint152/joint153/joint154
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150/joint151/joint152/joint153/joint154/joint155
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group16
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group16/STCS_songshu_MD_2
+        weight: 1
+      - path: STCS_songshu_MD
+        weight: 1
+      - path: STCS_songshu_MD/STCS_songshu_MD_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 103
+      lastFrame: 237
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__STCS_juese_MD
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_2
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_3
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_4
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_5
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_6
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_7
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_1/pasted__STCS_qiuqiu_MD14_8
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_9
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_10
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_11
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_12
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_13
+        weight: 1
+      - path: group/pasted__STCS_juese_MD/group14/pasted__STCS_qiuqiu_MD/pasted__STCS_qiuqiu_MD14_14
+        weight: 1
+      - path: STCS_songshu_con
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/joint158
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/joint158/joint159
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/joint160
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/joint160/joint161
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_3
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_4
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_5
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_6
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_7
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint141/joint142/STCS_songshu_MD_8
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint145
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint145/joint146
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint147
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint139/joint140/joint147/joint148
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint144
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint144/joint156
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint144/joint156/joint157
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150/joint151
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150/joint151/joint152
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150/joint151/joint152/joint153
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150/joint151/joint152/joint153/joint154
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group11/joint138/joint143/joint149/joint150/joint151/joint152/joint153/joint154/joint155
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group16
+        weight: 1
+      - path: STCS_songshu_con/nurbsCircle31/group16/STCS_songshu_MD_2
+        weight: 1
+      - path: STCS_songshu_MD
+        weight: 1
+      - path: STCS_songshu_MD/STCS_songshu_MD_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

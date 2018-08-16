@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 0b456189691ed384799e6ea93b1f4290
+timeCreated: 1447911989
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bg_BB_cn:bianfu1
+    100002: bg_BB_cn:bianfu:group
+    100004: bg_BB_cn:bianfu:group1
+    100006: bg_BB_cn:bianfu:joint1
+    100008: bg_BB_cn:bianfu:joint10
+    100010: bg_BB_cn:bianfu:joint11
+    100012: bg_BB_cn:bianfu:joint12
+    100014: bg_BB_cn:bianfu:joint13
+    100016: bg_BB_cn:bianfu:joint14
+    100018: bg_BB_cn:bianfu:joint15
+    100020: bg_BB_cn:bianfu:joint16
+    100022: bg_BB_cn:bianfu:joint17
+    100024: bg_BB_cn:bianfu:joint18
+    100026: bg_BB_cn:bianfu:joint19
+    100028: bg_BB_cn:bianfu:joint2
+    100030: bg_BB_cn:bianfu:joint20
+    100032: bg_BB_cn:bianfu:joint21
+    100034: bg_BB_cn:bianfu:joint22
+    100036: bg_BB_cn:bianfu:joint23
+    100038: bg_BB_cn:bianfu:joint24
+    100040: bg_BB_cn:bianfu:joint25
+    100042: bg_BB_cn:bianfu:joint26
+    100044: bg_BB_cn:bianfu:joint27
+    100046: bg_BB_cn:bianfu:joint28
+    100048: bg_BB_cn:bianfu:joint29
+    100050: bg_BB_cn:bianfu:joint3
+    100052: bg_BB_cn:bianfu:joint30
+    100054: bg_BB_cn:bianfu:joint31
+    100056: bg_BB_cn:bianfu:joint32
+    100058: bg_BB_cn:bianfu:joint33
+    100060: bg_BB_cn:bianfu:joint34
+    100062: bg_BB_cn:bianfu:joint35
+    100064: bg_BB_cn:bianfu:joint4
+    100066: bg_BB_cn:bianfu:joint5
+    100068: bg_BB_cn:bianfu:joint6
+    100070: bg_BB_cn:bianfu:joint7
+    100072: bg_BB_cn:bianfu:joint8
+    100074: bg_BB_cn:bianfu:joint9
+    100076: bg_BB_cn:bianfu:nurbsCircle1
+    100078: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_l_MD
+    100080: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_r_MD
+    100082: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_MD
+    100084: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_shenti_MD
+    100086: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_l_MD
+    100088: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_r_MD
+    100090: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_l_MD
+    100092: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_r_MD
+    100094: bg_BB_cn:bianfu:transform1
+    100096: //RootNode
+    400000: bg_BB_cn:bianfu1
+    400002: bg_BB_cn:bianfu:group
+    400004: bg_BB_cn:bianfu:group1
+    400006: bg_BB_cn:bianfu:joint1
+    400008: bg_BB_cn:bianfu:joint10
+    400010: bg_BB_cn:bianfu:joint11
+    400012: bg_BB_cn:bianfu:joint12
+    400014: bg_BB_cn:bianfu:joint13
+    400016: bg_BB_cn:bianfu:joint14
+    400018: bg_BB_cn:bianfu:joint15
+    400020: bg_BB_cn:bianfu:joint16
+    400022: bg_BB_cn:bianfu:joint17
+    400024: bg_BB_cn:bianfu:joint18
+    400026: bg_BB_cn:bianfu:joint19
+    400028: bg_BB_cn:bianfu:joint2
+    400030: bg_BB_cn:bianfu:joint20
+    400032: bg_BB_cn:bianfu:joint21
+    400034: bg_BB_cn:bianfu:joint22
+    400036: bg_BB_cn:bianfu:joint23
+    400038: bg_BB_cn:bianfu:joint24
+    400040: bg_BB_cn:bianfu:joint25
+    400042: bg_BB_cn:bianfu:joint26
+    400044: bg_BB_cn:bianfu:joint27
+    400046: bg_BB_cn:bianfu:joint28
+    400048: bg_BB_cn:bianfu:joint29
+    400050: bg_BB_cn:bianfu:joint3
+    400052: bg_BB_cn:bianfu:joint30
+    400054: bg_BB_cn:bianfu:joint31
+    400056: bg_BB_cn:bianfu:joint32
+    400058: bg_BB_cn:bianfu:joint33
+    400060: bg_BB_cn:bianfu:joint34
+    400062: bg_BB_cn:bianfu:joint35
+    400064: bg_BB_cn:bianfu:joint4
+    400066: bg_BB_cn:bianfu:joint5
+    400068: bg_BB_cn:bianfu:joint6
+    400070: bg_BB_cn:bianfu:joint7
+    400072: bg_BB_cn:bianfu:joint8
+    400074: bg_BB_cn:bianfu:joint9
+    400076: bg_BB_cn:bianfu:nurbsCircle1
+    400078: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_l_MD
+    400080: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_r_MD
+    400082: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_MD
+    400084: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_shenti_MD
+    400086: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_l_MD
+    400088: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_r_MD
+    400090: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_l_MD
+    400092: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_r_MD
+    400094: bg_BB_cn:bianfu:transform1
+    400096: //RootNode
+    2300000: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_l_MD
+    2300002: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_r_MD
+    2300004: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_l_MD
+    2300006: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_r_MD
+    2300008: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_l_MD
+    2300010: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_r_MD
+    3300000: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_l_MD
+    3300002: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_r_MD
+    3300004: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_l_MD
+    3300006: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_r_MD
+    3300008: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_l_MD
+    3300010: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_r_MD
+    4300000: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_shenti_MD
+    4300002: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_r_MD
+    4300004: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_r_MD
+    4300006: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_r_MD
+    4300008: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_l_MD
+    4300010: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_l_MD
+    4300012: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_l_MD
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: bg_BB_cn:bianfu:pasted__STCS_waixingren_06_shenti_MD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bg_BB_cn:bianfu1
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_MD/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_shenti_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3/bg_BB_cn:bianfu:joint4
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3/bg_BB_cn:bianfu:joint4/bg_BB_cn:bianfu:joint5
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3/bg_BB_cn:bianfu:joint4/bg_BB_cn:bianfu:joint5/bg_BB_cn:bianfu:joint6
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3/bg_BB_cn:bianfu:joint4/bg_BB_cn:bianfu:joint5/bg_BB_cn:bianfu:joint6/bg_BB_cn:bianfu:joint7
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3/bg_BB_cn:bianfu:joint4/bg_BB_cn:bianfu:joint5/bg_BB_cn:bianfu:joint6/bg_BB_cn:bianfu:joint7/bg_BB_cn:bianfu:joint8
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint11
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint11/bg_BB_cn:bianfu:joint12
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint11/bg_BB_cn:bianfu:joint12/bg_BB_cn:bianfu:joint13
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint11/bg_BB_cn:bianfu:joint12/bg_BB_cn:bianfu:joint13/bg_BB_cn:bianfu:joint14
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint11/bg_BB_cn:bianfu:joint15
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint16
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint19
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint19/bg_BB_cn:bianfu:joint20
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint19/bg_BB_cn:bianfu:joint20/bg_BB_cn:bianfu:joint21
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint19/bg_BB_cn:bianfu:joint20/bg_BB_cn:bianfu:joint21/bg_BB_cn:bianfu:joint22
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint19/bg_BB_cn:bianfu:joint23
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint24
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint25
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint25/bg_BB_cn:bianfu:joint26
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint25/bg_BB_cn:bianfu:joint26/bg_BB_cn:bianfu:joint27
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint25/bg_BB_cn:bianfu:joint26/bg_BB_cn:bianfu:joint27/bg_BB_cn:bianfu:joint28
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint25/bg_BB_cn:bianfu:joint26/bg_BB_cn:bianfu:joint27/bg_BB_cn:bianfu:joint28/bg_BB_cn:bianfu:joint29
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30/bg_BB_cn:bianfu:joint31
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30/bg_BB_cn:bianfu:joint31/bg_BB_cn:bianfu:joint32
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30/bg_BB_cn:bianfu:joint31/bg_BB_cn:bianfu:joint32/bg_BB_cn:bianfu:joint33
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30/bg_BB_cn:bianfu:joint31/bg_BB_cn:bianfu:joint32/bg_BB_cn:bianfu:joint33/bg_BB_cn:bianfu:joint34
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30/bg_BB_cn:bianfu:joint31/bg_BB_cn:bianfu:joint32/bg_BB_cn:bianfu:joint33/bg_BB_cn:bianfu:joint34/bg_BB_cn:bianfu:joint35
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_l_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_r_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_l_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_r_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_l_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_r_MD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 119.000008
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bg_BB_cn:bianfu1
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_MD/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_shenti_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3/bg_BB_cn:bianfu:joint4
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3/bg_BB_cn:bianfu:joint4/bg_BB_cn:bianfu:joint5
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3/bg_BB_cn:bianfu:joint4/bg_BB_cn:bianfu:joint5/bg_BB_cn:bianfu:joint6
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3/bg_BB_cn:bianfu:joint4/bg_BB_cn:bianfu:joint5/bg_BB_cn:bianfu:joint6/bg_BB_cn:bianfu:joint7
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint2/bg_BB_cn:bianfu:joint3/bg_BB_cn:bianfu:joint4/bg_BB_cn:bianfu:joint5/bg_BB_cn:bianfu:joint6/bg_BB_cn:bianfu:joint7/bg_BB_cn:bianfu:joint8
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint11
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint11/bg_BB_cn:bianfu:joint12
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint11/bg_BB_cn:bianfu:joint12/bg_BB_cn:bianfu:joint13
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint11/bg_BB_cn:bianfu:joint12/bg_BB_cn:bianfu:joint13/bg_BB_cn:bianfu:joint14
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint11/bg_BB_cn:bianfu:joint15
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint9/bg_BB_cn:bianfu:joint10/bg_BB_cn:bianfu:joint16
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint19
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint19/bg_BB_cn:bianfu:joint20
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint19/bg_BB_cn:bianfu:joint20/bg_BB_cn:bianfu:joint21
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint19/bg_BB_cn:bianfu:joint20/bg_BB_cn:bianfu:joint21/bg_BB_cn:bianfu:joint22
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint19/bg_BB_cn:bianfu:joint23
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint17/bg_BB_cn:bianfu:joint18/bg_BB_cn:bianfu:joint24
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint25
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint25/bg_BB_cn:bianfu:joint26
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint25/bg_BB_cn:bianfu:joint26/bg_BB_cn:bianfu:joint27
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint25/bg_BB_cn:bianfu:joint26/bg_BB_cn:bianfu:joint27/bg_BB_cn:bianfu:joint28
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint25/bg_BB_cn:bianfu:joint26/bg_BB_cn:bianfu:joint27/bg_BB_cn:bianfu:joint28/bg_BB_cn:bianfu:joint29
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30/bg_BB_cn:bianfu:joint31
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30/bg_BB_cn:bianfu:joint31/bg_BB_cn:bianfu:joint32
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30/bg_BB_cn:bianfu:joint31/bg_BB_cn:bianfu:joint32/bg_BB_cn:bianfu:joint33
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30/bg_BB_cn:bianfu:joint31/bg_BB_cn:bianfu:joint32/bg_BB_cn:bianfu:joint33/bg_BB_cn:bianfu:joint34
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:joint30/bg_BB_cn:bianfu:joint31/bg_BB_cn:bianfu:joint32/bg_BB_cn:bianfu:joint33/bg_BB_cn:bianfu:joint34/bg_BB_cn:bianfu:joint35
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_l_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_biyan_r_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_l_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanjing_r_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_l_MD
+        weight: 1
+      - path: bg_BB_cn:bianfu1/bg_BB_cn:bianfu:group1/bg_BB_cn:bianfu:nurbsCircle1/bg_BB_cn:bianfu:transform1/bg_BB_cn:bianfu:joint1/bg_BB_cn:bianfu:pasted__STCS_waixingren_06_yanren_r_MD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

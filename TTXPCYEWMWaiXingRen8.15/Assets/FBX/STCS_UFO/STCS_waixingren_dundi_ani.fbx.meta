@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 46ad8125b7d84eb4393a1b4bfcffa4a6
+timeCreated: 1447913753
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: aa:joint103
+    100002: aa:joint104
+    100004: aa:joint105
+    100006: aa:joint106
+    100008: aa:joint107
+    100010: aa:joint108
+    100012: aa:joint109
+    100014: aa:joint110
+    100016: aa:joint111
+    100018: aa:joint112
+    100020: aa:joint113
+    100022: aa:Object018
+    100024: aa:Object019
+    100026: aa:Object023
+    100028: aa:Object024
+    100030: aa:Object025
+    100032: aa:Object026
+    100034: aa:Plane005
+    100036: aa:STCS_waixingren_10_MD
+    100038: group10
+    100040: group11
+    100042: group12
+    100044: group13
+    100046: group14
+    100048: group15
+    100050: group16
+    100052: group17
+    100054: group19
+    100056: group8
+    100058: group9
+    100060: nurbsCircle7
+    100062: nurbsCircle8
+    100064: nurbsCircle8 1
+    100066: nurbsCircle8 2
+    100068: nurbsCircle8 3
+    100070: nurbsCircle8 4
+    100072: nurbsCircle8 5
+    100074: nurbsCircle8 6
+    100076: nurbsCircle8 7
+    100078: nurbsCircle8 8
+    100080: //RootNode
+    100082: transform15
+    100084: transform16
+    100086: transform17
+    100088: transform18
+    100090: transform19
+    100092: transform20
+    100094: transform21
+    100096: transform22
+    100098: transform23
+    100100: transform24
+    100102: aa1:STCS_waixingren_10_MD
+    100104: aa2:STCS_waixingren_10_MD
+    100106: group
+    100108: group20
+    100110: pasted__group10
+    100112: pasted__group11
+    100114: pasted__group12
+    100116: pasted__group13
+    100118: pasted__group14
+    100120: pasted__group15
+    100122: pasted__group16
+    100124: pasted__group17
+    100126: pasted__group19
+    100128: pasted__group8
+    100130: pasted__group9
+    100132: pasted__nurbsCircle7
+    100134: pasted__nurbsCircle8
+    100136: pasted__nurbsCircle8 1
+    100138: pasted__nurbsCircle8 2
+    100140: pasted__nurbsCircle8 3
+    100142: pasted__nurbsCircle8 4
+    100144: pasted__nurbsCircle8 5
+    100146: pasted__nurbsCircle8 6
+    100148: pasted__nurbsCircle8 7
+    100150: pasted__nurbsCircle8 8
+    100152: pasted__transform22
+    100154: pasted__transform23
+    400000: aa:joint103
+    400002: aa:joint104
+    400004: aa:joint105
+    400006: aa:joint106
+    400008: aa:joint107
+    400010: aa:joint108
+    400012: aa:joint109
+    400014: aa:joint110
+    400016: aa:joint111
+    400018: aa:joint112
+    400020: aa:joint113
+    400022: aa:Object018
+    400024: aa:Object019
+    400026: aa:Object023
+    400028: aa:Object024
+    400030: aa:Object025
+    400032: aa:Object026
+    400034: aa:Plane005
+    400036: aa:STCS_waixingren_10_MD
+    400038: group10
+    400040: group11
+    400042: group12
+    400044: group13
+    400046: group14
+    400048: group15
+    400050: group16
+    400052: group17
+    400054: group19
+    400056: group8
+    400058: group9
+    400060: nurbsCircle7
+    400062: nurbsCircle8
+    400064: nurbsCircle8 1
+    400066: nurbsCircle8 2
+    400068: nurbsCircle8 3
+    400070: nurbsCircle8 4
+    400072: nurbsCircle8 5
+    400074: nurbsCircle8 6
+    400076: nurbsCircle8 7
+    400078: nurbsCircle8 8
+    400080: //RootNode
+    400082: transform15
+    400084: transform16
+    400086: transform17
+    400088: transform18
+    400090: transform19
+    400092: transform20
+    400094: transform21
+    400096: transform22
+    400098: transform23
+    400100: transform24
+    400102: aa1:STCS_waixingren_10_MD
+    400104: aa2:STCS_waixingren_10_MD
+    400106: group
+    400108: group20
+    400110: pasted__group10
+    400112: pasted__group11
+    400114: pasted__group12
+    400116: pasted__group13
+    400118: pasted__group14
+    400120: pasted__group15
+    400122: pasted__group16
+    400124: pasted__group17
+    400126: pasted__group19
+    400128: pasted__group8
+    400130: pasted__group9
+    400132: pasted__nurbsCircle7
+    400134: pasted__nurbsCircle8
+    400136: pasted__nurbsCircle8 1
+    400138: pasted__nurbsCircle8 2
+    400140: pasted__nurbsCircle8 3
+    400142: pasted__nurbsCircle8 4
+    400144: pasted__nurbsCircle8 5
+    400146: pasted__nurbsCircle8 6
+    400148: pasted__nurbsCircle8 7
+    400150: pasted__nurbsCircle8 8
+    400152: pasted__transform22
+    400154: pasted__transform23
+    2300000: aa:Object018
+    2300002: aa:Object019
+    2300004: aa:Object023
+    2300006: aa:Object024
+    2300008: aa:Object025
+    2300010: aa:Object026
+    3300000: aa:Object018
+    3300002: aa:Object019
+    3300004: aa:Object023
+    3300006: aa:Object024
+    3300008: aa:Object025
+    3300010: aa:Object026
+    4300000: aa:Plane005
+    4300002: aa:Object019
+    4300004: aa:Object018
+    4300006: aa:Object024
+    4300008: aa:Object023
+    4300010: aa:Object025
+    4300012: aa:Object026
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: aa:Plane005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 253
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aa:STCS_waixingren_10_MD
+        weight: 1
+      - path: aa:STCS_waixingren_10_MD/aa:Plane005
+        weight: 1
+      - path: group19
+        weight: 1
+      - path: group19/group8
+        weight: 1
+      - path: group19/group8/nurbsCircle7
+        weight: 1
+      - path: group19/group8/nurbsCircle7/aa:joint103
+        weight: 1
+      - path: group19/group8/nurbsCircle7/aa:joint103/aa:Object025
+        weight: 1
+      - path: group19/group8/nurbsCircle7/aa:joint103/aa:Object026
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform23
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform23/aa:joint112
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform23/aa:joint112/aa:Object018
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform24
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform24/aa:joint113
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform24/aa:joint113/aa:Object023
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform24/aa:joint113/aa:Object024
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/transform15
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/transform15/aa:joint111
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/transform16
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/transform16/aa:joint110
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/transform17
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/transform17/aa:joint109
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/transform18
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/transform18/aa:joint108
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/transform19
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/transform19/aa:joint107
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/transform20
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/transform20/aa:joint106
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/transform21
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/transform21/aa:joint105
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/transform22
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/transform22/aa:joint104
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/transform22/aa:joint104/aa:Object019
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 253
+      lastFrame: 390
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aa:STCS_waixingren_10_MD
+        weight: 1
+      - path: aa:STCS_waixingren_10_MD/aa:Plane005
+        weight: 1
+      - path: group19
+        weight: 1
+      - path: group19/group8
+        weight: 1
+      - path: group19/group8/nurbsCircle7
+        weight: 1
+      - path: group19/group8/nurbsCircle7/aa:joint103
+        weight: 1
+      - path: group19/group8/nurbsCircle7/aa:joint103/aa:Object025
+        weight: 1
+      - path: group19/group8/nurbsCircle7/aa:joint103/aa:Object026
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform23
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform23/aa:joint112
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform23/aa:joint112/aa:Object018
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform24
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform24/aa:joint113
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform24/aa:joint113/aa:Object023
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/group17/nurbsCircle8 8/transform24/aa:joint113/aa:Object024
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/transform15
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/group16/nurbsCircle8 7/transform15/aa:joint111
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/transform16
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/group15/nurbsCircle8 6/transform16/aa:joint110
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/transform17
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/group14/nurbsCircle8
+          5/transform17/aa:joint109
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/transform18
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/group13/nurbsCircle8 4/transform18/aa:joint108
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/transform19
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/group12/nurbsCircle8 3/transform19/aa:joint107
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/transform20
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/group11/nurbsCircle8 2/transform20/aa:joint106
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/transform21
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/group10/nurbsCircle8
+          1/transform21/aa:joint105
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/transform22
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/transform22/aa:joint104
+        weight: 1
+      - path: group19/group8/nurbsCircle7/group9/nurbsCircle8/transform22/aa:joint104/aa:Object019
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

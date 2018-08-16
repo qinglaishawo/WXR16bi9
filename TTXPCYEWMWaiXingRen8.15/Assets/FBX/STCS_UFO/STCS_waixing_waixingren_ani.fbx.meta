@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: b5a2c8008f75771489538fdea2709049
+timeCreated: 1447911991
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bg_BB_cn:waixingren1
+    100002: bg_BB_cn:waixingren:con
+    100004: bg_BB_cn:waixingren:con1
+    100006: bg_BB_cn:waixingren:group
+    100008: bg_BB_cn:waixingren:group1
+    100010: bg_BB_cn:waixingren:joint1
+    100012: bg_BB_cn:waixingren:joint10
+    100014: bg_BB_cn:waixingren:joint11
+    100016: bg_BB_cn:waixingren:joint12
+    100018: bg_BB_cn:waixingren:joint13
+    100020: bg_BB_cn:waixingren:joint14
+    100022: bg_BB_cn:waixingren:joint15
+    100024: bg_BB_cn:waixingren:joint16
+    100026: bg_BB_cn:waixingren:joint17
+    100028: bg_BB_cn:waixingren:joint18
+    100030: bg_BB_cn:waixingren:joint19
+    100032: bg_BB_cn:waixingren:joint2
+    100034: bg_BB_cn:waixingren:joint3
+    100036: bg_BB_cn:waixingren:joint4
+    100038: bg_BB_cn:waixingren:joint5
+    100040: bg_BB_cn:waixingren:joint6
+    100042: bg_BB_cn:waixingren:joint7
+    100044: bg_BB_cn:waixingren:joint8
+    100046: bg_BB_cn:waixingren:joint9
+    100048: bg_BB_cn:waixingren:nurbsCircle1
+    100050: bg_BB_cn:waixingren:pasted__Plane006
+    100052: bg_BB_cn:waixingren:pasted__STCS_waixingren_11_MD
+    100054: bg_BB_cn:waixingren:transform1
+    100056: bg_BB_cn:waixingren:transform2
+    100058: //RootNode
+    100060: bg_BB_cn:c01:group4
+    100062: bg_BB_cn:c01:maoguai:group
+    100064: bg_BB_cn:c01:maoguai:group2
+    100066: bg_BB_cn:c01:maoguai:group3
+    100068: bg_BB_cn:c01:maoguai:group4
+    100070: bg_BB_cn:c01:maoguai:joint1
+    100072: bg_BB_cn:c01:maoguai:joint11
+    100074: bg_BB_cn:c01:maoguai:joint12
+    100076: bg_BB_cn:c01:maoguai:joint13
+    100078: bg_BB_cn:c01:maoguai:joint14
+    100080: bg_BB_cn:c01:maoguai:joint15
+    100082: bg_BB_cn:c01:maoguai:joint16
+    100084: bg_BB_cn:c01:maoguai:joint17
+    100086: bg_BB_cn:c01:maoguai:joint18
+    100088: bg_BB_cn:c01:maoguai:joint19
+    100090: bg_BB_cn:c01:maoguai:joint2
+    100092: bg_BB_cn:c01:maoguai:joint20
+    100094: bg_BB_cn:c01:maoguai:joint21
+    100096: bg_BB_cn:c01:maoguai:joint22
+    100098: bg_BB_cn:c01:maoguai:joint23
+    100100: bg_BB_cn:c01:maoguai:joint24
+    100102: bg_BB_cn:c01:maoguai:joint26
+    100104: bg_BB_cn:c01:maoguai:joint28
+    100106: bg_BB_cn:c01:maoguai:joint3
+    100108: bg_BB_cn:c01:maoguai:joint30
+    100110: bg_BB_cn:c01:maoguai:joint4
+    100112: bg_BB_cn:c01:maoguai:joint5
+    100114: bg_BB_cn:c01:maoguai:joint6
+    100116: bg_BB_cn:c01:maoguai:joint7
+    100118: bg_BB_cn:c01:maoguai:joint8
+    100120: bg_BB_cn:c01:maoguai:joint9
+    100122: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_biyan_l_MD
+    100124: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_biyan_r_MD
+    100126: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_MD
+    100128: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_shenti_MD
+    100130: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanjing_l_MD
+    100132: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanjing_r_MD
+    100134: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanren_l_MD
+    100136: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanren_r_MD
+    100138: bg_BB_cn:c01:maoqiu
+    100140: bg_BB_cn1:BB
+    100142: bg_BB_cn1:waixingren1
+    100144: bg_BB_cn1:waixingren:group
+    100146: bg_BB_cn1:waixingren:pasted__STCS_waixingren_11_MD
+    100148: bg_BB_cn:BB
+    100150: group
+    400000: bg_BB_cn:waixingren1
+    400002: bg_BB_cn:waixingren:con
+    400004: bg_BB_cn:waixingren:con1
+    400006: bg_BB_cn:waixingren:group
+    400008: bg_BB_cn:waixingren:group1
+    400010: bg_BB_cn:waixingren:joint1
+    400012: bg_BB_cn:waixingren:joint10
+    400014: bg_BB_cn:waixingren:joint11
+    400016: bg_BB_cn:waixingren:joint12
+    400018: bg_BB_cn:waixingren:joint13
+    400020: bg_BB_cn:waixingren:joint14
+    400022: bg_BB_cn:waixingren:joint15
+    400024: bg_BB_cn:waixingren:joint16
+    400026: bg_BB_cn:waixingren:joint17
+    400028: bg_BB_cn:waixingren:joint18
+    400030: bg_BB_cn:waixingren:joint19
+    400032: bg_BB_cn:waixingren:joint2
+    400034: bg_BB_cn:waixingren:joint3
+    400036: bg_BB_cn:waixingren:joint4
+    400038: bg_BB_cn:waixingren:joint5
+    400040: bg_BB_cn:waixingren:joint6
+    400042: bg_BB_cn:waixingren:joint7
+    400044: bg_BB_cn:waixingren:joint8
+    400046: bg_BB_cn:waixingren:joint9
+    400048: bg_BB_cn:waixingren:nurbsCircle1
+    400050: bg_BB_cn:waixingren:pasted__Plane006
+    400052: bg_BB_cn:waixingren:pasted__STCS_waixingren_11_MD
+    400054: bg_BB_cn:waixingren:transform1
+    400056: bg_BB_cn:waixingren:transform2
+    400058: //RootNode
+    400060: bg_BB_cn:c01:group4
+    400062: bg_BB_cn:c01:maoguai:group
+    400064: bg_BB_cn:c01:maoguai:group2
+    400066: bg_BB_cn:c01:maoguai:group3
+    400068: bg_BB_cn:c01:maoguai:group4
+    400070: bg_BB_cn:c01:maoguai:joint1
+    400072: bg_BB_cn:c01:maoguai:joint11
+    400074: bg_BB_cn:c01:maoguai:joint12
+    400076: bg_BB_cn:c01:maoguai:joint13
+    400078: bg_BB_cn:c01:maoguai:joint14
+    400080: bg_BB_cn:c01:maoguai:joint15
+    400082: bg_BB_cn:c01:maoguai:joint16
+    400084: bg_BB_cn:c01:maoguai:joint17
+    400086: bg_BB_cn:c01:maoguai:joint18
+    400088: bg_BB_cn:c01:maoguai:joint19
+    400090: bg_BB_cn:c01:maoguai:joint2
+    400092: bg_BB_cn:c01:maoguai:joint20
+    400094: bg_BB_cn:c01:maoguai:joint21
+    400096: bg_BB_cn:c01:maoguai:joint22
+    400098: bg_BB_cn:c01:maoguai:joint23
+    400100: bg_BB_cn:c01:maoguai:joint24
+    400102: bg_BB_cn:c01:maoguai:joint26
+    400104: bg_BB_cn:c01:maoguai:joint28
+    400106: bg_BB_cn:c01:maoguai:joint3
+    400108: bg_BB_cn:c01:maoguai:joint30
+    400110: bg_BB_cn:c01:maoguai:joint4
+    400112: bg_BB_cn:c01:maoguai:joint5
+    400114: bg_BB_cn:c01:maoguai:joint6
+    400116: bg_BB_cn:c01:maoguai:joint7
+    400118: bg_BB_cn:c01:maoguai:joint8
+    400120: bg_BB_cn:c01:maoguai:joint9
+    400122: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_biyan_l_MD
+    400124: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_biyan_r_MD
+    400126: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_MD
+    400128: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_shenti_MD
+    400130: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanjing_l_MD
+    400132: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanjing_r_MD
+    400134: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanren_l_MD
+    400136: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanren_r_MD
+    400138: bg_BB_cn:c01:maoqiu
+    400140: bg_BB_cn1:BB
+    400142: bg_BB_cn1:waixingren1
+    400144: bg_BB_cn1:waixingren:group
+    400146: bg_BB_cn1:waixingren:pasted__STCS_waixingren_11_MD
+    400148: bg_BB_cn:BB
+    400150: group
+    2300000: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_biyan_l_MD
+    2300002: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_biyan_r_MD
+    2300004: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanjing_l_MD
+    2300006: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanjing_r_MD
+    2300008: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanren_l_MD
+    2300010: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanren_r_MD
+    3300000: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_biyan_l_MD
+    3300002: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_biyan_r_MD
+    3300004: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanjing_l_MD
+    3300006: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanjing_r_MD
+    3300008: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanren_l_MD
+    3300010: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanren_r_MD
+    4300000: bg_BB_cn:waixingren:pasted__Plane006
+    4300002: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_shenti_MD
+    4300004: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanjing_l_MD
+    4300006: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_biyan_l_MD
+    4300008: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanren_l_MD
+    4300010: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanjing_r_MD
+    4300012: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_yanren_r_MD
+    4300014: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_biyan_r_MD
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: bg_BB_cn:waixingren:pasted__Plane006
+    13700002: bg_BB_cn:c01:maoguai:pasted__STCS_waixingren_03_shenti_MD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bg_BB_cn:waixingren1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group/bg_BB_cn:waixingren:pasted__STCS_waixingren_11_MD
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group/bg_BB_cn:waixingren:pasted__STCS_waixingren_11_MD/bg_BB_cn:waixingren:pasted__Plane006
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint4
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint4/bg_BB_cn:waixingren:joint5
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint4/bg_BB_cn:waixingren:joint5/bg_BB_cn:waixingren:joint6
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint4/bg_BB_cn:waixingren:joint5/bg_BB_cn:waixingren:joint6/bg_BB_cn:waixingren:joint7
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint8
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint8/bg_BB_cn:waixingren:joint9
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint8/bg_BB_cn:waixingren:joint9/bg_BB_cn:waixingren:joint10
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint8/bg_BB_cn:waixingren:joint9/bg_BB_cn:waixingren:joint10/bg_BB_cn:waixingren:joint11
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint12
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint12/bg_BB_cn:waixingren:joint13
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint12/bg_BB_cn:waixingren:joint13/bg_BB_cn:waixingren:joint14
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint12/bg_BB_cn:waixingren:joint13/bg_BB_cn:waixingren:joint14/bg_BB_cn:waixingren:joint15
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint16
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint16/bg_BB_cn:waixingren:joint17
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint16/bg_BB_cn:waixingren:joint17/bg_BB_cn:waixingren:joint18
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint16/bg_BB_cn:waixingren:joint17/bg_BB_cn:waixingren:joint18/bg_BB_cn:waixingren:joint19
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform2
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform2/bg_BB_cn:waixingren:joint3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 111
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bg_BB_cn:waixingren1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group/bg_BB_cn:waixingren:pasted__STCS_waixingren_11_MD
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group/bg_BB_cn:waixingren:pasted__STCS_waixingren_11_MD/bg_BB_cn:waixingren:pasted__Plane006
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint4
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint4/bg_BB_cn:waixingren:joint5
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint4/bg_BB_cn:waixingren:joint5/bg_BB_cn:waixingren:joint6
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint4/bg_BB_cn:waixingren:joint5/bg_BB_cn:waixingren:joint6/bg_BB_cn:waixingren:joint7
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint8
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint8/bg_BB_cn:waixingren:joint9
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint8/bg_BB_cn:waixingren:joint9/bg_BB_cn:waixingren:joint10
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:con1/bg_BB_cn:waixingren:joint8/bg_BB_cn:waixingren:joint9/bg_BB_cn:waixingren:joint10/bg_BB_cn:waixingren:joint11
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint12
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint12/bg_BB_cn:waixingren:joint13
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint12/bg_BB_cn:waixingren:joint13/bg_BB_cn:waixingren:joint14
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint12/bg_BB_cn:waixingren:joint13/bg_BB_cn:waixingren:joint14/bg_BB_cn:waixingren:joint15
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint16
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint16/bg_BB_cn:waixingren:joint17
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint16/bg_BB_cn:waixingren:joint17/bg_BB_cn:waixingren:joint18
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform1/bg_BB_cn:waixingren:con/bg_BB_cn:waixingren:joint1/bg_BB_cn:waixingren:joint2/bg_BB_cn:waixingren:joint16/bg_BB_cn:waixingren:joint17/bg_BB_cn:waixingren:joint18/bg_BB_cn:waixingren:joint19
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform2
+        weight: 1
+      - path: bg_BB_cn:waixingren1/bg_BB_cn:waixingren:group1/bg_BB_cn:waixingren:nurbsCircle1/bg_BB_cn:waixingren:transform2/bg_BB_cn:waixingren:joint3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

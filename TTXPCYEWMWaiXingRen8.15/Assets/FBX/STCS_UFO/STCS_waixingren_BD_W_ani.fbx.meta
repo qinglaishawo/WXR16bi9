@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: a3877d42aa7a374498fb1c9e7f9a9533
+timeCreated: 1447913754
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: renwu:STCS_waixingren_buding_MD
+    100002: renwu:STCS_waixingren_buding_MD_17
+    100004: renwu:STCS_waixingren_buding_MD_18
+    100006: renwu:STCS_waixingren_buding_MD_19
+    100008: renwu:STCS_waixingren_buding_MD_20
+    100010: renwu:STCS_waixingren_buding_MD_21
+    100012: renwu:STCS_waixingren_buding_MD_22
+    100014: renwu:STCS_waixingren_buding_MD_23
+    100016: renwu:STCS_waixingren_buding_MD_24
+    100018: renwu:STCS_waixingren_buding_MD_25
+    100020: renwu:STCS_waixingren_buding_MD_26
+    100022: renwu:STCS_waixingren_buding_MD_27
+    100024: renwu:STCS_waixingren_buding_MD_28
+    100026: renwu:STCS_waixingren_buding_MD_29
+    100028: renwu:STCS_waixingren_buding_MD_30
+    100030: renwu:STCS_waixingren_buding_MD_31
+    100032: renwu:STCS_waixingren_buding_MD_32
+    100034: renwu:STCS_waixingren_buding_MD_33
+    100036: renwu:STCS_waixingren_buding_MD_34
+    100038: //RootNode
+    100040: group31
+    100042: group32
+    100044: renwu1:Object065
+    100046: renwu1:Object068
+    100048: renwu1:Object071
+    100050: renwu1:Object072
+    100052: renwu1:Object073
+    100054: renwu1:Object155
+    100056: renwu1:Object181
+    100058: renwu1:Object182
+    100060: renwu1:Object183
+    100062: renwu1:Object184
+    100064: renwu1:Object185
+    100066: renwu1:Object186
+    100068: renwu1:Object203
+    100070: renwu1:Object204
+    100072: renwu1:Object205
+    100074: renwu1:STCS_renwu_buding_taikong_MD
+    400000: renwu:STCS_waixingren_buding_MD
+    400002: renwu:STCS_waixingren_buding_MD_17
+    400004: renwu:STCS_waixingren_buding_MD_18
+    400006: renwu:STCS_waixingren_buding_MD_19
+    400008: renwu:STCS_waixingren_buding_MD_20
+    400010: renwu:STCS_waixingren_buding_MD_21
+    400012: renwu:STCS_waixingren_buding_MD_22
+    400014: renwu:STCS_waixingren_buding_MD_23
+    400016: renwu:STCS_waixingren_buding_MD_24
+    400018: renwu:STCS_waixingren_buding_MD_25
+    400020: renwu:STCS_waixingren_buding_MD_26
+    400022: renwu:STCS_waixingren_buding_MD_27
+    400024: renwu:STCS_waixingren_buding_MD_28
+    400026: renwu:STCS_waixingren_buding_MD_29
+    400028: renwu:STCS_waixingren_buding_MD_30
+    400030: renwu:STCS_waixingren_buding_MD_31
+    400032: renwu:STCS_waixingren_buding_MD_32
+    400034: renwu:STCS_waixingren_buding_MD_33
+    400036: renwu:STCS_waixingren_buding_MD_34
+    400038: //RootNode
+    400040: group31
+    400042: group32
+    400044: renwu1:Object065
+    400046: renwu1:Object068
+    400048: renwu1:Object071
+    400050: renwu1:Object072
+    400052: renwu1:Object073
+    400054: renwu1:Object155
+    400056: renwu1:Object181
+    400058: renwu1:Object182
+    400060: renwu1:Object183
+    400062: renwu1:Object184
+    400064: renwu1:Object185
+    400066: renwu1:Object186
+    400068: renwu1:Object203
+    400070: renwu1:Object204
+    400072: renwu1:Object205
+    400074: renwu1:STCS_renwu_buding_taikong_MD
+    2300000: renwu:STCS_waixingren_buding_MD_17
+    2300002: renwu:STCS_waixingren_buding_MD_18
+    2300004: renwu:STCS_waixingren_buding_MD_19
+    2300006: renwu:STCS_waixingren_buding_MD_20
+    2300008: renwu:STCS_waixingren_buding_MD_21
+    2300010: renwu:STCS_waixingren_buding_MD_22
+    2300012: renwu:STCS_waixingren_buding_MD_23
+    2300014: renwu:STCS_waixingren_buding_MD_24
+    2300016: renwu:STCS_waixingren_buding_MD_25
+    2300018: renwu:STCS_waixingren_buding_MD_26
+    2300020: renwu:STCS_waixingren_buding_MD_27
+    2300022: renwu:STCS_waixingren_buding_MD_28
+    2300024: renwu:STCS_waixingren_buding_MD_29
+    2300026: renwu:STCS_waixingren_buding_MD_30
+    2300028: renwu:STCS_waixingren_buding_MD_31
+    2300030: renwu:STCS_waixingren_buding_MD_32
+    2300032: renwu:STCS_waixingren_buding_MD_33
+    2300034: renwu:STCS_waixingren_buding_MD_34
+    2300036: renwu1:Object065
+    2300038: renwu1:Object068
+    2300040: renwu1:Object071
+    2300042: renwu1:Object072
+    2300044: renwu1:Object073
+    2300046: renwu1:Object155
+    2300048: renwu1:Object181
+    2300050: renwu1:Object182
+    2300052: renwu1:Object183
+    2300054: renwu1:Object184
+    2300056: renwu1:Object185
+    2300058: renwu1:Object186
+    2300060: renwu1:Object203
+    2300062: renwu1:Object204
+    2300064: renwu1:Object205
+    3300000: renwu:STCS_waixingren_buding_MD_17
+    3300002: renwu:STCS_waixingren_buding_MD_18
+    3300004: renwu:STCS_waixingren_buding_MD_19
+    3300006: renwu:STCS_waixingren_buding_MD_20
+    3300008: renwu:STCS_waixingren_buding_MD_21
+    3300010: renwu:STCS_waixingren_buding_MD_22
+    3300012: renwu:STCS_waixingren_buding_MD_23
+    3300014: renwu:STCS_waixingren_buding_MD_24
+    3300016: renwu:STCS_waixingren_buding_MD_25
+    3300018: renwu:STCS_waixingren_buding_MD_26
+    3300020: renwu:STCS_waixingren_buding_MD_27
+    3300022: renwu:STCS_waixingren_buding_MD_28
+    3300024: renwu:STCS_waixingren_buding_MD_29
+    3300026: renwu:STCS_waixingren_buding_MD_30
+    3300028: renwu:STCS_waixingren_buding_MD_31
+    3300030: renwu:STCS_waixingren_buding_MD_32
+    3300032: renwu:STCS_waixingren_buding_MD_33
+    3300034: renwu:STCS_waixingren_buding_MD_34
+    3300036: renwu1:Object065
+    3300038: renwu1:Object068
+    3300040: renwu1:Object071
+    3300042: renwu1:Object072
+    3300044: renwu1:Object073
+    3300046: renwu1:Object155
+    3300048: renwu1:Object181
+    3300050: renwu1:Object182
+    3300052: renwu1:Object183
+    3300054: renwu1:Object184
+    3300056: renwu1:Object185
+    3300058: renwu1:Object186
+    3300060: renwu1:Object203
+    3300062: renwu1:Object204
+    3300064: renwu1:Object205
+    4300000: renwu:STCS_waixingren_buding_MD_28
+    4300002: renwu:STCS_waixingren_buding_MD_30
+    4300004: renwu:STCS_waixingren_buding_MD_31
+    4300006: renwu:STCS_waixingren_buding_MD_29
+    4300008: renwu:STCS_waixingren_buding_MD_27
+    4300010: renwu:STCS_waixingren_buding_MD_19
+    4300012: renwu:STCS_waixingren_buding_MD_25
+    4300014: renwu:STCS_waixingren_buding_MD_24
+    4300016: renwu:STCS_waixingren_buding_MD_23
+    4300018: renwu:STCS_waixingren_buding_MD_32
+    4300020: renwu:STCS_waixingren_buding_MD_17
+    4300022: renwu:STCS_waixingren_buding_MD_20
+    4300024: renwu:STCS_waixingren_buding_MD_21
+    4300026: renwu:STCS_waixingren_buding_MD_22
+    4300028: renwu:STCS_waixingren_buding_MD_26
+    4300030: renwu:STCS_waixingren_buding_MD_33
+    4300032: renwu:STCS_waixingren_buding_MD_34
+    4300034: renwu:STCS_waixingren_buding_MD_18
+    4300036: renwu1:Object071
+    4300038: renwu1:Object185
+    4300040: renwu1:Object065
+    4300042: renwu1:Object186
+    4300044: renwu1:Object205
+    4300046: renwu1:Object072
+    4300048: renwu1:Object183
+    4300050: renwu1:Object182
+    4300052: renwu1:Object155
+    4300054: renwu1:Object184
+    4300056: renwu1:Object204
+    4300058: renwu1:Object203
+    4300060: renwu1:Object181
+    4300062: renwu1:Object068
+    4300064: renwu1:Object073
+    7400000: dj_0
+    7400002: hd_0
+    7400004: dj_1
+    7400006: hd_1
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 27
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_17
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_18
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_20
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_21
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_22
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_23
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_24
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_25
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_26
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_32
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_33
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_19/renwu:STCS_waixingren_buding_MD_34
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_27
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_29
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_30
+        weight: 1
+      - path: renwu:STCS_waixingren_buding_MD/renwu:STCS_waixingren_buding_MD_28/renwu:STCS_waixingren_buding_MD_31
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 27
+      lastFrame: 367
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group32
+        weight: 1
+      - path: group32/group31
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object181
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object181/renwu1:Object068
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object181/renwu1:Object068/renwu1:Object073
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object185
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object185/renwu1:Object065
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object185/renwu1:Object065/renwu1:Object186
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object205
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object205/renwu1:Object072
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object205/renwu1:Object072/renwu1:Object155
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object205/renwu1:Object072/renwu1:Object183
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object205/renwu1:Object072/renwu1:Object183/renwu1:Object182
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object205/renwu1:Object072/renwu1:Object184
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object205/renwu1:Object072/renwu1:Object203
+        weight: 1
+      - path: group32/group31/renwu1:STCS_renwu_buding_taikong_MD/renwu1:Object071/renwu1:Object205/renwu1:Object072/renwu1:Object204
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

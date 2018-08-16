@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 57ef07408902c6f4cbe84faf530363fa
+timeCreated: 1447913786
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group45
+    100002: group46
+    100004: joint116
+    100006: joint117
+    100008: joint118
+    100010: joint119
+    100012: joint120
+    100014: joint121
+    100016: joint122
+    100018: joint123
+    100020: joint124
+    100022: joint125
+    100024: joint126
+    100026: joint127
+    100028: joint131
+    100030: joint132
+    100032: joint133
+    100034: joint134
+    100036: joint135
+    100038: joint136
+    100040: joint137
+    100042: joint138
+    100044: joint139
+    100046: joint140
+    100048: joint141
+    100050: joint142
+    100052: joint143
+    100054: joint144
+    100056: joint145
+    100058: joint146
+    100060: joint147
+    100062: joint148
+    100064: joint149
+    100066: joint150
+    100068: joint151
+    100070: joint152
+    100072: joint153
+    100074: joint154
+    100076: joint155
+    100078: joint156
+    100080: joint157
+    100082: joint158
+    100084: joint159
+    100086: joint160
+    100088: joint161
+    100090: joint162
+    100092: nurbsCircle18
+    100094: nurbsCircle19
+    100096: STCS_houzi_con
+    100098: STCS_houzi_MD1
+    100100: STCS_houzi_MD:biyan_L
+    100102: STCS_houzi_MD:biyan_R
+    100104: STCS_houzi_MD:body
+    100106: STCS_houzi_MD:polySurface10
+    100108: STCS_houzi_MD:polySurface11
+    100110: STCS_houzi_MD:polySurface12
+    100112: STCS_houzi_MD:polySurface9
+    100114: //RootNode
+    100116: STCS_houzi_ani
+    400000: group45
+    400002: group46
+    400004: joint116
+    400006: joint117
+    400008: joint118
+    400010: joint119
+    400012: joint120
+    400014: joint121
+    400016: joint122
+    400018: joint123
+    400020: joint124
+    400022: joint125
+    400024: joint126
+    400026: joint127
+    400028: joint131
+    400030: joint132
+    400032: joint133
+    400034: joint134
+    400036: joint135
+    400038: joint136
+    400040: joint137
+    400042: joint138
+    400044: joint139
+    400046: joint140
+    400048: joint141
+    400050: joint142
+    400052: joint143
+    400054: joint144
+    400056: joint145
+    400058: joint146
+    400060: joint147
+    400062: joint148
+    400064: joint149
+    400066: joint150
+    400068: joint151
+    400070: joint152
+    400072: joint153
+    400074: joint154
+    400076: joint155
+    400078: joint156
+    400080: joint157
+    400082: joint158
+    400084: joint159
+    400086: joint160
+    400088: joint161
+    400090: joint162
+    400092: nurbsCircle18
+    400094: nurbsCircle19
+    400096: STCS_houzi_con
+    400098: STCS_houzi_MD1
+    400100: STCS_houzi_MD:biyan_L
+    400102: STCS_houzi_MD:biyan_R
+    400104: STCS_houzi_MD:body
+    400106: STCS_houzi_MD:polySurface10
+    400108: STCS_houzi_MD:polySurface11
+    400110: STCS_houzi_MD:polySurface12
+    400112: STCS_houzi_MD:polySurface9
+    400114: //RootNode
+    400116: STCS_houzi_ani
+    2300000: STCS_houzi_MD:biyan_L
+    2300002: STCS_houzi_MD:biyan_R
+    2300004: STCS_houzi_MD:polySurface10
+    2300006: STCS_houzi_MD:polySurface11
+    2300008: STCS_houzi_MD:polySurface12
+    2300010: STCS_houzi_MD:polySurface9
+    3300000: STCS_houzi_MD:biyan_L
+    3300002: STCS_houzi_MD:biyan_R
+    3300004: STCS_houzi_MD:polySurface10
+    3300006: STCS_houzi_MD:polySurface11
+    3300008: STCS_houzi_MD:polySurface12
+    3300010: STCS_houzi_MD:polySurface9
+    4300000: STCS_houzi_MD:polySurface9
+    4300002: STCS_houzi_MD:polySurface11
+    4300004: STCS_houzi_MD:polySurface10
+    4300006: STCS_houzi_MD:polySurface12
+    4300008: STCS_houzi_MD:biyan_L
+    4300010: STCS_houzi_MD:biyan_R
+    4300012: STCS_houzi_MD:body
+    7400000: dj_0
+    7400002: hd_0
+    11100000: //RootNode
+    13700000: STCS_houzi_MD:body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_houzi_ani
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:biyan_L
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:biyan_R
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:polySurface9
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:polySurface9/STCS_houzi_MD:polySurface11
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:polySurface10
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:polySurface10/STCS_houzi_MD:polySurface12
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/joint120
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/joint121
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123/joint124
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123/joint124/joint159
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123/joint124/joint159/joint160
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123/joint124/joint159/joint161
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123/joint124/joint159/joint162
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126/joint127
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126/joint127/joint158
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126/joint127/joint158/joint155
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126/joint127/joint158/joint156
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126/joint127/joint158/joint157
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint131
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint131/joint132
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint131/joint132/joint133
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint131/joint132/joint133/joint154
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint134
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint134/joint135
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint134/joint135/joint136
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint134/joint135/joint136/joint153
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147/joint148
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147/joint148/joint149
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147/joint148/joint149/joint150
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147/joint148/joint149/joint150/joint151
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147/joint148/joint149/joint150/joint151/joint152
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_MD1
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_MD1/STCS_houzi_MD:body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 205
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_houzi_ani
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:biyan_L
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:biyan_R
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:polySurface9
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:polySurface9/STCS_houzi_MD:polySurface11
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:polySurface10
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/group46/STCS_houzi_MD:polySurface10/STCS_houzi_MD:polySurface12
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/joint120
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint118/joint119/joint121
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123/joint124
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123/joint124/joint159
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123/joint124/joint159/joint160
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123/joint124/joint159/joint161
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint122/joint123/joint124/joint159/joint162
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126/joint127
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126/joint127/joint158
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126/joint127/joint158/joint155
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126/joint127/joint158/joint156
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint116/joint117/joint125/joint126/joint127/joint158/joint157
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint131
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint131/joint132
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint131/joint132/joint133
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint131/joint132/joint133/joint154
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint134
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint134/joint135
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint134/joint135/joint136
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint134/joint135/joint136/joint153
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147/joint148
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147/joint148/joint149
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147/joint148/joint149/joint150
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147/joint148/joint149/joint150/joint151
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_con/nurbsCircle19/group45/nurbsCircle18/joint137/joint138/joint139/joint140/joint141/joint142/joint143/joint144/joint145/joint146/joint147/joint148/joint149/joint150/joint151/joint152
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_MD1
+        weight: 1
+      - path: STCS_houzi_ani/STCS_houzi_MD1/STCS_houzi_MD:body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

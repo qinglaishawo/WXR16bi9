@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 78a6b7a199927d249bcc95c356f22aca
+timeCreated: 1447913787
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group56
+    100002: group57
+    100004: joint163
+    100006: joint164
+    100008: joint165
+    100010: joint166
+    100012: joint167
+    100014: joint168
+    100016: joint169
+    100018: joint170
+    100020: joint171
+    100022: joint172
+    100024: joint173
+    100026: joint174
+    100028: joint175
+    100030: joint176
+    100032: joint177
+    100034: joint178
+    100036: joint185
+    100038: joint186
+    100040: joint187
+    100042: joint188
+    100044: joint189
+    100046: joint190
+    100048: joint191
+    100050: joint192
+    100052: joint193
+    100054: joint194
+    100056: joint195
+    100058: joint196
+    100060: nurbsCircle21
+    100062: nurbsCircle22
+    100064: polySurface7
+    100066: polySurface8
+    100068: STCS_laohu_con
+    100070: STCS_laohu_MD
+    100072: STCS_laohu_MD_1
+    100074: STCS_laohu_MD_2
+    100076: STCS_laohu_MD_3
+    100078: STCS_laohu_MD_4
+    100080: STCS_laohu_MD_5
+    100082: STCS_laohu_MD_6
+    100084: STCS_laohu_MD_7
+    100086: STCS_laohu_MD_8
+    100088: //RootNode
+    100090: STCS_laohu_ani
+    400000: group56
+    400002: group57
+    400004: joint163
+    400006: joint164
+    400008: joint165
+    400010: joint166
+    400012: joint167
+    400014: joint168
+    400016: joint169
+    400018: joint170
+    400020: joint171
+    400022: joint172
+    400024: joint173
+    400026: joint174
+    400028: joint175
+    400030: joint176
+    400032: joint177
+    400034: joint178
+    400036: joint185
+    400038: joint186
+    400040: joint187
+    400042: joint188
+    400044: joint189
+    400046: joint190
+    400048: joint191
+    400050: joint192
+    400052: joint193
+    400054: joint194
+    400056: joint195
+    400058: joint196
+    400060: nurbsCircle21
+    400062: nurbsCircle22
+    400064: polySurface7
+    400066: polySurface8
+    400068: STCS_laohu_con
+    400070: STCS_laohu_MD
+    400072: STCS_laohu_MD_1
+    400074: STCS_laohu_MD_2
+    400076: STCS_laohu_MD_3
+    400078: STCS_laohu_MD_4
+    400080: STCS_laohu_MD_5
+    400082: STCS_laohu_MD_6
+    400084: STCS_laohu_MD_7
+    400086: STCS_laohu_MD_8
+    400088: //RootNode
+    400090: STCS_laohu_ani
+    2300000: STCS_laohu_MD_1
+    2300002: STCS_laohu_MD_2
+    2300004: STCS_laohu_MD_3
+    2300006: STCS_laohu_MD_4
+    2300008: STCS_laohu_MD_6
+    2300010: STCS_laohu_MD_7
+    2300012: STCS_laohu_MD_8
+    3300000: STCS_laohu_MD_1
+    3300002: STCS_laohu_MD_2
+    3300004: STCS_laohu_MD_3
+    3300006: STCS_laohu_MD_4
+    3300008: STCS_laohu_MD_6
+    3300010: STCS_laohu_MD_7
+    3300012: STCS_laohu_MD_8
+    4300000: STCS_laohu_MD_1
+    4300002: STCS_laohu_MD_3
+    4300004: STCS_laohu_MD_6
+    4300006: STCS_laohu_MD_2
+    4300008: STCS_laohu_MD_4
+    4300010: STCS_laohu_MD_7
+    4300012: STCS_laohu_MD_8
+    4300014: polySurface7
+    4300016: polySurface8
+    7400000: dj_0
+    7400002: hd_0
+    11100000: //RootNode
+    13700000: polySurface7
+    13700002: polySurface8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_laohu_con
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_1
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_1/STCS_laohu_MD_3
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_2
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_2/STCS_laohu_MD_4
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_6
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_7
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_8
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/joint167
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/joint167/joint168
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/joint169
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/joint169/joint170
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint185
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint185/joint186
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint185/joint186/joint187
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint188
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint188/joint189
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint188/joint189/joint190
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173/joint174
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173/joint174/joint175
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173/joint174/joint175/joint176
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173/joint174/joint175/joint176/joint177
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173/joint174/joint175/joint176/joint177/joint178
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint191
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint191/joint192
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint191/joint192/joint193
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint194
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint194/joint195
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint194/joint195/joint196
+        weight: 1
+      - path: STCS_laohu_MD
+        weight: 1
+      - path: STCS_laohu_MD/STCS_laohu_MD_5
+        weight: 1
+      - path: STCS_laohu_MD/STCS_laohu_MD_5/polySurface7
+        weight: 1
+      - path: STCS_laohu_MD/STCS_laohu_MD_5/polySurface8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 81
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_laohu_con
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_1
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_1/STCS_laohu_MD_3
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_2
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_2/STCS_laohu_MD_4
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_6
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_7
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/group57/STCS_laohu_MD_8
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/joint167
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/joint167/joint168
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/joint169
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint165/joint166/joint169/joint170
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint185
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint185/joint186
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint185/joint186/joint187
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint188
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint188/joint189
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint163/joint164/joint188/joint189/joint190
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173/joint174
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173/joint174/joint175
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173/joint174/joint175/joint176
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173/joint174/joint175/joint176/joint177
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint172/joint173/joint174/joint175/joint176/joint177/joint178
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint191
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint191/joint192
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint191/joint192/joint193
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint194
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint194/joint195
+        weight: 1
+      - path: STCS_laohu_con/nurbsCircle22/group56/nurbsCircle21/joint171/joint194/joint195/joint196
+        weight: 1
+      - path: STCS_laohu_MD
+        weight: 1
+      - path: STCS_laohu_MD/STCS_laohu_MD_5
+        weight: 1
+      - path: STCS_laohu_MD/STCS_laohu_MD_5/polySurface7
+        weight: 1
+      - path: STCS_laohu_MD/STCS_laohu_MD_5/polySurface8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

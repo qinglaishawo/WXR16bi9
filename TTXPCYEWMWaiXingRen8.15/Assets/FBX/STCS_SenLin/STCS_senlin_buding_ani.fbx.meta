@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: 4fc4efd9990c4a04c9064b6510e55194
+timeCreated: 1447913200
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: pasted__STCS_buding_MD
+    100002: pasted__STCS_buding_MD16_1
+    100004: pasted__STCS_buding_MD16_10
+    100006: pasted__STCS_buding_MD16_11
+    100008: pasted__STCS_buding_MD16_12
+    100010: pasted__STCS_buding_MD16_13
+    100012: pasted__STCS_buding_MD16_14
+    100014: pasted__STCS_buding_MD16_15
+    100016: pasted__STCS_buding_MD16_16
+    100018: pasted__STCS_buding_MD16_2
+    100020: pasted__STCS_buding_MD16_3
+    100022: pasted__STCS_buding_MD16_4
+    100024: pasted__STCS_buding_MD16_5
+    100026: pasted__STCS_buding_MD16_6
+    100028: pasted__STCS_buding_MD16_7
+    100030: pasted__STCS_buding_MD16_8
+    100032: pasted__STCS_buding_MD16_9
+    100034: pasted__STCS_juese_MD
+    100036: //RootNode
+    100038: pasted__Object020
+    100040: pasted__Object021
+    100042: pasted__Object022
+    100044: pasted__Object023
+    100046: pasted__Object025
+    100048: pasted__Object026
+    100050: pasted__Object027
+    100052: pasted__Object028
+    100054: pasted__Object080
+    100056: pasted__Object082
+    100058: pasted__Object083
+    100060: pasted__Object084
+    100062: pasted__Object137
+    100064: pasted__Object138
+    100066: pasted__Object139
+    100068: pasted__Object140
+    100070: pasted__Object141
+    100072: pasted__Object142
+    100074: pasted__Object143
+    100076: pasted__Object144
+    100078: pasted__Object145
+    100080: pasted__Object146
+    100082: pasted__Object147
+    100084: pasted__STCS_renwu_buding_konglong_MD
+    100086: pasted__STCS_renwu_MD
+    400000: pasted__STCS_buding_MD
+    400002: pasted__STCS_buding_MD16_1
+    400004: pasted__STCS_buding_MD16_10
+    400006: pasted__STCS_buding_MD16_11
+    400008: pasted__STCS_buding_MD16_12
+    400010: pasted__STCS_buding_MD16_13
+    400012: pasted__STCS_buding_MD16_14
+    400014: pasted__STCS_buding_MD16_15
+    400016: pasted__STCS_buding_MD16_16
+    400018: pasted__STCS_buding_MD16_2
+    400020: pasted__STCS_buding_MD16_3
+    400022: pasted__STCS_buding_MD16_4
+    400024: pasted__STCS_buding_MD16_5
+    400026: pasted__STCS_buding_MD16_6
+    400028: pasted__STCS_buding_MD16_7
+    400030: pasted__STCS_buding_MD16_8
+    400032: pasted__STCS_buding_MD16_9
+    400034: pasted__STCS_juese_MD
+    400036: //RootNode
+    400038: pasted__Object020
+    400040: pasted__Object021
+    400042: pasted__Object022
+    400044: pasted__Object023
+    400046: pasted__Object025
+    400048: pasted__Object026
+    400050: pasted__Object027
+    400052: pasted__Object028
+    400054: pasted__Object080
+    400056: pasted__Object082
+    400058: pasted__Object083
+    400060: pasted__Object084
+    400062: pasted__Object137
+    400064: pasted__Object138
+    400066: pasted__Object139
+    400068: pasted__Object140
+    400070: pasted__Object141
+    400072: pasted__Object142
+    400074: pasted__Object143
+    400076: pasted__Object144
+    400078: pasted__Object145
+    400080: pasted__Object146
+    400082: pasted__Object147
+    400084: pasted__STCS_renwu_buding_konglong_MD
+    400086: pasted__STCS_renwu_MD
+    2300000: pasted__STCS_buding_MD16_1
+    2300002: pasted__STCS_buding_MD16_10
+    2300004: pasted__STCS_buding_MD16_11
+    2300006: pasted__STCS_buding_MD16_12
+    2300008: pasted__STCS_buding_MD16_13
+    2300010: pasted__STCS_buding_MD16_14
+    2300012: pasted__STCS_buding_MD16_15
+    2300014: pasted__STCS_buding_MD16_16
+    2300016: pasted__STCS_buding_MD16_2
+    2300018: pasted__STCS_buding_MD16_3
+    2300020: pasted__STCS_buding_MD16_4
+    2300022: pasted__STCS_buding_MD16_5
+    2300024: pasted__STCS_buding_MD16_6
+    2300026: pasted__STCS_buding_MD16_7
+    2300028: pasted__STCS_buding_MD16_8
+    2300030: pasted__STCS_buding_MD16_9
+    2300032: pasted__Object020
+    2300034: pasted__Object021
+    2300036: pasted__Object022
+    2300038: pasted__Object023
+    2300040: pasted__Object025
+    2300042: pasted__Object026
+    2300044: pasted__Object027
+    2300046: pasted__Object028
+    2300048: pasted__Object080
+    2300050: pasted__Object082
+    2300052: pasted__Object083
+    2300054: pasted__Object084
+    2300056: pasted__Object137
+    2300058: pasted__Object138
+    2300060: pasted__Object139
+    2300062: pasted__Object140
+    2300064: pasted__Object141
+    2300066: pasted__Object142
+    2300068: pasted__Object143
+    2300070: pasted__Object144
+    2300072: pasted__Object145
+    2300074: pasted__Object146
+    2300076: pasted__Object147
+    3300000: pasted__STCS_buding_MD16_1
+    3300002: pasted__STCS_buding_MD16_10
+    3300004: pasted__STCS_buding_MD16_11
+    3300006: pasted__STCS_buding_MD16_12
+    3300008: pasted__STCS_buding_MD16_13
+    3300010: pasted__STCS_buding_MD16_14
+    3300012: pasted__STCS_buding_MD16_15
+    3300014: pasted__STCS_buding_MD16_16
+    3300016: pasted__STCS_buding_MD16_2
+    3300018: pasted__STCS_buding_MD16_3
+    3300020: pasted__STCS_buding_MD16_4
+    3300022: pasted__STCS_buding_MD16_5
+    3300024: pasted__STCS_buding_MD16_6
+    3300026: pasted__STCS_buding_MD16_7
+    3300028: pasted__STCS_buding_MD16_8
+    3300030: pasted__STCS_buding_MD16_9
+    3300032: pasted__Object020
+    3300034: pasted__Object021
+    3300036: pasted__Object022
+    3300038: pasted__Object023
+    3300040: pasted__Object025
+    3300042: pasted__Object026
+    3300044: pasted__Object027
+    3300046: pasted__Object028
+    3300048: pasted__Object080
+    3300050: pasted__Object082
+    3300052: pasted__Object083
+    3300054: pasted__Object084
+    3300056: pasted__Object137
+    3300058: pasted__Object138
+    3300060: pasted__Object139
+    3300062: pasted__Object140
+    3300064: pasted__Object141
+    3300066: pasted__Object142
+    3300068: pasted__Object143
+    3300070: pasted__Object144
+    3300072: pasted__Object145
+    3300074: pasted__Object146
+    3300076: pasted__Object147
+    4300000: pasted__STCS_buding_MD16_1
+    4300002: pasted__STCS_buding_MD16_13
+    4300004: pasted__STCS_buding_MD16_11
+    4300006: pasted__STCS_buding_MD16_14
+    4300008: pasted__STCS_buding_MD16_15
+    4300010: pasted__STCS_buding_MD16_12
+    4300012: pasted__STCS_buding_MD16_6
+    4300014: pasted__STCS_buding_MD16_5
+    4300016: pasted__STCS_buding_MD16_2
+    4300018: pasted__STCS_buding_MD16_8
+    4300020: pasted__STCS_buding_MD16_3
+    4300022: pasted__STCS_buding_MD16_4
+    4300024: pasted__STCS_buding_MD16_7
+    4300026: pasted__STCS_buding_MD16_9
+    4300028: pasted__STCS_buding_MD16_10
+    4300030: pasted__STCS_buding_MD16_16
+    4300032: pasted__Object026
+    4300034: pasted__Object141
+    4300036: pasted__Object021
+    4300038: pasted__Object023
+    4300040: pasted__Object140
+    4300042: pasted__Object020
+    4300044: pasted__Object022
+    4300046: pasted__Object028
+    4300048: pasted__Object080
+    4300050: pasted__Object139
+    4300052: pasted__Object025
+    4300054: pasted__Object137
+    4300056: pasted__Object138
+    4300058: pasted__Object142
+    4300060: pasted__Object143
+    4300062: pasted__Object083
+    4300064: pasted__Object082
+    4300066: pasted__Object084
+    4300068: pasted__Object027
+    4300070: pasted__Object144
+    4300072: pasted__Object145
+    4300074: pasted__Object147
+    4300076: pasted__Object146
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pasted__STCS_juese_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_5
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_6
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_11
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_12
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_13
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_14
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_15
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_2
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_2/pasted__STCS_buding_MD16_8
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_3
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_4
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_4/pasted__STCS_buding_MD16_7
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_9
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_10
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_16
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 90
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pasted__STCS_juese_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_5
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_6
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_11
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_12
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_13
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_14
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_1/pasted__STCS_buding_MD16_15
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_2
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_2/pasted__STCS_buding_MD16_8
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_3
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_4
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_4/pasted__STCS_buding_MD16_7
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_9
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_10
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_buding_MD/pasted__STCS_buding_MD16_16
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

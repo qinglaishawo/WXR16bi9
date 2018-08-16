@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: b3495105997624d42b3633c74c73723b
+timeCreated: 1447913201
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group15
+    100002: pasted__STCS_juese_MD
+    100004: pasted__STCS_wandi_MD
+    100006: pasted__STCS_wandi_MD19_1
+    100008: pasted__STCS_wandi_MD19_10
+    100010: pasted__STCS_wandi_MD19_11
+    100012: pasted__STCS_wandi_MD19_12
+    100014: pasted__STCS_wandi_MD19_13
+    100016: pasted__STCS_wandi_MD19_14
+    100018: pasted__STCS_wandi_MD19_15
+    100020: pasted__STCS_wandi_MD19_16
+    100022: pasted__STCS_wandi_MD19_17
+    100024: pasted__STCS_wandi_MD19_18
+    100026: pasted__STCS_wandi_MD19_19
+    100028: pasted__STCS_wandi_MD19_2
+    100030: pasted__STCS_wandi_MD19_3
+    100032: pasted__STCS_wandi_MD19_4
+    100034: pasted__STCS_wandi_MD19_5
+    100036: pasted__STCS_wandi_MD19_6
+    100038: pasted__STCS_wandi_MD19_7
+    100040: pasted__STCS_wandi_MD19_8
+    100042: pasted__STCS_wandi_MD19_9
+    100044: //RootNode
+    100046: group
+    100048: group18
+    100050: group22
+    100052: group23
+    100054: joint162
+    100056: joint163
+    100058: joint164
+    100060: joint165
+    100062: joint166
+    100064: joint167
+    100066: pasted__STCS_juese_MD 1
+    100068: pasted__STCS_wandi_MD 1
+    100070: pasted__STCS_wandi_MD20
+    100072: pasted__STCS_wandi_MD21
+    400000: group15
+    400002: pasted__STCS_juese_MD
+    400004: pasted__STCS_wandi_MD
+    400006: pasted__STCS_wandi_MD19_1
+    400008: pasted__STCS_wandi_MD19_10
+    400010: pasted__STCS_wandi_MD19_11
+    400012: pasted__STCS_wandi_MD19_12
+    400014: pasted__STCS_wandi_MD19_13
+    400016: pasted__STCS_wandi_MD19_14
+    400018: pasted__STCS_wandi_MD19_15
+    400020: pasted__STCS_wandi_MD19_16
+    400022: pasted__STCS_wandi_MD19_17
+    400024: pasted__STCS_wandi_MD19_18
+    400026: pasted__STCS_wandi_MD19_19
+    400028: pasted__STCS_wandi_MD19_2
+    400030: pasted__STCS_wandi_MD19_3
+    400032: pasted__STCS_wandi_MD19_4
+    400034: pasted__STCS_wandi_MD19_5
+    400036: pasted__STCS_wandi_MD19_6
+    400038: pasted__STCS_wandi_MD19_7
+    400040: pasted__STCS_wandi_MD19_8
+    400042: pasted__STCS_wandi_MD19_9
+    400044: //RootNode
+    400046: group
+    400048: group18
+    400050: group22
+    400052: group23
+    400054: joint162
+    400056: joint163
+    400058: joint164
+    400060: joint165
+    400062: joint166
+    400064: joint167
+    400066: pasted__STCS_juese_MD 1
+    400068: pasted__STCS_wandi_MD 1
+    400070: pasted__STCS_wandi_MD20
+    400072: pasted__STCS_wandi_MD21
+    2300000: pasted__STCS_wandi_MD19_1
+    2300002: pasted__STCS_wandi_MD19_10
+    2300004: pasted__STCS_wandi_MD19_11
+    2300006: pasted__STCS_wandi_MD19_12
+    2300008: pasted__STCS_wandi_MD19_13
+    2300010: pasted__STCS_wandi_MD19_14
+    2300012: pasted__STCS_wandi_MD19_15
+    2300014: pasted__STCS_wandi_MD19_16
+    2300016: pasted__STCS_wandi_MD19_17
+    2300018: pasted__STCS_wandi_MD19_18
+    2300020: pasted__STCS_wandi_MD19_19
+    2300022: pasted__STCS_wandi_MD19_2
+    2300024: pasted__STCS_wandi_MD19_3
+    2300026: pasted__STCS_wandi_MD19_4
+    2300028: pasted__STCS_wandi_MD19_5
+    2300030: pasted__STCS_wandi_MD19_6
+    2300032: pasted__STCS_wandi_MD19_7
+    2300034: pasted__STCS_wandi_MD19_8
+    2300036: pasted__STCS_wandi_MD19_9
+    2300038: pasted__STCS_wandi_MD20
+    2300040: pasted__STCS_wandi_MD21
+    3300000: pasted__STCS_wandi_MD19_1
+    3300002: pasted__STCS_wandi_MD19_10
+    3300004: pasted__STCS_wandi_MD19_11
+    3300006: pasted__STCS_wandi_MD19_12
+    3300008: pasted__STCS_wandi_MD19_13
+    3300010: pasted__STCS_wandi_MD19_14
+    3300012: pasted__STCS_wandi_MD19_15
+    3300014: pasted__STCS_wandi_MD19_16
+    3300016: pasted__STCS_wandi_MD19_17
+    3300018: pasted__STCS_wandi_MD19_18
+    3300020: pasted__STCS_wandi_MD19_19
+    3300022: pasted__STCS_wandi_MD19_2
+    3300024: pasted__STCS_wandi_MD19_3
+    3300026: pasted__STCS_wandi_MD19_4
+    3300028: pasted__STCS_wandi_MD19_5
+    3300030: pasted__STCS_wandi_MD19_6
+    3300032: pasted__STCS_wandi_MD19_7
+    3300034: pasted__STCS_wandi_MD19_8
+    3300036: pasted__STCS_wandi_MD19_9
+    3300038: pasted__STCS_wandi_MD20
+    3300040: pasted__STCS_wandi_MD21
+    4300000: pasted__STCS_wandi_MD19_1
+    4300002: pasted__STCS_wandi_MD19_2
+    4300004: pasted__STCS_wandi_MD19_4
+    4300006: pasted__STCS_wandi_MD19_5
+    4300008: pasted__STCS_wandi_MD19_6
+    4300010: pasted__STCS_wandi_MD19_7
+    4300012: pasted__STCS_wandi_MD19_8
+    4300014: pasted__STCS_wandi_MD19_10
+    4300016: pasted__STCS_wandi_MD19_11
+    4300018: pasted__STCS_wandi_MD19_12
+    4300020: pasted__STCS_wandi_MD19_9
+    4300022: pasted__STCS_wandi_MD19_13
+    4300024: pasted__STCS_wandi_MD19_19
+    4300026: pasted__STCS_wandi_MD19_18
+    4300028: pasted__STCS_wandi_MD19_17
+    4300030: pasted__STCS_wandi_MD19_15
+    4300032: pasted__STCS_wandi_MD19_16
+    4300034: pasted__STCS_wandi_MD19_14
+    4300036: pasted__STCS_wandi_MD19_3
+    4300038: pasted__STCS_wandi_MD20
+    4300040: pasted__STCS_wandi_MD21
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pasted__STCS_wandi_MD19_2
+    13700002: pasted__STCS_wandi_MD19_5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pasted__STCS_juese_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_1
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_2
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_4
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_5
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_6
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_7
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_3
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_9
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_10
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_11
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_12
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_13
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_14
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_15
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_16
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_17
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_18
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_19
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 132
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pasted__STCS_juese_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_1
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_2
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_4
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_5
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_6
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_7
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_3
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_9
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_10
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_11
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_12
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_13
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_14
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_15
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_16
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_17
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_18
+        weight: 1
+      - path: pasted__STCS_juese_MD/group15/pasted__STCS_wandi_MD/pasted__STCS_wandi_MD19_8/pasted__STCS_wandi_MD19_19
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

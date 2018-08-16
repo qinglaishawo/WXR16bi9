@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: c94ffa3eff9825f4aa79632e8f4b3fc8
+timeCreated: 1447913754
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: aa:Shape1
+    100002: aa:STCS_waixingren_08_MD
+    100004: group1
+    100006: joint45
+    100008: joint46
+    100010: joint47
+    100012: joint48
+    100014: joint49
+    100016: joint50
+    100018: joint51
+    100020: joint52
+    100022: joint53
+    100024: joint54
+    100026: joint55
+    100028: joint56
+    100030: nurbsCircle5
+    100032: //RootNode
+    100034: transform1
+    100036: aa1:STCS_waixingren_08_MD
+    100038: group
+    400000: aa:Shape1
+    400002: aa:STCS_waixingren_08_MD
+    400004: group1
+    400006: joint45
+    400008: joint46
+    400010: joint47
+    400012: joint48
+    400014: joint49
+    400016: joint50
+    400018: joint51
+    400020: joint52
+    400022: joint53
+    400024: joint54
+    400026: joint55
+    400028: joint56
+    400030: nurbsCircle5
+    400032: //RootNode
+    400034: transform1
+    400036: aa1:STCS_waixingren_08_MD
+    400038: group
+    4300000: aa:Shape1
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: aa:Shape1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aa:STCS_waixingren_08_MD
+        weight: 1
+      - path: aa:STCS_waixingren_08_MD/aa:Shape1
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/nurbsCircle5
+        weight: 1
+      - path: group1/nurbsCircle5/transform1
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint46
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint46/joint47
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint46/joint47/joint48
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint49
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint49/joint50
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint49/joint50/joint51
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint52
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint52/joint53
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint52/joint53/joint54
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint52/joint53/joint54/joint55
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint52/joint53/joint54/joint55/joint56
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 29
+      lastFrame: 172
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aa:STCS_waixingren_08_MD
+        weight: 1
+      - path: aa:STCS_waixingren_08_MD/aa:Shape1
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/nurbsCircle5
+        weight: 1
+      - path: group1/nurbsCircle5/transform1
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint46
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint46/joint47
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint46/joint47/joint48
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint49
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint49/joint50
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint49/joint50/joint51
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint52
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint52/joint53
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint52/joint53/joint54
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint52/joint53/joint54/joint55
+        weight: 1
+      - path: group1/nurbsCircle5/transform1/joint45/joint52/joint53/joint54/joint55/joint56
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

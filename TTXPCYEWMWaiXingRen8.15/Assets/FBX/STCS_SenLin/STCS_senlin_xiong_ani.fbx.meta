@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 633f70dedc9ed4744abb8b05c1c1d13c
+timeCreated: 1447913200
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group10
+    100002: group12
+    100004: joint121
+    100006: joint122
+    100008: joint123
+    100010: joint124
+    100012: joint125
+    100014: joint126
+    100016: joint127
+    100018: joint128
+    100020: joint129
+    100022: joint130
+    100024: joint131
+    100026: joint132
+    100028: joint133
+    100030: joint134
+    100032: joint135
+    100034: joint136
+    100036: joint137
+    100038: nurbsCircle29
+    100040: //RootNode
+    100042: STCS_xiong_con
+    100044: STCS_xiong_MD
+    100046: STCS_xiong_MD_1
+    100048: STCS_xiong_MD_2
+    100050: STCS_xiong_MD_3
+    100052: STCS_xiong_MD_4
+    100054: STCS_xiong_MD_5
+    100056: STCS_xiong_MD_6
+    100058: STCS_xiong_MD_7
+    100060: STCS_xiong_MD_8
+    400000: group10
+    400002: group12
+    400004: joint121
+    400006: joint122
+    400008: joint123
+    400010: joint124
+    400012: joint125
+    400014: joint126
+    400016: joint127
+    400018: joint128
+    400020: joint129
+    400022: joint130
+    400024: joint131
+    400026: joint132
+    400028: joint133
+    400030: joint134
+    400032: joint135
+    400034: joint136
+    400036: joint137
+    400038: nurbsCircle29
+    400040: //RootNode
+    400042: STCS_xiong_con
+    400044: STCS_xiong_MD
+    400046: STCS_xiong_MD_1
+    400048: STCS_xiong_MD_2
+    400050: STCS_xiong_MD_3
+    400052: STCS_xiong_MD_4
+    400054: STCS_xiong_MD_5
+    400056: STCS_xiong_MD_6
+    400058: STCS_xiong_MD_7
+    400060: STCS_xiong_MD_8
+    2300000: STCS_xiong_MD_2
+    2300002: STCS_xiong_MD_3
+    2300004: STCS_xiong_MD_4
+    2300006: STCS_xiong_MD_5
+    2300008: STCS_xiong_MD_6
+    2300010: STCS_xiong_MD_7
+    2300012: STCS_xiong_MD_8
+    3300000: STCS_xiong_MD_2
+    3300002: STCS_xiong_MD_3
+    3300004: STCS_xiong_MD_4
+    3300006: STCS_xiong_MD_5
+    3300008: STCS_xiong_MD_6
+    3300010: STCS_xiong_MD_7
+    3300012: STCS_xiong_MD_8
+    4300000: STCS_xiong_MD_1
+    4300002: STCS_xiong_MD_2
+    4300004: STCS_xiong_MD_8
+    4300006: STCS_xiong_MD_6
+    4300008: STCS_xiong_MD_4
+    4300010: STCS_xiong_MD_5
+    4300012: STCS_xiong_MD_7
+    4300014: STCS_xiong_MD_3
+    7400000: cc_0
+    7400002: dj_0
+    7400004: hd_0
+    7400006: dj_1
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: STCS_xiong_MD_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cc_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_xiong_con
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_3
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_4
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_5
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_6
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_7
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_8
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint132
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint132/joint133
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint132/joint133/joint134
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint135
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint135/joint136
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint135/joint136/joint137
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint126
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint126/joint127
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint126/joint127/joint128
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint129
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint129/joint130
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint129/joint130/joint131
+        weight: 1
+      - path: STCS_xiong_MD
+        weight: 1
+      - path: STCS_xiong_MD/group12
+        weight: 1
+      - path: STCS_xiong_MD/group12/STCS_xiong_MD_2
+        weight: 1
+      - path: STCS_xiong_MD/STCS_xiong_MD_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 67
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_xiong_con
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_3
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_4
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_5
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_6
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_7
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_8
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint132
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint132/joint133
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint132/joint133/joint134
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint135
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint135/joint136
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint135/joint136/joint137
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint126
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint126/joint127
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint126/joint127/joint128
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint129
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint129/joint130
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint129/joint130/joint131
+        weight: 1
+      - path: STCS_xiong_MD
+        weight: 1
+      - path: STCS_xiong_MD/group12
+        weight: 1
+      - path: STCS_xiong_MD/group12/STCS_xiong_MD_2
+        weight: 1
+      - path: STCS_xiong_MD/STCS_xiong_MD_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 69
+      lastFrame: 210
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_xiong_con
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_3
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_4
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_5
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_6
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_7
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint123/joint124/STCS_xiong_MD_8
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint132
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint132/joint133
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint132/joint133/joint134
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint135
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint135/joint136
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint122/joint135/joint136/joint137
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint126
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint126/joint127
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint126/joint127/joint128
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint129
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint129/joint130
+        weight: 1
+      - path: STCS_xiong_con/nurbsCircle29/group10/joint121/joint125/joint129/joint130/joint131
+        weight: 1
+      - path: STCS_xiong_MD
+        weight: 1
+      - path: STCS_xiong_MD/group12
+        weight: 1
+      - path: STCS_xiong_MD/group12/STCS_xiong_MD_2
+        weight: 1
+      - path: STCS_xiong_MD/STCS_xiong_MD_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

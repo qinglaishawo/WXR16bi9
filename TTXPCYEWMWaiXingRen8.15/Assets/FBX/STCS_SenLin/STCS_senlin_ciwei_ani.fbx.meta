@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ffba93993cf0f04499aaa6880c700e58
+timeCreated: 1447913202
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group4
+    100002: joint54
+    100004: joint55
+    100006: joint56
+    100008: joint57
+    100010: joint58
+    100012: joint59
+    100014: joint60
+    100016: joint61
+    100018: joint62
+    100020: joint63
+    100022: joint64
+    100024: joint65
+    100026: joint66
+    100028: joint67
+    100030: joint68
+    100032: joint69
+    100034: joint70
+    100036: joint71
+    100038: joint72
+    100040: joint73
+    100042: joint74
+    100044: nurbsCircle33
+    100046: STCS_ciwei_con
+    100048: STCS_ciwei_MD1
+    100050: STCS_ciwei_MD1 1
+    100052: STCS_ciwei_MD2
+    100054: STCS_ciwei_MD:biyan_L
+    100056: STCS_ciwei_MD:biyan_R
+    100058: STCS_ciwei_MD:body
+    100060: STCS_ciwei_MD:ci
+    100062: STCS_ciwei_MD:nose
+    100064: STCS_ciwei_MD:polySurface13
+    100066: STCS_ciwei_MD:polySurface14
+    100068: STCS_ciwei_MD:polySurface19
+    100070: STCS_ciwei_MD:polySurface20
+    100072: STCS_ciwei_MD:polySurface21
+    100074: STCS_ciwei_MD:polySurface22
+    100076: STCS_ciwei_MD:polySurface23
+    100078: STCS_ciwei_MD:polySurface24
+    100080: //RootNode
+    400000: group4
+    400002: joint54
+    400004: joint55
+    400006: joint56
+    400008: joint57
+    400010: joint58
+    400012: joint59
+    400014: joint60
+    400016: joint61
+    400018: joint62
+    400020: joint63
+    400022: joint64
+    400024: joint65
+    400026: joint66
+    400028: joint67
+    400030: joint68
+    400032: joint69
+    400034: joint70
+    400036: joint71
+    400038: joint72
+    400040: joint73
+    400042: joint74
+    400044: nurbsCircle33
+    400046: STCS_ciwei_con
+    400048: STCS_ciwei_MD1
+    400050: STCS_ciwei_MD1 1
+    400052: STCS_ciwei_MD2
+    400054: STCS_ciwei_MD:biyan_L
+    400056: STCS_ciwei_MD:biyan_R
+    400058: STCS_ciwei_MD:body
+    400060: STCS_ciwei_MD:ci
+    400062: STCS_ciwei_MD:nose
+    400064: STCS_ciwei_MD:polySurface13
+    400066: STCS_ciwei_MD:polySurface14
+    400068: STCS_ciwei_MD:polySurface19
+    400070: STCS_ciwei_MD:polySurface20
+    400072: STCS_ciwei_MD:polySurface21
+    400074: STCS_ciwei_MD:polySurface22
+    400076: STCS_ciwei_MD:polySurface23
+    400078: STCS_ciwei_MD:polySurface24
+    400080: //RootNode
+    2300000: STCS_ciwei_MD:biyan_L
+    2300002: STCS_ciwei_MD:biyan_R
+    2300004: STCS_ciwei_MD:body
+    2300006: STCS_ciwei_MD:nose
+    2300008: STCS_ciwei_MD:polySurface13
+    2300010: STCS_ciwei_MD:polySurface14
+    2300012: STCS_ciwei_MD:polySurface19
+    2300014: STCS_ciwei_MD:polySurface20
+    2300016: STCS_ciwei_MD:polySurface21
+    2300018: STCS_ciwei_MD:polySurface22
+    2300020: STCS_ciwei_MD:polySurface23
+    2300022: STCS_ciwei_MD:polySurface24
+    3300000: STCS_ciwei_MD:biyan_L
+    3300002: STCS_ciwei_MD:biyan_R
+    3300004: STCS_ciwei_MD:body
+    3300006: STCS_ciwei_MD:nose
+    3300008: STCS_ciwei_MD:polySurface13
+    3300010: STCS_ciwei_MD:polySurface14
+    3300012: STCS_ciwei_MD:polySurface19
+    3300014: STCS_ciwei_MD:polySurface20
+    3300016: STCS_ciwei_MD:polySurface21
+    3300018: STCS_ciwei_MD:polySurface22
+    3300020: STCS_ciwei_MD:polySurface23
+    3300022: STCS_ciwei_MD:polySurface24
+    4300000: STCS_ciwei_MD:ci
+    4300002: STCS_ciwei_MD:body
+    4300004: STCS_ciwei_MD:polySurface19
+    4300006: STCS_ciwei_MD:polySurface20
+    4300008: STCS_ciwei_MD:polySurface14
+    4300010: STCS_ciwei_MD:polySurface13
+    4300012: STCS_ciwei_MD:biyan_R
+    4300014: STCS_ciwei_MD:biyan_L
+    4300016: STCS_ciwei_MD:nose
+    4300018: STCS_ciwei_MD:polySurface21
+    4300020: STCS_ciwei_MD:polySurface24
+    4300022: STCS_ciwei_MD:polySurface22
+    4300024: STCS_ciwei_MD:polySurface23
+    7400000: dj_0
+    7400002: hd_0
+    7400004: dj_1
+    7400006: hd_1
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: STCS_ciwei_MD:ci
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 23
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_ciwei_con
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint54
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint55
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint56
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint57
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint58
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint59
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint60
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint61
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint62
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint63
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint64
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint65
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint66
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint67
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint68
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint69
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint70
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint71
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint72
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint73
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:biyan_L
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:biyan_R
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:nose
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface13
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface14
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface19
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface20
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface21
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface22
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface23
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface24
+        weight: 1
+      - path: STCS_ciwei_MD2
+        weight: 1
+      - path: STCS_ciwei_MD2/STCS_ciwei_MD:ci
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 23
+      lastFrame: 171
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_ciwei_con
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint54
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint55
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint56
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint57
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint58
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint59
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint60
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint61
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint62
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint63
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint64
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint65
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint66
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint67
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint68
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint69
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint70
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint71
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint72
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint73
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:biyan_L
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:biyan_R
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:nose
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface13
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface14
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface19
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface20
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface21
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface22
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface23
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface24
+        weight: 1
+      - path: STCS_ciwei_MD2
+        weight: 1
+      - path: STCS_ciwei_MD2/STCS_ciwei_MD:ci
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dj_1
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 23
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_ciwei_con
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint54
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint55
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint56
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint57
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint58
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint59
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint60
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint61
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint62
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint63
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint64
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint65
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint66
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint67
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint68
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint69
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint70
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint71
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint72
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint73
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:biyan_L
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:biyan_R
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:nose
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface13
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface14
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface19
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface20
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface21
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface22
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface23
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface24
+        weight: 1
+      - path: STCS_ciwei_MD2
+        weight: 1
+      - path: STCS_ciwei_MD2/STCS_ciwei_MD:ci
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hd_1
+      takeName: Take 001
+      firstFrame: 23
+      lastFrame: 171
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_ciwei_con
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint54
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint55
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint56
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint57
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint58
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint59
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint60
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint61
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint62
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint63
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint64
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint65
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint66
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint67
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint68
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint69
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint70
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint71
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint72
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/group4/joint74/joint73
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:biyan_L
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:biyan_R
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:nose
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface13
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface14
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface19
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface20
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface21
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface22
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface23
+        weight: 1
+      - path: STCS_ciwei_con/nurbsCircle33/STCS_ciwei_MD1/STCS_ciwei_MD1 1/STCS_ciwei_MD:body/STCS_ciwei_MD:polySurface24
+        weight: 1
+      - path: STCS_ciwei_MD2
+        weight: 1
+      - path: STCS_ciwei_MD2/STCS_ciwei_MD:ci
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

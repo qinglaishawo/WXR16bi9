@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: f01b30eeb751ab549ac3903de9b087ea
+timeCreated: 1447913201
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group13
+    100002: group6
+    100004: group8
+    100006: joint100
+    100008: joint101
+    100010: joint102
+    100012: joint103
+    100014: joint104
+    100016: joint105
+    100018: joint106
+    100020: joint107
+    100022: joint108
+    100024: joint109
+    100026: joint110
+    100028: joint111
+    100030: joint112
+    100032: joint113
+    100034: joint114
+    100036: joint115
+    100038: joint116
+    100040: joint117
+    100042: joint118
+    100044: joint119
+    100046: joint120
+    100048: joint75
+    100050: joint76
+    100052: joint77
+    100054: joint78
+    100056: joint79
+    100058: joint80
+    100060: joint81
+    100062: joint82
+    100064: joint83
+    100066: joint84
+    100068: joint85
+    100070: joint86
+    100072: joint87
+    100074: joint88
+    100076: joint89
+    100078: joint90
+    100080: joint91
+    100082: joint92
+    100084: joint93
+    100086: joint94
+    100088: joint95
+    100090: joint96
+    100092: joint97
+    100094: joint98
+    100096: joint99
+    100098: nurbsCircle15
+    100100: nurbsCircle16
+    100102: nurbsCircle23
+    100104: nurbsCircle24
+    100106: STCS_meihualu_con
+    100108: STCS_meihualu_con1
+    100110: STCS_meihualu_MD
+    100112: STCS_meihualu_MD_1
+    100114: STCS_meihualu_MD_2
+    100116: STCS_meihualu_MD_3
+    100118: STCS_meihualu_MD_4
+    100120: STCS_meihualu_MD_5
+    100122: STCS_meihualu_MD_6
+    100124: STCS_meihualu_MD_7
+    100126: STCS_meihualu_MD_8
+    100128: //RootNode
+    100130: group19
+    100132: group20
+    100134: group21
+    100136: group24
+    100138: pasted__group1
+    100140: pasted__pasted__Object002
+    100142: pasted__pasted__Object003
+    100144: pasted__pasted__Object004
+    100146: pasted__pasted__Object005
+    100148: pasted__pasted__Object006
+    100150: pasted__pasted__Object007
+    400000: group13
+    400002: group6
+    400004: group8
+    400006: joint100
+    400008: joint101
+    400010: joint102
+    400012: joint103
+    400014: joint104
+    400016: joint105
+    400018: joint106
+    400020: joint107
+    400022: joint108
+    400024: joint109
+    400026: joint110
+    400028: joint111
+    400030: joint112
+    400032: joint113
+    400034: joint114
+    400036: joint115
+    400038: joint116
+    400040: joint117
+    400042: joint118
+    400044: joint119
+    400046: joint120
+    400048: joint75
+    400050: joint76
+    400052: joint77
+    400054: joint78
+    400056: joint79
+    400058: joint80
+    400060: joint81
+    400062: joint82
+    400064: joint83
+    400066: joint84
+    400068: joint85
+    400070: joint86
+    400072: joint87
+    400074: joint88
+    400076: joint89
+    400078: joint90
+    400080: joint91
+    400082: joint92
+    400084: joint93
+    400086: joint94
+    400088: joint95
+    400090: joint96
+    400092: joint97
+    400094: joint98
+    400096: joint99
+    400098: nurbsCircle15
+    400100: nurbsCircle16
+    400102: nurbsCircle23
+    400104: nurbsCircle24
+    400106: STCS_meihualu_con
+    400108: STCS_meihualu_con1
+    400110: STCS_meihualu_MD
+    400112: STCS_meihualu_MD_1
+    400114: STCS_meihualu_MD_2
+    400116: STCS_meihualu_MD_3
+    400118: STCS_meihualu_MD_4
+    400120: STCS_meihualu_MD_5
+    400122: STCS_meihualu_MD_6
+    400124: STCS_meihualu_MD_7
+    400126: STCS_meihualu_MD_8
+    400128: //RootNode
+    400130: group19
+    400132: group20
+    400134: group21
+    400136: group24
+    400138: pasted__group1
+    400140: pasted__pasted__Object002
+    400142: pasted__pasted__Object003
+    400144: pasted__pasted__Object004
+    400146: pasted__pasted__Object005
+    400148: pasted__pasted__Object006
+    400150: pasted__pasted__Object007
+    2300000: STCS_meihualu_MD_3
+    2300002: STCS_meihualu_MD_4
+    2300004: STCS_meihualu_MD_5
+    2300006: STCS_meihualu_MD_6
+    2300008: STCS_meihualu_MD_7
+    2300010: STCS_meihualu_MD_8
+    2300012: pasted__pasted__Object002
+    2300014: pasted__pasted__Object003
+    2300016: pasted__pasted__Object004
+    2300018: pasted__pasted__Object005
+    2300020: pasted__pasted__Object006
+    2300022: pasted__pasted__Object007
+    3300000: STCS_meihualu_MD_3
+    3300002: STCS_meihualu_MD_4
+    3300004: STCS_meihualu_MD_5
+    3300006: STCS_meihualu_MD_6
+    3300008: STCS_meihualu_MD_7
+    3300010: STCS_meihualu_MD_8
+    3300012: pasted__pasted__Object002
+    3300014: pasted__pasted__Object003
+    3300016: pasted__pasted__Object004
+    3300018: pasted__pasted__Object005
+    3300020: pasted__pasted__Object006
+    3300022: pasted__pasted__Object007
+    4300000: STCS_meihualu_MD_1
+    4300002: STCS_meihualu_MD_2
+    4300004: STCS_meihualu_MD_7
+    4300006: STCS_meihualu_MD_6
+    4300008: STCS_meihualu_MD_5
+    4300010: STCS_meihualu_MD_4
+    4300012: STCS_meihualu_MD_8
+    4300014: STCS_meihualu_MD_3
+    4300016: pasted__pasted__Object005
+    4300018: pasted__pasted__Object002
+    4300020: pasted__pasted__Object004
+    4300022: pasted__pasted__Object003
+    4300024: pasted__pasted__Object007
+    4300026: pasted__pasted__Object006
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: STCS_meihualu_MD_1
+    13700002: STCS_meihualu_MD_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group13
+        weight: 1
+      - path: group13/STCS_meihualu_con
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint76
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint76/joint77
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint76/joint77/joint78
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81/joint82
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81/joint82/joint83
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81/joint82/STCS_meihualu_MD_3
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81/joint82/STCS_meihualu_MD_4
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81/joint82/STCS_meihualu_MD_8
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint92
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint92/joint93
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint92/joint93/joint94
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint95
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint95/joint96
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint95/joint96/joint97
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint84
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint84/joint85
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint84/joint85/joint86
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint84/joint85/joint86/joint87
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint88
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint88/joint89
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint88/joint89/joint90
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint88/joint89/joint90/joint91
+        weight: 1
+      - path: group13/STCS_meihualu_con1
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101/joint102
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101/joint102/joint103
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101/joint102/joint103/STCS_meihualu_MD_5
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101/joint102/joint103/STCS_meihualu_MD_6
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101/joint102/joint103/STCS_meihualu_MD_7
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint115
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint115/joint116
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint115/joint116/joint117
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint118
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint118/joint119
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint118/joint119/joint120
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint104
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint104/joint105
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint104/joint105/joint106
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint107
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint107/joint108
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint107/joint108/joint109
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint107/joint108/joint109/joint110
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint111
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint111/joint112
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint111/joint112/joint113
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint111/joint112/joint113/joint114
+        weight: 1
+      - path: STCS_meihualu_MD
+        weight: 1
+      - path: STCS_meihualu_MD/STCS_meihualu_MD_1
+        weight: 1
+      - path: STCS_meihualu_MD/STCS_meihualu_MD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 192
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group13
+        weight: 1
+      - path: group13/STCS_meihualu_con
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint76
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint76/joint77
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint76/joint77/joint78
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81/joint82
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81/joint82/joint83
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81/joint82/STCS_meihualu_MD_3
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81/joint82/STCS_meihualu_MD_4
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint81/joint82/STCS_meihualu_MD_8
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint92
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint92/joint93
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint92/joint93/joint94
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint95
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint95/joint96
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint79/joint80/joint95/joint96/joint97
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint84
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint84/joint85
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint84/joint85/joint86
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint84/joint85/joint86/joint87
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint88
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint88/joint89
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint88/joint89/joint90
+        weight: 1
+      - path: group13/STCS_meihualu_con/nurbsCircle16/group6/nurbsCircle15/joint75/joint88/joint89/joint90/joint91
+        weight: 1
+      - path: group13/STCS_meihualu_con1
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101/joint102
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101/joint102/joint103
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101/joint102/joint103/STCS_meihualu_MD_5
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101/joint102/joint103/STCS_meihualu_MD_6
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint101/joint102/joint103/STCS_meihualu_MD_7
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint115
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint115/joint116
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint115/joint116/joint117
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint118
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint118/joint119
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint99/joint100/joint118/joint119/joint120
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint104
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint104/joint105
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint104/joint105/joint106
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint107
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint107/joint108
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint107/joint108/joint109
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint107/joint108/joint109/joint110
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint111
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint111/joint112
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint111/joint112/joint113
+        weight: 1
+      - path: group13/STCS_meihualu_con1/nurbsCircle24/group8/nurbsCircle23/joint98/joint111/joint112/joint113/joint114
+        weight: 1
+      - path: STCS_meihualu_MD
+        weight: 1
+      - path: STCS_meihualu_MD/STCS_meihualu_MD_1
+        weight: 1
+      - path: STCS_meihualu_MD/STCS_meihualu_MD_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

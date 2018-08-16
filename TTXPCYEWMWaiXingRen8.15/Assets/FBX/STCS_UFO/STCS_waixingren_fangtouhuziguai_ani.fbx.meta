@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: dedc9a39f0a9e0548b2e0600e09e82ee
+timeCreated: 1447913755
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: aa:group4
+    100002: aa:joint100
+    100004: aa:joint101
+    100006: aa:joint102
+    100008: aa:joint85
+    100010: aa:joint86
+    100012: aa:joint87
+    100014: aa:joint88
+    100016: aa:joint89
+    100018: aa:joint90
+    100020: aa:joint91
+    100022: aa:joint92
+    100024: aa:joint93
+    100026: aa:joint94
+    100028: aa:joint95
+    100030: aa:joint96
+    100032: aa:joint97
+    100034: aa:joint98
+    100036: aa:joint99
+    100038: aa:nurbsCircle3
+    100040: aa:Object010
+    100042: aa:Object011
+    100044: aa:Object013
+    100046: aa:Object015
+    100048: aa:Object016
+    100050: aa:STCS_waixingren_09_MD
+    100052: aa:transform4
+    100054: group2
+    100056: group3
+    100058: group4
+    100060: group5
+    100062: group6
+    100064: group7
+    100066: nurbsCircle6
+    100068: nurbsCircle6 1
+    100070: nurbsCircle6 2
+    100072: nurbsCircle6 3
+    100074: nurbsCircle6 4
+    100076: nurbsCircle6 5
+    100078: //RootNode
+    100080: transform12
+    100082: transform13
+    100084: transform3
+    100086: transform4
+    100088: transform6
+    100090: transform9
+    100092: aa:Shape1
+    100094: aa:STCS_waixingren_08_MD
+    100096: group1
+    100098: joint45
+    100100: joint46
+    100102: joint47
+    100104: joint48
+    100106: joint49
+    100108: joint50
+    100110: joint51
+    100112: joint52
+    100114: joint53
+    100116: joint54
+    100118: joint55
+    100120: joint56
+    100122: nurbsCircle5
+    100124: transform1
+    100126: aa1:group4
+    100128: aa1:STCS_waixingren_09_MD
+    100130: DJ:group
+    100132: DJ:group1
+    100134: DJ:pasted__Object001
+    100136: DJ:pasted__Object007
+    100138: DJ:pasted__Object008
+    100140: DJ:pasted__Object010
+    100142: DJ:pasted__Object012
+    100144: group
+    100146: group25
+    100148: group26
+    100150: group27
+    100152: group28
+    100154: group29
+    100156: group30
+    400000: aa:group4
+    400002: aa:joint100
+    400004: aa:joint101
+    400006: aa:joint102
+    400008: aa:joint85
+    400010: aa:joint86
+    400012: aa:joint87
+    400014: aa:joint88
+    400016: aa:joint89
+    400018: aa:joint90
+    400020: aa:joint91
+    400022: aa:joint92
+    400024: aa:joint93
+    400026: aa:joint94
+    400028: aa:joint95
+    400030: aa:joint96
+    400032: aa:joint97
+    400034: aa:joint98
+    400036: aa:joint99
+    400038: aa:nurbsCircle3
+    400040: aa:Object010
+    400042: aa:Object011
+    400044: aa:Object013
+    400046: aa:Object015
+    400048: aa:Object016
+    400050: aa:STCS_waixingren_09_MD
+    400052: aa:transform4
+    400054: group2
+    400056: group3
+    400058: group4
+    400060: group5
+    400062: group6
+    400064: group7
+    400066: nurbsCircle6
+    400068: nurbsCircle6 1
+    400070: nurbsCircle6 2
+    400072: nurbsCircle6 3
+    400074: nurbsCircle6 4
+    400076: nurbsCircle6 5
+    400078: //RootNode
+    400080: transform12
+    400082: transform13
+    400084: transform3
+    400086: transform4
+    400088: transform6
+    400090: transform9
+    400092: aa:Shape1
+    400094: aa:STCS_waixingren_08_MD
+    400096: group1
+    400098: joint45
+    400100: joint46
+    400102: joint47
+    400104: joint48
+    400106: joint49
+    400108: joint50
+    400110: joint51
+    400112: joint52
+    400114: joint53
+    400116: joint54
+    400118: joint55
+    400120: joint56
+    400122: nurbsCircle5
+    400124: transform1
+    400126: aa1:group4
+    400128: aa1:STCS_waixingren_09_MD
+    400130: DJ:group
+    400132: DJ:group1
+    400134: DJ:pasted__Object001
+    400136: DJ:pasted__Object007
+    400138: DJ:pasted__Object008
+    400140: DJ:pasted__Object010
+    400142: DJ:pasted__Object012
+    400144: group
+    400146: group25
+    400148: group26
+    400150: group27
+    400152: group28
+    400154: group29
+    400156: group30
+    2300000: aa:Object011
+    2300002: aa:Object013
+    2300004: aa:Object015
+    2300006: aa:Object016
+    2300008: DJ:pasted__Object001
+    2300010: DJ:pasted__Object007
+    2300012: DJ:pasted__Object008
+    2300014: DJ:pasted__Object010
+    2300016: DJ:pasted__Object012
+    3300000: aa:Object011
+    3300002: aa:Object013
+    3300004: aa:Object015
+    3300006: aa:Object016
+    3300008: DJ:pasted__Object001
+    3300010: DJ:pasted__Object007
+    3300012: DJ:pasted__Object008
+    3300014: DJ:pasted__Object010
+    3300016: DJ:pasted__Object012
+    4300000: aa:Object010
+    4300002: aa:Object011
+    4300004: aa:Object015
+    4300006: aa:Object013
+    4300008: aa:Object016
+    4300010: aa:Shape1
+    4300012: DJ:pasted__Object001
+    4300014: DJ:pasted__Object007
+    4300016: DJ:pasted__Object008
+    4300018: DJ:pasted__Object010
+    4300020: DJ:pasted__Object012
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: aa:Object010
+    13700002: aa:Shape1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 301
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aa:group4
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/aa:transform4
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/aa:transform4/aa:joint85
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/aa:transform4/aa:joint85/aa:joint96
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/aa:transform4/aa:joint85/aa:joint96/aa:joint97
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/aa:transform4/aa:joint85/aa:Object011
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92/aa:joint98
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92/aa:joint98/aa:joint99
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92/aa:joint98/aa:joint99/aa:joint100
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92/aa:joint98/aa:joint99/aa:joint100/aa:joint101
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92/aa:joint98/aa:joint99/aa:joint100/aa:joint101/aa:joint102
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/transform13
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/transform13/aa:joint90
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:joint93
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:joint93/aa:joint94
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:joint95
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:Object013
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:Object013/aa:Object016
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:Object015
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/transform9
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/transform9/aa:joint88
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/transform4
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/transform4/aa:joint87
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/transform3
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/transform3/aa:joint86
+        weight: 1
+      - path: aa:STCS_waixingren_09_MD
+        weight: 1
+      - path: aa:STCS_waixingren_09_MD/aa:Object010
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 301
+      lastFrame: 529
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aa:group4
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/aa:transform4
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/aa:transform4/aa:joint85
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/aa:transform4/aa:joint85/aa:joint96
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/aa:transform4/aa:joint85/aa:joint96/aa:joint97
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/aa:transform4/aa:joint85/aa:Object011
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92/aa:joint98
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92/aa:joint98/aa:joint99
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92/aa:joint98/aa:joint99/aa:joint100
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92/aa:joint98/aa:joint99/aa:joint100/aa:joint101
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/group7/nurbsCircle6 5/transform12/aa:joint91/aa:joint92/aa:joint98/aa:joint99/aa:joint100/aa:joint101/aa:joint102
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/transform13
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/group6/nurbsCircle6 4/transform13/aa:joint90
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:joint93
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:joint93/aa:joint94
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:joint95
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:Object013
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:Object013/aa:Object016
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/group5/nurbsCircle6 3/transform6/aa:joint89/aa:Object015
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/transform9
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/group4/nurbsCircle6
+          2/transform9/aa:joint88
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/transform4
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/group3/nurbsCircle6 1/transform4/aa:joint87
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/transform3
+        weight: 1
+      - path: aa:group4/aa:nurbsCircle3/group2/nurbsCircle6/transform3/aa:joint86
+        weight: 1
+      - path: aa:STCS_waixingren_09_MD
+        weight: 1
+      - path: aa:STCS_waixingren_09_MD/aa:Object010
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

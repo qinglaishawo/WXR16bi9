@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: a26e3384f438039488237f480670b158
+timeCreated: 1447911991
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bg_BB_cn:yunduoguai1:group
+    100002: bg_BB_cn:yunduoguai1:group1
+    100004: bg_BB_cn:yunduoguai1:group11
+    100006: bg_BB_cn:yunduoguai1:group2
+    100008: bg_BB_cn:yunduoguai1:group3
+    100010: bg_BB_cn:yunduoguai1:joint1
+    100012: bg_BB_cn:yunduoguai1:joint10
+    100014: bg_BB_cn:yunduoguai1:joint11
+    100016: bg_BB_cn:yunduoguai1:joint12
+    100018: bg_BB_cn:yunduoguai1:joint13
+    100020: bg_BB_cn:yunduoguai1:joint14
+    100022: bg_BB_cn:yunduoguai1:joint15
+    100024: bg_BB_cn:yunduoguai1:joint16
+    100026: bg_BB_cn:yunduoguai1:joint17
+    100028: bg_BB_cn:yunduoguai1:joint18
+    100030: bg_BB_cn:yunduoguai1:joint19
+    100032: bg_BB_cn:yunduoguai1:joint2
+    100034: bg_BB_cn:yunduoguai1:joint20
+    100036: bg_BB_cn:yunduoguai1:joint3
+    100038: bg_BB_cn:yunduoguai1:joint4
+    100040: bg_BB_cn:yunduoguai1:joint5
+    100042: bg_BB_cn:yunduoguai1:joint6
+    100044: bg_BB_cn:yunduoguai1:joint7
+    100046: bg_BB_cn:yunduoguai1:joint8
+    100048: bg_BB_cn:yunduoguai1:joint9
+    100050: bg_BB_cn:yunduoguai1:nurbsCircle1
+    100052: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyan_l_MD
+    100054: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyani_r_MD
+    100056: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_MD
+    100058: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_shenti_MD
+    100060: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_l_MD
+    100062: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_r_MD
+    100064: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_l_MD
+    100066: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_r_MD
+    100068: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_l_MD
+    100070: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_r_MD
+    100072: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD
+    100074: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1
+    100076: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_10
+    100078: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_11
+    100080: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_12
+    100082: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_13
+    100084: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_14
+    100086: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_15
+    100088: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_16
+    100090: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_2
+    100092: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_3
+    100094: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_4
+    100096: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_5
+    100098: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_6
+    100100: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_7
+    100102: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_8
+    100104: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_9
+    100106: bg_BB_cn:yunduoguai1:transform1
+    100108: //RootNode
+    100110: bg_BB_cn1:BB
+    100112: bg_BB_cn1:yunduoguai1:group
+    100114: bg_BB_cn1:yunduoguai1:group11
+    100116: bg_BB_cn1:yunduoguai1:group3
+    100118: bg_BB_cn1:yunduoguai1:pasted__STCS_waixingren_05_MD
+    100120: bg_BB_cn:BB
+    100122: group
+    400000: bg_BB_cn:yunduoguai1:group
+    400002: bg_BB_cn:yunduoguai1:group1
+    400004: bg_BB_cn:yunduoguai1:group11
+    400006: bg_BB_cn:yunduoguai1:group2
+    400008: bg_BB_cn:yunduoguai1:group3
+    400010: bg_BB_cn:yunduoguai1:joint1
+    400012: bg_BB_cn:yunduoguai1:joint10
+    400014: bg_BB_cn:yunduoguai1:joint11
+    400016: bg_BB_cn:yunduoguai1:joint12
+    400018: bg_BB_cn:yunduoguai1:joint13
+    400020: bg_BB_cn:yunduoguai1:joint14
+    400022: bg_BB_cn:yunduoguai1:joint15
+    400024: bg_BB_cn:yunduoguai1:joint16
+    400026: bg_BB_cn:yunduoguai1:joint17
+    400028: bg_BB_cn:yunduoguai1:joint18
+    400030: bg_BB_cn:yunduoguai1:joint19
+    400032: bg_BB_cn:yunduoguai1:joint2
+    400034: bg_BB_cn:yunduoguai1:joint20
+    400036: bg_BB_cn:yunduoguai1:joint3
+    400038: bg_BB_cn:yunduoguai1:joint4
+    400040: bg_BB_cn:yunduoguai1:joint5
+    400042: bg_BB_cn:yunduoguai1:joint6
+    400044: bg_BB_cn:yunduoguai1:joint7
+    400046: bg_BB_cn:yunduoguai1:joint8
+    400048: bg_BB_cn:yunduoguai1:joint9
+    400050: bg_BB_cn:yunduoguai1:nurbsCircle1
+    400052: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyan_l_MD
+    400054: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyani_r_MD
+    400056: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_MD
+    400058: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_shenti_MD
+    400060: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_l_MD
+    400062: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_r_MD
+    400064: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_l_MD
+    400066: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_r_MD
+    400068: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_l_MD
+    400070: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_r_MD
+    400072: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD
+    400074: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1
+    400076: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_10
+    400078: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_11
+    400080: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_12
+    400082: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_13
+    400084: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_14
+    400086: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_15
+    400088: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_16
+    400090: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_2
+    400092: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_3
+    400094: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_4
+    400096: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_5
+    400098: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_6
+    400100: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_7
+    400102: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_8
+    400104: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_9
+    400106: bg_BB_cn:yunduoguai1:transform1
+    400108: //RootNode
+    400110: bg_BB_cn1:BB
+    400112: bg_BB_cn1:yunduoguai1:group
+    400114: bg_BB_cn1:yunduoguai1:group11
+    400116: bg_BB_cn1:yunduoguai1:group3
+    400118: bg_BB_cn1:yunduoguai1:pasted__STCS_waixingren_05_MD
+    400120: bg_BB_cn:BB
+    400122: group
+    2300000: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyan_l_MD
+    2300002: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyani_r_MD
+    2300004: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_l_MD
+    2300006: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_r_MD
+    2300008: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_l_MD
+    2300010: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_r_MD
+    2300012: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_l_MD
+    2300014: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_r_MD
+    2300016: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1
+    2300018: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_10
+    2300020: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_11
+    2300022: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_12
+    2300024: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_13
+    2300026: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_14
+    2300028: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_15
+    2300030: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_16
+    2300032: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_2
+    2300034: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_3
+    2300036: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_4
+    2300038: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_5
+    2300040: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_6
+    2300042: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_7
+    2300044: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_8
+    2300046: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_9
+    3300000: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyan_l_MD
+    3300002: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyani_r_MD
+    3300004: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_l_MD
+    3300006: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_r_MD
+    3300008: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_l_MD
+    3300010: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_r_MD
+    3300012: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_l_MD
+    3300014: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_r_MD
+    3300016: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1
+    3300018: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_10
+    3300020: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_11
+    3300022: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_12
+    3300024: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_13
+    3300026: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_14
+    3300028: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_15
+    3300030: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_16
+    3300032: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_2
+    3300034: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_3
+    3300036: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_4
+    3300038: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_5
+    3300040: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_6
+    3300042: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_7
+    3300044: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_8
+    3300046: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_9
+    4300000: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_shenti_MD
+    4300002: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1
+    4300004: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_2
+    4300006: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_4
+    4300008: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_5
+    4300010: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_6
+    4300012: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_7
+    4300014: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_8
+    4300016: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_9
+    4300018: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_10
+    4300020: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_11
+    4300022: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_15
+    4300024: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_16
+    4300026: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_3
+    4300028: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_12
+    4300030: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_13
+    4300032: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_14
+    4300034: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_r_MD
+    4300036: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_r_MD
+    4300038: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyani_r_MD
+    4300040: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_r_MD
+    4300042: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_l_MD
+    4300044: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_l_MD
+    4300046: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyan_l_MD
+    4300048: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_l_MD
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_shenti_MD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 42
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_shenti_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:joint4
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:joint4/bg_BB_cn:yunduoguai1:joint5
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_2
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_3
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_4
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_5
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_6
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_7
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_8
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_9
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_10
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_11
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_15
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_16
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_12
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_13
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_14
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint6
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint6/bg_BB_cn:yunduoguai1:joint7
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint6/bg_BB_cn:yunduoguai1:joint7/bg_BB_cn:yunduoguai1:joint8
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint6/bg_BB_cn:yunduoguai1:joint7/bg_BB_cn:yunduoguai1:joint8/bg_BB_cn:yunduoguai1:joint9
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint10
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint11
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint12
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint13
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint14
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17/bg_BB_cn:yunduoguai1:group1
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17/bg_BB_cn:yunduoguai1:group1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyani_r_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17/bg_BB_cn:yunduoguai1:group1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_r_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17/bg_BB_cn:yunduoguai1:group1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_r_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17/bg_BB_cn:yunduoguai1:group1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_r_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20/bg_BB_cn:yunduoguai1:group2
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20/bg_BB_cn:yunduoguai1:group2/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyan_l_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20/bg_BB_cn:yunduoguai1:group2/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_l_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20/bg_BB_cn:yunduoguai1:group2/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_l_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20/bg_BB_cn:yunduoguai1:group2/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_l_MD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 66
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_shenti_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:joint4
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:joint4/bg_BB_cn:yunduoguai1:joint5
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_2
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_3
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_4
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_5
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_6
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_7
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_8
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_9
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_10
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_11
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_15
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_16
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_12
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_13
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint2/bg_BB_cn:yunduoguai1:joint3/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_wandi_MD_14
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint6
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint6/bg_BB_cn:yunduoguai1:joint7
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint6/bg_BB_cn:yunduoguai1:joint7/bg_BB_cn:yunduoguai1:joint8
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint6/bg_BB_cn:yunduoguai1:joint7/bg_BB_cn:yunduoguai1:joint8/bg_BB_cn:yunduoguai1:joint9
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint10
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint11
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint12
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint13
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint14
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17/bg_BB_cn:yunduoguai1:group1
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17/bg_BB_cn:yunduoguai1:group1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyani_r_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17/bg_BB_cn:yunduoguai1:group1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_r_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17/bg_BB_cn:yunduoguai1:group1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_r_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint15/bg_BB_cn:yunduoguai1:joint16/bg_BB_cn:yunduoguai1:joint17/bg_BB_cn:yunduoguai1:group1/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_r_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20/bg_BB_cn:yunduoguai1:group2
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20/bg_BB_cn:yunduoguai1:group2/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_biyan_l_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20/bg_BB_cn:yunduoguai1:group2/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanjing_l_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20/bg_BB_cn:yunduoguai1:group2/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanpi_l_MD
+        weight: 1
+      - path: bg_BB_cn:yunduoguai1:group11/bg_BB_cn:yunduoguai1:group3/bg_BB_cn:yunduoguai1:nurbsCircle1/bg_BB_cn:yunduoguai1:transform1/bg_BB_cn:yunduoguai1:joint1/bg_BB_cn:yunduoguai1:joint18/bg_BB_cn:yunduoguai1:joint19/bg_BB_cn:yunduoguai1:joint20/bg_BB_cn:yunduoguai1:group2/bg_BB_cn:yunduoguai1:pasted__STCS_waixingren_05_yanren_l_MD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

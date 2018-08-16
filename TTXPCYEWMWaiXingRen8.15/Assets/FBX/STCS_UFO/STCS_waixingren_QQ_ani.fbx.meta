@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: a63ffae40b4cd4345b6629c115154631
+timeCreated: 1447913754
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: renwu:STCS_waixingren_QQ_MD
+    100002: renwu:STCS_waixingren_QQ_MD_1
+    100004: renwu:STCS_waixingren_QQ_MD_10
+    100006: renwu:STCS_waixingren_QQ_MD_11
+    100008: renwu:STCS_waixingren_QQ_MD_2
+    100010: renwu:STCS_waixingren_QQ_MD_3
+    100012: renwu:STCS_waixingren_QQ_MD_4
+    100014: renwu:STCS_waixingren_QQ_MD_5
+    100016: renwu:STCS_waixingren_QQ_MD_6
+    100018: renwu:STCS_waixingren_QQ_MD_7
+    100020: renwu:STCS_waixingren_QQ_MD_8
+    100022: renwu:STCS_waixingren_QQ_MD_9
+    100024: //RootNode
+    400000: renwu:STCS_waixingren_QQ_MD
+    400002: renwu:STCS_waixingren_QQ_MD_1
+    400004: renwu:STCS_waixingren_QQ_MD_10
+    400006: renwu:STCS_waixingren_QQ_MD_11
+    400008: renwu:STCS_waixingren_QQ_MD_2
+    400010: renwu:STCS_waixingren_QQ_MD_3
+    400012: renwu:STCS_waixingren_QQ_MD_4
+    400014: renwu:STCS_waixingren_QQ_MD_5
+    400016: renwu:STCS_waixingren_QQ_MD_6
+    400018: renwu:STCS_waixingren_QQ_MD_7
+    400020: renwu:STCS_waixingren_QQ_MD_8
+    400022: renwu:STCS_waixingren_QQ_MD_9
+    400024: //RootNode
+    2300000: renwu:STCS_waixingren_QQ_MD_1
+    2300002: renwu:STCS_waixingren_QQ_MD_10
+    2300004: renwu:STCS_waixingren_QQ_MD_11
+    2300006: renwu:STCS_waixingren_QQ_MD_2
+    2300008: renwu:STCS_waixingren_QQ_MD_3
+    2300010: renwu:STCS_waixingren_QQ_MD_4
+    2300012: renwu:STCS_waixingren_QQ_MD_5
+    2300014: renwu:STCS_waixingren_QQ_MD_6
+    2300016: renwu:STCS_waixingren_QQ_MD_7
+    2300018: renwu:STCS_waixingren_QQ_MD_8
+    2300020: renwu:STCS_waixingren_QQ_MD_9
+    3300000: renwu:STCS_waixingren_QQ_MD_1
+    3300002: renwu:STCS_waixingren_QQ_MD_10
+    3300004: renwu:STCS_waixingren_QQ_MD_11
+    3300006: renwu:STCS_waixingren_QQ_MD_2
+    3300008: renwu:STCS_waixingren_QQ_MD_3
+    3300010: renwu:STCS_waixingren_QQ_MD_4
+    3300012: renwu:STCS_waixingren_QQ_MD_5
+    3300014: renwu:STCS_waixingren_QQ_MD_6
+    3300016: renwu:STCS_waixingren_QQ_MD_7
+    3300018: renwu:STCS_waixingren_QQ_MD_8
+    3300020: renwu:STCS_waixingren_QQ_MD_9
+    4300000: renwu:STCS_waixingren_QQ_MD_1
+    4300002: renwu:STCS_waixingren_QQ_MD_2
+    4300004: renwu:STCS_waixingren_QQ_MD_8
+    4300006: renwu:STCS_waixingren_QQ_MD_7
+    4300008: renwu:STCS_waixingren_QQ_MD_3
+    4300010: renwu:STCS_waixingren_QQ_MD_4
+    4300012: renwu:STCS_waixingren_QQ_MD_5
+    4300014: renwu:STCS_waixingren_QQ_MD_6
+    4300016: renwu:STCS_waixingren_QQ_MD_9
+    4300018: renwu:STCS_waixingren_QQ_MD_10
+    4300020: renwu:STCS_waixingren_QQ_MD_11
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 35
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_2
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_3
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_4
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_5
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_6
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_9
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_10
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_11
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 35
+      lastFrame: 150
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_2
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_3
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_4
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_5
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_6
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_9
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_10
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_7/renwu:STCS_waixingren_QQ_MD_11
+        weight: 1
+      - path: renwu:STCS_waixingren_QQ_MD/renwu:STCS_waixingren_QQ_MD_1/renwu:STCS_waixingren_QQ_MD_8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

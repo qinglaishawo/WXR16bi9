@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: 83a2e6a4261760649a3810400557eb43
+timeCreated: 1447913200
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: pasted__STCS_juese_MD
+    100002: pasted__STCS_moli_MD
+    100004: pasted__STCS_moli_MD12_1
+    100006: pasted__STCS_moli_MD12_10
+    100008: pasted__STCS_moli_MD12_11
+    100010: pasted__STCS_moli_MD12_12
+    100012: pasted__STCS_moli_MD12_2
+    100014: pasted__STCS_moli_MD12_3
+    100016: pasted__STCS_moli_MD12_4
+    100018: pasted__STCS_moli_MD12_5
+    100020: pasted__STCS_moli_MD12_6
+    100022: pasted__STCS_moli_MD12_7
+    100024: pasted__STCS_moli_MD12_8
+    100026: pasted__STCS_moli_MD12_9
+    100028: //RootNode
+    100030: pasted__Object093
+    100032: pasted__Object095
+    100034: pasted__Object096
+    100036: pasted__Object097
+    100038: pasted__Object098
+    100040: pasted__Object099
+    100042: pasted__Object100
+    100044: pasted__Object101
+    100046: pasted__Object102
+    100048: pasted__Object103
+    100050: pasted__Object104
+    100052: pasted__Object105
+    100054: pasted__Object106
+    100056: pasted__Object107
+    100058: pasted__Object108
+    100060: pasted__Object109
+    100062: pasted__Object110
+    100064: pasted__Object111
+    100066: pasted__Object112
+    100068: pasted__Object157
+    100070: pasted__Object187
+    100072: pasted__Object188
+    100074: pasted__Object189
+    100076: pasted__Object190
+    100078: pasted__STCS_renwu_MD
+    100080: pasted__STCS_renwu_moli_shenlin_MD
+    400000: pasted__STCS_juese_MD
+    400002: pasted__STCS_moli_MD
+    400004: pasted__STCS_moli_MD12_1
+    400006: pasted__STCS_moli_MD12_10
+    400008: pasted__STCS_moli_MD12_11
+    400010: pasted__STCS_moli_MD12_12
+    400012: pasted__STCS_moli_MD12_2
+    400014: pasted__STCS_moli_MD12_3
+    400016: pasted__STCS_moli_MD12_4
+    400018: pasted__STCS_moli_MD12_5
+    400020: pasted__STCS_moli_MD12_6
+    400022: pasted__STCS_moli_MD12_7
+    400024: pasted__STCS_moli_MD12_8
+    400026: pasted__STCS_moli_MD12_9
+    400028: //RootNode
+    400030: pasted__Object093
+    400032: pasted__Object095
+    400034: pasted__Object096
+    400036: pasted__Object097
+    400038: pasted__Object098
+    400040: pasted__Object099
+    400042: pasted__Object100
+    400044: pasted__Object101
+    400046: pasted__Object102
+    400048: pasted__Object103
+    400050: pasted__Object104
+    400052: pasted__Object105
+    400054: pasted__Object106
+    400056: pasted__Object107
+    400058: pasted__Object108
+    400060: pasted__Object109
+    400062: pasted__Object110
+    400064: pasted__Object111
+    400066: pasted__Object112
+    400068: pasted__Object157
+    400070: pasted__Object187
+    400072: pasted__Object188
+    400074: pasted__Object189
+    400076: pasted__Object190
+    400078: pasted__STCS_renwu_MD
+    400080: pasted__STCS_renwu_moli_shenlin_MD
+    2300000: pasted__STCS_moli_MD12_1
+    2300002: pasted__STCS_moli_MD12_10
+    2300004: pasted__STCS_moli_MD12_11
+    2300006: pasted__STCS_moli_MD12_12
+    2300008: pasted__STCS_moli_MD12_2
+    2300010: pasted__STCS_moli_MD12_3
+    2300012: pasted__STCS_moli_MD12_4
+    2300014: pasted__STCS_moli_MD12_5
+    2300016: pasted__STCS_moli_MD12_6
+    2300018: pasted__STCS_moli_MD12_7
+    2300020: pasted__STCS_moli_MD12_8
+    2300022: pasted__STCS_moli_MD12_9
+    2300024: pasted__Object093
+    2300026: pasted__Object095
+    2300028: pasted__Object096
+    2300030: pasted__Object097
+    2300032: pasted__Object098
+    2300034: pasted__Object099
+    2300036: pasted__Object100
+    2300038: pasted__Object101
+    2300040: pasted__Object102
+    2300042: pasted__Object103
+    2300044: pasted__Object104
+    2300046: pasted__Object105
+    2300048: pasted__Object106
+    2300050: pasted__Object107
+    2300052: pasted__Object108
+    2300054: pasted__Object109
+    2300056: pasted__Object110
+    2300058: pasted__Object111
+    2300060: pasted__Object112
+    2300062: pasted__Object157
+    2300064: pasted__Object187
+    2300066: pasted__Object188
+    2300068: pasted__Object189
+    2300070: pasted__Object190
+    3300000: pasted__STCS_moli_MD12_1
+    3300002: pasted__STCS_moli_MD12_10
+    3300004: pasted__STCS_moli_MD12_11
+    3300006: pasted__STCS_moli_MD12_12
+    3300008: pasted__STCS_moli_MD12_2
+    3300010: pasted__STCS_moli_MD12_3
+    3300012: pasted__STCS_moli_MD12_4
+    3300014: pasted__STCS_moli_MD12_5
+    3300016: pasted__STCS_moli_MD12_6
+    3300018: pasted__STCS_moli_MD12_7
+    3300020: pasted__STCS_moli_MD12_8
+    3300022: pasted__STCS_moli_MD12_9
+    3300024: pasted__Object093
+    3300026: pasted__Object095
+    3300028: pasted__Object096
+    3300030: pasted__Object097
+    3300032: pasted__Object098
+    3300034: pasted__Object099
+    3300036: pasted__Object100
+    3300038: pasted__Object101
+    3300040: pasted__Object102
+    3300042: pasted__Object103
+    3300044: pasted__Object104
+    3300046: pasted__Object105
+    3300048: pasted__Object106
+    3300050: pasted__Object107
+    3300052: pasted__Object108
+    3300054: pasted__Object109
+    3300056: pasted__Object110
+    3300058: pasted__Object111
+    3300060: pasted__Object112
+    3300062: pasted__Object157
+    3300064: pasted__Object187
+    3300066: pasted__Object188
+    3300068: pasted__Object189
+    3300070: pasted__Object190
+    4300000: pasted__STCS_moli_MD12_4
+    4300002: pasted__STCS_moli_MD12_5
+    4300004: pasted__STCS_moli_MD12_1
+    4300006: pasted__STCS_moli_MD12_11
+    4300008: pasted__STCS_moli_MD12_12
+    4300010: pasted__STCS_moli_MD12_10
+    4300012: pasted__STCS_moli_MD12_9
+    4300014: pasted__STCS_moli_MD12_2
+    4300016: pasted__STCS_moli_MD12_6
+    4300018: pasted__STCS_moli_MD12_7
+    4300020: pasted__STCS_moli_MD12_3
+    4300022: pasted__STCS_moli_MD12_8
+    4300024: pasted__Object108
+    4300026: pasted__Object107
+    4300028: pasted__Object187
+    4300030: pasted__Object109
+    4300032: pasted__Object106
+    4300034: pasted__Object188
+    4300036: pasted__Object111
+    4300038: pasted__Object110
+    4300040: pasted__Object102
+    4300042: pasted__Object104
+    4300044: pasted__Object112
+    4300046: pasted__Object103
+    4300048: pasted__Object105
+    4300050: pasted__Object099
+    4300052: pasted__Object093
+    4300054: pasted__Object098
+    4300056: pasted__Object101
+    4300058: pasted__Object100
+    4300060: pasted__Object097
+    4300062: pasted__Object096
+    4300064: pasted__Object157
+    4300066: pasted__Object189
+    4300068: pasted__Object095
+    4300070: pasted__Object190
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pasted__STCS_juese_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_4
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1/pasted__STCS_moli_MD12_2
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1/pasted__STCS_moli_MD12_9
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1/pasted__STCS_moli_MD12_10
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1/pasted__STCS_moli_MD12_11
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1/pasted__STCS_moli_MD12_12
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_3
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_6
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_7
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 250
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pasted__STCS_juese_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_4
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1/pasted__STCS_moli_MD12_2
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1/pasted__STCS_moli_MD12_9
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1/pasted__STCS_moli_MD12_10
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1/pasted__STCS_moli_MD12_11
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_1/pasted__STCS_moli_MD12_12
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_3
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_6
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_5/pasted__STCS_moli_MD12_7
+        weight: 1
+      - path: pasted__STCS_juese_MD/pasted__STCS_moli_MD/pasted__STCS_moli_MD12_8
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

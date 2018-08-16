@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 7573aa63451fc1342b74eddad406fbc0
+timeCreated: 1447913787
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group1
+    100002: group12
+    100004: group80
+    100006: huli:polySurface1
+    100008: joint1
+    100010: joint10
+    100012: joint11
+    100014: joint12
+    100016: joint13
+    100018: joint14
+    100020: joint15
+    100022: joint16
+    100024: joint17
+    100026: joint18
+    100028: joint19
+    100030: joint2
+    100032: joint20
+    100034: joint21
+    100036: joint22
+    100038: joint23
+    100040: joint24
+    100042: joint25
+    100044: joint26
+    100046: joint27
+    100048: joint28
+    100050: joint29
+    100052: joint3
+    100054: joint30
+    100056: joint31
+    100058: joint32
+    100060: joint34
+    100062: joint36
+    100064: joint37
+    100066: joint38
+    100068: joint39
+    100070: joint4
+    100072: joint5
+    100074: joint6
+    100076: joint7
+    100078: joint8
+    100080: joint9
+    100082: nurbsCircle1
+    100084: nurbsCircle8
+    100086: STCS_huli_con
+    100088: STCS_huli_MD1
+    100090: STCS_huli_MD:biyan_L
+    100092: STCS_huli_MD:biyan_R
+    100094: STCS_huli_MD:pCylinder1
+    100096: STCS_huli_MD:pCylinder2
+    100098: STCS_huli_MD:polySurface2
+    100100: STCS_huli_MD:polySurface3
+    100102: //RootNode
+    100104: tutu_MD10
+    100106: tutu_MD11
+    100108: STCS_huli_ani
+    400000: group1
+    400002: group12
+    400004: group80
+    400006: huli:polySurface1
+    400008: joint1
+    400010: joint10
+    400012: joint11
+    400014: joint12
+    400016: joint13
+    400018: joint14
+    400020: joint15
+    400022: joint16
+    400024: joint17
+    400026: joint18
+    400028: joint19
+    400030: joint2
+    400032: joint20
+    400034: joint21
+    400036: joint22
+    400038: joint23
+    400040: joint24
+    400042: joint25
+    400044: joint26
+    400046: joint27
+    400048: joint28
+    400050: joint29
+    400052: joint3
+    400054: joint30
+    400056: joint31
+    400058: joint32
+    400060: joint34
+    400062: joint36
+    400064: joint37
+    400066: joint38
+    400068: joint39
+    400070: joint4
+    400072: joint5
+    400074: joint6
+    400076: joint7
+    400078: joint8
+    400080: joint9
+    400082: nurbsCircle1
+    400084: nurbsCircle8
+    400086: STCS_huli_con
+    400088: STCS_huli_MD1
+    400090: STCS_huli_MD:biyan_L
+    400092: STCS_huli_MD:biyan_R
+    400094: STCS_huli_MD:pCylinder1
+    400096: STCS_huli_MD:pCylinder2
+    400098: STCS_huli_MD:polySurface2
+    400100: STCS_huli_MD:polySurface3
+    400102: //RootNode
+    400104: tutu_MD10
+    400106: tutu_MD11
+    400108: STCS_huli_ani
+    2300000: STCS_huli_MD:biyan_L
+    2300002: STCS_huli_MD:biyan_R
+    2300004: STCS_huli_MD:pCylinder1
+    2300006: STCS_huli_MD:pCylinder2
+    2300008: STCS_huli_MD:polySurface2
+    2300010: STCS_huli_MD:polySurface3
+    2300012: tutu_MD10
+    2300014: tutu_MD11
+    3300000: STCS_huli_MD:biyan_L
+    3300002: STCS_huli_MD:biyan_R
+    3300004: STCS_huli_MD:pCylinder1
+    3300006: STCS_huli_MD:pCylinder2
+    3300008: STCS_huli_MD:polySurface2
+    3300010: STCS_huli_MD:polySurface3
+    3300012: tutu_MD10
+    3300014: tutu_MD11
+    4300000: STCS_huli_MD:polySurface3
+    4300002: STCS_huli_MD:pCylinder1
+    4300004: STCS_huli_MD:biyan_L
+    4300006: STCS_huli_MD:biyan_R
+    4300008: STCS_huli_MD:polySurface2
+    4300010: STCS_huli_MD:pCylinder2
+    4300012: huli:polySurface1
+    4300014: tutu_MD10
+    4300016: tutu_MD11
+    7400000: dj_0
+    7400002: hd_0
+    11100000: //RootNode
+    13700000: huli:polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 49
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_huli_ani
+        weight: 1
+      - path: STCS_huli_ani/group80
+        weight: 1
+      - path: STCS_huli_ani/group80/tutu_MD10
+        weight: 1
+      - path: STCS_huli_ani/group80/tutu_MD11
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:biyan_L
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:biyan_R
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:polySurface2
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:polySurface2/STCS_huli_MD:pCylinder2
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:polySurface3
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:polySurface3/STCS_huli_MD:pCylinder1
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint8
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint8/joint9
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint8/joint9/joint10
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint38
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint38/joint39
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint32
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint34
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint36
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint26
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint26/joint27
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint26/joint27/joint28
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint29
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint29/joint30
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint29/joint30/joint31
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint37
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint20
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint20/joint21
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint20/joint21/joint22
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint23
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint23/joint24
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint23/joint24/joint25
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_MD1
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_MD1/huli:polySurface1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 49
+      lastFrame: 96
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_huli_ani
+        weight: 1
+      - path: STCS_huli_ani/group80
+        weight: 1
+      - path: STCS_huli_ani/group80/tutu_MD10
+        weight: 1
+      - path: STCS_huli_ani/group80/tutu_MD11
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:biyan_L
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:biyan_R
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:polySurface2
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:polySurface2/STCS_huli_MD:pCylinder2
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:polySurface3
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/group12/STCS_huli_MD:polySurface3/STCS_huli_MD:pCylinder1
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint8
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint8/joint9
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint8/joint9/joint10
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint38
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint4/joint38/joint39
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint32
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint34
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint3/joint36
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint26
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint26/joint27
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint26/joint27/joint28
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint29
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint29/joint30
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint29/joint30/joint31
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint1/joint2/joint37
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint20
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint20/joint21
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint20/joint21/joint22
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint23
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint23/joint24
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_con/nurbsCircle8/group1/nurbsCircle1/joint11/joint23/joint24/joint25
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_MD1
+        weight: 1
+      - path: STCS_huli_ani/STCS_huli_MD1/huli:polySurface1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

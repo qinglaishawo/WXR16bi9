@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 02a6cbad559c8214a9572f68b1047440
+timeCreated: 1488794981
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - biHuTuSe: {fileID: 2800000, guid: 6f275b08bb0ca3f4b97269fb6b786fd8, type: 3}
+  - biHuWuTuSe: {fileID: 2800000, guid: d282aa8ebb7281048b90a77d3b22860c, type: 3}
+  - ciWeiTuSe: {fileID: 2800000, guid: f554c9e335492d846b8f05f3a850bfb1, type: 3}
+  - ciWeiWuTuSe: {fileID: 2800000, guid: 56cdd68402338cd4f83a58efd43859c6, type: 3}
+  - daXiangTuSe: {fileID: 2800000, guid: 2778125611739c24d91dce358412eb71, type: 3}
+  - daXiangWuTuSe: {fileID: 2800000, guid: 663e3346a987ca64083a32365b227594, type: 3}
+  - duJiaoShouTuSe: {fileID: 2800000, guid: 916d4c91e62e9a94aa450db8ea115c7e, type: 3}
+  - duJiaoShouWuTuSe: {fileID: 2800000, guid: 6d190e4454e7cec48aa1b3e9cde82028, type: 3}
+  - houZiTuSe: {fileID: 2800000, guid: ebe65e3f4bb642246be21fe98fb03d1b, type: 3}
+  - houZiWuTuSe: {fileID: 2800000, guid: 8fc948a0726dd0a449a47f793e9d3ec7, type: 3}
+  - huLiTuSe: {fileID: 2800000, guid: 51c9e0d6008711f48a046fa2eca702e3, type: 3}
+  - huLiWuTuSe: {fileID: 2800000, guid: fb55a3e8e938fbb4abbc390aa5f513ce, type: 3}
+  - huoLieNiaoTuSe: {fileID: 2800000, guid: 7d401cda6be26c042992dd73ebc3fc00, type: 3}
+  - huoLieNiaoWuTuSe: {fileID: 2800000, guid: 75d0ed01d7ae8194386974844842c6dc, type: 3}
+  - laoHuTuSe: {fileID: 2800000, guid: c5d0644c44f082b45969924a444e3585, type: 3}
+  - laoHuWuTuSe: {fileID: 2800000, guid: 2e46bf68751afe7458ce75adad7c8c6e, type: 3}
+  - maoTouYingTuSe: {fileID: 2800000, guid: e1a8ea611eaa6fd4f939aa578afb7299, type: 3}
+  - maoTouYingWuTuSe: {fileID: 2800000, guid: 828c8b1ff54f89046aeaf00b6996ec81, type: 3}
+  - meiHuaLuTuSe: {fileID: 2800000, guid: 6604034f2a92c0e458bf6a2b375bc05d, type: 3}
+  - meiHuaLuWuTuSe: {fileID: 2800000, guid: f25b6ec5cb79ec6468a0f9521fc96e95, type: 3}
+  - songShuTuSe: {fileID: 2800000, guid: 136eefa3f7b66404d8aad060966e955a, type: 3}
+  - songShuWuTuSe: {fileID: 2800000, guid: 550d38e60db29034baf6f4d2f1dca9c8, type: 3}
+  - xiongTuSe: {fileID: 2800000, guid: 0974830d0e9d59e46b4d8d611ed29a62, type: 3}
+  - xiongWuTuSe: {fileID: 2800000, guid: 9df38029e29dc35438257130e81f7093, type: 3}
+  - jieTuTest: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

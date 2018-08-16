@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: c43821580c468e041977566f84c10336
+timeCreated: 1447925015
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group17
+    100002: group24
+    100004: joint40
+    100006: joint41
+    100008: joint42
+    100010: joint43
+    100012: joint44
+    100014: joint45
+    100016: joint46
+    100018: joint47
+    100020: joint48
+    100022: joint49
+    100024: joint50
+    100026: joint51
+    100028: joint52
+    100030: joint53
+    100032: joint57
+    100034: joint58
+    100036: joint59
+    100038: joint60
+    100040: joint61
+    100042: joint62
+    100044: joint63
+    100046: joint64
+    100048: joint65
+    100050: joint66
+    100052: joint67
+    100054: joint68
+    100056: joint69
+    100058: joint70
+    100060: joint71
+    100062: joint72
+    100064: joint73
+    100066: joint74
+    100068: joint75
+    100070: joint76
+    100072: joint77
+    100074: joint78
+    100076: joint79
+    100078: joint80
+    100080: nurbsCircle10
+    100082: nurbsCircle11
+    100084: STCS_bihu_ani
+    100086: STCS_bihu_con
+    100088: STCS_bihu_MD1
+    100090: STCS_bihu_MD:bihu:pCylinder2
+    100092: STCS_bihu_MD:bihu:pCylinder3
+    100094: STCS_bihu_MD:bihu:polySurface3
+    100096: STCS_bihu_MD:bihu:polySurface4
+    100098: STCS_bihu_MD:biyan_down
+    100100: STCS_bihu_MD:biyan_up
+    100102: STCS_bihu_MD:body
+    100104: //RootNode
+    400000: group17
+    400002: group24
+    400004: joint40
+    400006: joint41
+    400008: joint42
+    400010: joint43
+    400012: joint44
+    400014: joint45
+    400016: joint46
+    400018: joint47
+    400020: joint48
+    400022: joint49
+    400024: joint50
+    400026: joint51
+    400028: joint52
+    400030: joint53
+    400032: joint57
+    400034: joint58
+    400036: joint59
+    400038: joint60
+    400040: joint61
+    400042: joint62
+    400044: joint63
+    400046: joint64
+    400048: joint65
+    400050: joint66
+    400052: joint67
+    400054: joint68
+    400056: joint69
+    400058: joint70
+    400060: joint71
+    400062: joint72
+    400064: joint73
+    400066: joint74
+    400068: joint75
+    400070: joint76
+    400072: joint77
+    400074: joint78
+    400076: joint79
+    400078: joint80
+    400080: nurbsCircle10
+    400082: nurbsCircle11
+    400084: STCS_bihu_ani
+    400086: STCS_bihu_con
+    400088: STCS_bihu_MD1
+    400090: STCS_bihu_MD:bihu:pCylinder2
+    400092: STCS_bihu_MD:bihu:pCylinder3
+    400094: STCS_bihu_MD:bihu:polySurface3
+    400096: STCS_bihu_MD:bihu:polySurface4
+    400098: STCS_bihu_MD:biyan_down
+    400100: STCS_bihu_MD:biyan_up
+    400102: STCS_bihu_MD:body
+    400104: //RootNode
+    2300000: STCS_bihu_MD:bihu:pCylinder2
+    2300002: STCS_bihu_MD:bihu:pCylinder3
+    2300004: STCS_bihu_MD:bihu:polySurface3
+    2300006: STCS_bihu_MD:bihu:polySurface4
+    2300008: STCS_bihu_MD:biyan_down
+    2300010: STCS_bihu_MD:biyan_up
+    3300000: STCS_bihu_MD:bihu:pCylinder2
+    3300002: STCS_bihu_MD:bihu:pCylinder3
+    3300004: STCS_bihu_MD:bihu:polySurface3
+    3300006: STCS_bihu_MD:bihu:polySurface4
+    3300008: STCS_bihu_MD:biyan_down
+    3300010: STCS_bihu_MD:biyan_up
+    4300000: STCS_bihu_MD:body
+    4300002: STCS_bihu_MD:bihu:pCylinder2
+    4300004: STCS_bihu_MD:bihu:pCylinder3
+    4300006: STCS_bihu_MD:biyan_down
+    4300008: STCS_bihu_MD:bihu:polySurface3
+    4300010: STCS_bihu_MD:bihu:polySurface4
+    4300012: STCS_bihu_MD:biyan_up
+    7400000: dj_0
+    7400002: hd_0
+    11100000: //RootNode
+    13700000: STCS_bihu_MD:body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_bihu_ani
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:bihu:pCylinder2
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:bihu:pCylinder2/STCS_bihu_MD:bihu:pCylinder3
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:bihu:polySurface3
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:bihu:polySurface3/STCS_bihu_MD:bihu:polySurface4
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:biyan_down
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:biyan_up
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/joint45
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63/joint64
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63/joint64/joint65
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63/joint64/joint65/joint69
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63/joint64/joint65/joint70
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63/joint64/joint65/joint71
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66/joint67
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66/joint67/joint68
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66/joint67/joint68/joint72
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66/joint67/joint68/joint73
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66/joint67/joint68/joint74
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48/joint49
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48/joint49/joint50
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48/joint49/joint50/joint51
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48/joint49/joint50/joint51/joint52
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57/joint58
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57/joint58/joint59
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57/joint58/joint59/joint78
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57/joint58/joint59/joint79
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57/joint58/joint59/joint80
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60/joint61
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60/joint61/joint62
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60/joint61/joint62/joint75
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60/joint61/joint62/joint76
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60/joint61/joint62/joint77
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_MD1
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_MD1/STCS_bihu_MD:body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 205
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STCS_bihu_ani
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:bihu:pCylinder2
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:bihu:pCylinder2/STCS_bihu_MD:bihu:pCylinder3
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:bihu:polySurface3
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:bihu:polySurface3/STCS_bihu_MD:bihu:polySurface4
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:biyan_down
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/group24/STCS_bihu_MD:biyan_up
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint43/joint44/joint45
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63/joint64
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63/joint64/joint65
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63/joint64/joint65/joint69
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63/joint64/joint65/joint70
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint63/joint64/joint65/joint71
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66/joint67
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66/joint67/joint68
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66/joint67/joint68/joint72
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66/joint67/joint68/joint73
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint40/joint41/joint42/joint66/joint67/joint68/joint74
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48/joint49
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48/joint49/joint50
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48/joint49/joint50/joint51
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48/joint49/joint50/joint51/joint52
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57/joint58
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57/joint58/joint59
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57/joint58/joint59/joint78
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57/joint58/joint59/joint79
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint57/joint58/joint59/joint80
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60/joint61
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60/joint61/joint62
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60/joint61/joint62/joint75
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60/joint61/joint62/joint76
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_con/nurbsCircle11/group17/nurbsCircle10/joint46/joint60/joint61/joint62/joint77
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_MD1
+        weight: 1
+      - path: STCS_bihu_ani/STCS_bihu_MD1/STCS_bihu_MD:body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

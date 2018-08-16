@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 93fcf76ee17ec984ca52cda6f2c2fc49
+timeCreated: 1447913754
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: aa:group1
+    100002: aa:joint1
+    100004: aa:joint10
+    100006: aa:joint11
+    100008: aa:joint12
+    100010: aa:joint13
+    100012: aa:joint14
+    100014: aa:joint15
+    100016: aa:joint16
+    100018: aa:joint17
+    100020: aa:joint18
+    100022: aa:joint19
+    100024: aa:joint2
+    100026: aa:joint3
+    100028: aa:joint4
+    100030: aa:joint5
+    100032: aa:joint6
+    100034: aa:joint7
+    100036: aa:joint8
+    100038: aa:joint9
+    100040: aa:MD_STCS_waixingren_02_MD
+    100042: aa:nurbsCircle1
+    100044: aa:STCS_waixingren_02_MD
+    100046: aa:transform1
+    100048: joint43
+    100050: joint44
+    100052: //RootNode
+    100054: aa1:STCS_waixingren_02_MD
+    100056: group
+    400000: aa:group1
+    400002: aa:joint1
+    400004: aa:joint10
+    400006: aa:joint11
+    400008: aa:joint12
+    400010: aa:joint13
+    400012: aa:joint14
+    400014: aa:joint15
+    400016: aa:joint16
+    400018: aa:joint17
+    400020: aa:joint18
+    400022: aa:joint19
+    400024: aa:joint2
+    400026: aa:joint3
+    400028: aa:joint4
+    400030: aa:joint5
+    400032: aa:joint6
+    400034: aa:joint7
+    400036: aa:joint8
+    400038: aa:joint9
+    400040: aa:MD_STCS_waixingren_02_MD
+    400042: aa:nurbsCircle1
+    400044: aa:STCS_waixingren_02_MD
+    400046: aa:transform1
+    400048: joint43
+    400050: joint44
+    400052: //RootNode
+    400054: aa1:STCS_waixingren_02_MD
+    400056: group
+    4300000: aa:MD_STCS_waixingren_02_MD
+    7400000: dj_0
+    7400002: hd_0
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: aa:MD_STCS_waixingren_02_MD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dj_0
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 110
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aa:group1
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint12
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint12/aa:joint13
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint12/aa:joint13/aa:joint14
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint12/aa:joint13/aa:joint14/aa:joint15
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint16
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint16/aa:joint17
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint16/aa:joint17/aa:joint18
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint16/aa:joint17/aa:joint18/aa:joint19
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1/aa:joint2
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1/aa:joint2/aa:joint3
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1/aa:joint2/aa:joint3/aa:joint4
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1/aa:joint2/aa:joint3/aa:joint4/aa:joint5
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1/aa:joint2/aa:joint3/aa:joint4/aa:joint5/aa:joint6
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint7
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint7/aa:joint8
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint7/aa:joint8/aa:joint9
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint7/aa:joint8/aa:joint9/aa:joint10
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint7/aa:joint8/aa:joint9/aa:joint10/aa:joint11
+        weight: 1
+      - path: aa:STCS_waixingren_02_MD
+        weight: 1
+      - path: aa:STCS_waixingren_02_MD/aa:MD_STCS_waixingren_02_MD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hd_0
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 110
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aa:group1
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint12
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint12/aa:joint13
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint12/aa:joint13/aa:joint14
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint12/aa:joint13/aa:joint14/aa:joint15
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint16
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint16/aa:joint17
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint16/aa:joint17/aa:joint18
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/aa:joint16/aa:joint17/aa:joint18/aa:joint19
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1/aa:joint2
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1/aa:joint2/aa:joint3
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1/aa:joint2/aa:joint3/aa:joint4
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1/aa:joint2/aa:joint3/aa:joint4/aa:joint5
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint1/aa:joint2/aa:joint3/aa:joint4/aa:joint5/aa:joint6
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint7
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint7/aa:joint8
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint7/aa:joint8/aa:joint9
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint7/aa:joint8/aa:joint9/aa:joint10
+        weight: 1
+      - path: aa:group1/aa:nurbsCircle1/aa:transform1/joint43/joint44/aa:joint7/aa:joint8/aa:joint9/aa:joint10/aa:joint11
+        weight: 1
+      - path: aa:STCS_waixingren_02_MD
+        weight: 1
+      - path: aa:STCS_waixingren_02_MD/aa:MD_STCS_waixingren_02_MD
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
