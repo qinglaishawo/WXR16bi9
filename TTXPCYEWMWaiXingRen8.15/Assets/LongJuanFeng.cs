@@ -11,6 +11,7 @@ public class LongJuanFeng : MonoBehaviour {
     void Start () {
         LongJuanFengs.SetActive(false);
         LongJuanFengCount = LongJuanFengs.transform.childCount;
+        //StartCoroutine(StartAppear());
     }
 
     // Update is called once per frame
@@ -72,6 +73,8 @@ public class LongJuanFeng : MonoBehaviour {
         LongJuanFengImage.SetActive(false);
         yield return new WaitForSeconds(3);
         LongJuanFengs.SetActive(true);
+        Manager.isStartLongJuanFeng = true;
+        Manager.TimerState = 3;
     }
 
     private void ReStart()

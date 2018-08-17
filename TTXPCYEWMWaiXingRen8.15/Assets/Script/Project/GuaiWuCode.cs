@@ -18,7 +18,7 @@ public class GuaiWuCode : MonoBehaviour
     public GameObject manager;
     public GameObject GuaiWuImage;
     private int GuaiWu1ClickIndex;
-   
+    public ParticleSystem XiaoShiTeXiao;
     // Use this for initialization
     void Start()
     {
@@ -32,7 +32,7 @@ public class GuaiWuCode : MonoBehaviour
             GuaiWus[i].transform.localScale=new Vector3(0,0,0);
         }
         //gai
-        StartCoroutine(StartAppear());
+        //StartCoroutine(StartAppear());
     }
 
     public IEnumerator StartAppear()
@@ -76,12 +76,7 @@ public class GuaiWuCode : MonoBehaviour
                 thisObj.transform.GetComponent<Animation>()["GuaiWuHengYiAnimation"].normalizedSpeed = 0;
                 thisObj.transform.GetComponent<Animation>().Play("ImageScaleAnimation");
                 StartCoroutine(TempWait(thisObj.transform.GetComponent<Animation>()["GuaiWuHengYiAnimation"].normalizedTime, thisObj));
-                thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount= thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount-0.33f;
-                if (GuaiWu1ClickIndex == 3)
-                {
-                    thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount = 0;
-                    print("被打死");
-                }
+                thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount= thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount-0.33f;  
             }
         }
     }
@@ -93,6 +88,26 @@ public class GuaiWuCode : MonoBehaviour
         obj.transform.GetComponent<Animation>()["GuaiWuHengYiAnimation"].normalizedTime = f;
         obj.transform.GetComponent<Animation>()["GuaiWuHengYiAnimation"].normalizedSpeed = 1;
         obj.transform.GetComponent<Animation>().Play("GuaiWuHengYiAnimation");
+        if (GuaiWu1ClickIndex == 3)
+        {
+            obj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount = 0;
+            print("被打死");
+            obj.transform.localScale = new Vector3(0, 0, 0);
+            XiaoShiTeXiao.Play();
+            if (CurGuaiCount == 8)
+            {
+                print("正真完成,手动怪物消失");
+                AnimalAppear();
+                Manager.isStartGuaiWu = false;
+                Manager.TimerState = 2;
+                Manager.Timer = Time.time;            
+            }
+            else
+            {
+                yield return new WaitForSeconds(1.5f);
+                ObjAppear(obj, 1);
+            }          
+        }
     }
 
     private void SuiJiF(Image image)
@@ -114,20 +129,14 @@ public class GuaiWuCode : MonoBehaviour
             {
                 GuaiWu1ClickIndex = 0;
             }
+            obj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount =1;
             SuiJiF(obj.transform.GetChild(0).GetComponent<Image>());
             obj.transform.localScale = new Vector3(0, 0, 0);
             obj.SetActive(true);
             obj.GetComponent<XiaoGuaiWuFangDa>().isStartFangDa = true;
             obj.GetComponent<XiaoGuaiWuFangDa>().isCanClick = false;
             CurGuaiCount--;
-            if (CurGuaiCount ==8)
-            {
-                print("正真完成,手动怪物消失");
-                AnimalAppear();
-                Manager.isStartGuaiWu = false;
-                Manager.TimerState = 2;
-                Manager.Timer = Time.time;
-            }
+            
         }
     }
 
