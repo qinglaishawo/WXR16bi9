@@ -27,9 +27,9 @@ public class GuaiWuCode : MonoBehaviour
         {
             TempSprites.Add(Sprites[i]);
         }
-        for(int i=0;i< GuaiWus.Count; i++)
+        for (int i = 0; i < GuaiWus.Count; i++)
         {
-            GuaiWus[i].transform.localScale=new Vector3(0,0,0);
+            GuaiWus[i].transform.localScale = new Vector3(0, 0, 0);
         }
         //gai
         //StartCoroutine(StartAppear());
@@ -44,7 +44,7 @@ public class GuaiWuCode : MonoBehaviour
         yield return new WaitForSeconds(3);
         for (int i = 0; i < GuaiWus.Count; i++)
         {
-            ObjAppear(GuaiWus[i],i+1);
+            ObjAppear(GuaiWus[i], i + 1);
         }
         Manager.TimerState = 1;
         Manager.isStartGuaiWu = true;
@@ -68,7 +68,7 @@ public class GuaiWuCode : MonoBehaviour
 
     public void Button1(GameObject thisObj)
     {
-        if (thisObj.GetComponent<XiaoGuaiWuFangDa>().isCanClick)
+        if (thisObj.GetComponent<XiaoGuaiWuFangDa>().isCanClick && !thisObj.GetComponent<Animation>().IsPlaying("ImageScaleAnimation"))
         {
             if (Manager.isStartGuaiWu && Manager.TimerState == 1)
             {
@@ -76,12 +76,12 @@ public class GuaiWuCode : MonoBehaviour
                 thisObj.transform.GetComponent<Animation>()["GuaiWuHengYiAnimation"].normalizedSpeed = 0;
                 thisObj.transform.GetComponent<Animation>().Play("ImageScaleAnimation");
                 StartCoroutine(TempWait(thisObj.transform.GetComponent<Animation>()["GuaiWuHengYiAnimation"].normalizedTime, thisObj));
-                thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount= thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount-0.33f;  
+                thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount = thisObj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount - 0.33f;
             }
         }
     }
 
-    IEnumerator TempWait(float f,GameObject obj)
+    IEnumerator TempWait(float f, GameObject obj)
     {
         yield return new WaitForSeconds(0.4f);
         obj.transform.GetComponent<Animation>().Stop();
@@ -100,13 +100,13 @@ public class GuaiWuCode : MonoBehaviour
                 AnimalAppear();
                 Manager.isStartGuaiWu = false;
                 Manager.TimerState = 2;
-                Manager.Timer = Time.time;            
+                Manager.Timer = Time.time;
             }
             else
             {
                 yield return new WaitForSeconds(1.5f);
                 ObjAppear(obj, 1);
-            }          
+            }
         }
     }
 
@@ -121,7 +121,7 @@ public class GuaiWuCode : MonoBehaviour
         }
     }
 
-    private void ObjAppear(GameObject obj,int index)
+    private void ObjAppear(GameObject obj, int index)
     {
         if (CurGuaiCount != 8)
         {
@@ -129,14 +129,14 @@ public class GuaiWuCode : MonoBehaviour
             {
                 GuaiWu1ClickIndex = 0;
             }
-            obj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount =1;
+            obj.transform.GetChild(1).GetChild(0).GetComponent<Image>().fillAmount = 1;
             SuiJiF(obj.transform.GetChild(0).GetComponent<Image>());
             obj.transform.localScale = new Vector3(0, 0, 0);
             obj.SetActive(true);
             obj.GetComponent<XiaoGuaiWuFangDa>().isStartFangDa = true;
             obj.GetComponent<XiaoGuaiWuFangDa>().isCanClick = false;
             CurGuaiCount--;
-            
+
         }
     }
 
@@ -182,5 +182,10 @@ public class GuaiWuCode : MonoBehaviour
         isStart = false;
         CurGuaiCount = 15;
         LastInt = 0;
+        TempSprites.Clear();
+        for (int i = 0; i < Sprites.Count; i++)
+        {
+            TempSprites.Add(Sprites[i]);
+        }
     }
 }

@@ -83,7 +83,7 @@ public class Manager : MonoBehaviour {
             }
         }
 
-        if(Time.time-Timer>=180&& isStartGuaiWu == false&& TimerState==0)
+        if(Time.time-Timer>=10&& isStartGuaiWu == false&& TimerState==0)
         {
             print("怪物出现");
             TimerState = 1;
@@ -92,7 +92,7 @@ public class Manager : MonoBehaviour {
             Timer = Time.time;
             GuaiWuImage.SetActive(true);
         }
-        if(TimerState == 2&& isStartLongJuanFeng==false&& Time.time - Timer >= 180)
+        if(TimerState == 2&& isStartLongJuanFeng==false&& Time.time - Timer >= 10)
         {
             print("龙卷风出现");
             TimerState = 3;
